@@ -35,13 +35,11 @@ function sendQuestion(userId) {
     const state = userStates.get(userId);
     if (!state) return;
 
+    // ❗ Eski timeoutni tozalash
     if (state.timeout) {
         clearTimeout(state.timeout);
         state.timeout = null;
     }
-
-    // Har safar savol yuborilganda active true qilamiz
-    state.active = true;
 
     const questionObj = QUESTIONS[state.index];
     if (!questionObj) return showResult(userId);
@@ -61,33 +59,31 @@ function sendQuestion(userId) {
     const questionText = `— ${questionObj.savol} 🧠 ${current}/${total} | ✅ ${correctSoFar}/${state.index}`;
 
     bot.sendPoll(userId, questionText, choices, options).then(pollMsg => {
+        // ✅ Yangi timeout ni saqlaymiz
+      
+        state.timeout = null;
         const timeout = setTimeout(() => {
-            // Agar savol hali ham active bo‘lsa javob qo‘shamiz, aks holda timeoutni ishlatmaymiz
-            if (state.active) {
-                state.answers.push({
-                    selected: null,
-                    correct: options.correct_option_id,
-                    is_correct: false
-                });
-                state.index++;
-                bot.sendMessage(userId, '⏰ Javob bermadingiz. Keyingi savolga o‘tamiz.');
-                sendQuestion(userId);
-            }
+            state.answers.push({
+                selected: null,
+                correct: options.correct_option_id,
+                is_correct: false
+            });
+            state.index++;
+            bot.sendMessage(userId, '⏰ Javob bermadingiz. Keyingi savolga o‘tamiz.');
+            sendQuestion(userId);
         }, 31000);
 
-        state.timeout = timeout;
+        state.timeout = timeout; // ❗ saqlaymiz
     });
 }
 
+// Poll natijasi
 bot.on('poll_answer', (pollAnswer) => {
     const userId = pollAnswer.user.id;
     const state = userStates.get(userId);
-    if (!state || !state.active) return;  // faqat active holatda javob qabul qilamiz
+    if (!state) return;
 
-    clearTimeout(state.timeout);
-    state.timeout = null;
-
-    state.active = false; // Javob kelganidan so‘ng active ni o‘chirib qo‘yamiz
+    clearTimeout(state.timeout); // timeoutni to‘xtatamiz
 
     const currentQuestion = QUESTIONS[state.index];
     const correctIndex = currentQuestion.javob.findIndex(j => j.isTrue);
