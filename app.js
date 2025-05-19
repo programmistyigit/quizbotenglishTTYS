@@ -123,7 +123,7 @@ bot.onText(/\/stop/, (msg) => {
 });
 
 bot.on('message', (msg) => {
-    const text = msg.text?.toLowerCase();
+    const text = msg.text
     const userId = msg.from.id;
     bot.sendMessage(userId, text+'Sizda hozircha aktiv test yo‘q.');
 
