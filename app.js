@@ -18,8 +18,16 @@ bot.onText(/\/start/, (msg) => {
         answers: [],
         timeout: null
     });
-
-    sendQuestion(userId);
+    bot.sendMessage(userId, 'Test boshlandi! Quyidagi tugmalar yordamida testni to‘xtatishingiz yoki qayta boshlashingiz mumkin.', {
+        reply_markup: {
+            keyboard: [
+                ['🛑 To‘xtatish', '🔁 Qaytadan boshlash']
+            ],
+            resize_keyboard: true
+        }
+    }).then(() => {
+        sendQuestion(userId);
+    });
 });
 
 // Savol yuborish
@@ -87,21 +95,6 @@ bot.on('poll_answer', (pollAnswer) => {
     sendQuestion(userId);
 });
 
-// Restart
-bot.on('message', (msg) => {
-    if (msg.text === '🔁 Qaytadan boshlash') {
-        userStates.delete(msg.from.id);
-        bot.sendMessage(msg.chat.id, 'Test qaytadan boshlandi!');
-        userStates.set(msg.from.id, {
-            index: 0,
-            score: 0,
-            total: QUESTIONS.length,
-            answers: [],
-            timeout: null
-        });
-        sendQuestion(msg.from.id);
-    }
-});
 
 // Natija
 function showResult(userId) {
@@ -116,3 +109,47 @@ function showResult(userId) {
         }
     });
 }
+
+bot.onText(/\/stop/, (msg) => {
+    const userId = msg.from.id;
+    const state = userStates.get(userId);
+    if (state) {
+        if (state.timeout) clearTimeout(state.timeout);
+        userStates.delete(userId);
+        bot.sendMessage(userId, '🛑 Test to‘xtatildi. Qayta boshlash uchun /start yozing.');
+    } else {
+        bot.sendMessage(userId, 'Sizda hozircha aktiv test yo‘q.');
+    }
+});
+
+bot.on('message', (msg) => {
+    const text = msg.text?.toLowerCase();
+    const userId = msg.from.id;
+
+    // ✅ Testni to‘xtatish
+    if (text === 'stop') {
+        const state = userStates.get(userId);
+        if (state) {
+            if (state.timeout) clearTimeout(state.timeout);
+            userStates.delete(userId);
+            bot.sendMessage(userId, '🛑 Test to‘xtatildi. Qayta boshlash uchun /start yozing.');
+        } else {
+            bot.sendMessage(userId, 'Sizda hozircha aktiv test yo‘q.');
+        }
+        return;
+    }
+
+    // 🔁 Qayta boshlash
+    if (text === '🔁 Qaytadan boshlash') {
+        userStates.delete(userId);
+        bot.sendMessage(userId, 'Test qayta boshlandi!');
+        userStates.set(userId, {
+            index: 0,
+            score: 0,
+            total: QUESTIONS.length,
+            answers: [],
+            timeout: null
+        });
+        sendQuestion(userId);
+    }
+});
