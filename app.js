@@ -60,6 +60,8 @@ function sendQuestion(userId) {
 
     bot.sendPoll(userId, questionText, choices, options).then(pollMsg => {
         // ✅ Yangi timeout ni saqlaymiz
+      
+        state.timeout = null;
         const timeout = setTimeout(() => {
             state.answers.push({
                 selected: null,
@@ -141,15 +143,20 @@ bot.on('message', (msg) => {
 
     // 🔁 Qayta boshlash
     if (text == '🔁 Qaytadan boshlash') {
-        userStates.delete(userId);
-        bot.sendMessage(userId, 'Test qayta boshlandi!');
-        userStates.set(userId, {
-            index: 0,
-            score: 0,
-            total: QUESTIONS.length,
-            answers: [],
-            timeout: null
-        });
-        sendQuestion(userId);
+    const oldState = userStates.get(userId);
+    if (oldState && oldState.timeout) {
+        clearTimeout(oldState.timeout); // eski timeoutni tozalaymiz
     }
+
+    userStates.delete(userId);
+    bot.sendMessage(userId, 'Test qayta boshlandi!');
+    userStates.set(userId, {
+        index: 0,
+        score: 0,
+        total: QUESTIONS.length,
+        answers: [],
+        timeout: null
+    });
+    sendQuestion(userId);
+}
 });
