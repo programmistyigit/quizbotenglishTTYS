@@ -1,0 +1,893 @@
+[
+    {
+        "savol": "Betty … the tennis now.",
+        "javob": [
+            {"value": "talk", "isTrue": false},
+            {"value": "go", "isTrue": false},
+            {"value": "are playing", "isTrue": false},
+            {"value": "is playing", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "John … an e-mail at the moment.",
+        "javob": [
+            {"value": "do", "isTrue": false},
+            {"value": "wrote", "isTrue": false},
+            {"value": "go", "isTrue": false},
+            {"value": "is writing", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "I was so … watching that movie that I fell asleep twice.",
+        "javob": [
+            {"value": "excited", "isTrue": false},
+            {"value": "cheerful", "isTrue": false},
+            {"value": "impressed", "isTrue": false},
+            {"value": "bored", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "I got drunk and made a fool of myself at the party. Now I feel … .",
+        "javob": [
+            {"value": "angry", "isTrue": false},
+            {"value": "surprised", "isTrue": false},
+            {"value": "embarrassed", "isTrue": true},
+            {"value": "insulted", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "I don’t understand this homework. I’m extremely … .",
+        "javob": [
+            {"value": "interesting", "isTrue": false},
+            {"value": "smart", "isTrue": false},
+            {"value": "confusing", "isTrue": false},
+            {"value": "confused", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "Alex did not … last weekend.",
+        "javob": [
+            {"value": "worked", "isTrue": false},
+            {"value": "works", "isTrue": false},
+            {"value": "working", "isTrue": false},
+            {"value": "work", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "My uncle … a yacht last week.",
+        "javob": [
+            {"value": "buyed", "isTrue": false},
+            {"value": "did buy", "isTrue": false},
+            {"value": "bought", "isTrue": true},
+            {"value": "boughted", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "It was hot, so I … the window.",
+        "javob": [
+            {"value": "did open", "isTrue": false},
+            {"value": "opens", "isTrue": false},
+            {"value": "opened", "isTrue": true},
+            {"value": "opening", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Most students think that Mathematics is … than other subjects.",
+        "javob": [
+            {"value": "more diligent", "isTrue": false},
+            {"value": "more beautiful", "isTrue": false},
+            {"value": "more expensive", "isTrue": false},
+            {"value": "more difficult", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "My room is … than Bill's place because I clean it more often than him.",
+        "javob": [
+            {"value": "cleaner", "isTrue": true},
+            {"value": "dirtier", "isTrue": false},
+            {"value": "smaller", "isTrue": false},
+            {"value": "bigger", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "George is very … . I rely on him.",
+        "javob": [
+            {"value": "passive", "isTrue": false},
+            {"value": "lazy", "isTrue": false},
+            {"value": "reliable", "isTrue": true},
+            {"value": "kind", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "My friend is … . She tells me what clothes I should wear and which restaurant I should eat at.",
+        "javob": [
+            {"value": "shy", "isTrue": false},
+            {"value": "bossy", "isTrue": true},
+            {"value": "moody", "isTrue": false},
+            {"value": "stubborn", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "I am … about my ability to do the job. I believe I'll do it successfully.",
+        "javob": [
+            {"value": "moody", "isTrue": false},
+            {"value": "cry", "isTrue": false},
+            {"value": "confident", "isTrue": true},
+            {"value": "stubborn", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "My sister is so … . She sings songs and smiles with happiness in the mornings.",
+        "javob": [
+            {"value": "cheerful", "isTrue": true},
+            {"value": "moody", "isTrue": false},
+            {"value": "unsociable", "isTrue": false},
+            {"value": "aggressive", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "A: If you like, I can do some shopping for you. B: It is very … of you.",
+        "javob": [
+            {"value": "friendly", "isTrue": false},
+            {"value": "sociable", "isTrue": false},
+            {"value": "bossy", "isTrue": false},
+            {"value": "kind", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "Rob's very … . He likes parties and meeting new people.",
+        "javob": [
+            {"value": "sociable", "isTrue": true},
+            {"value": "brave", "isTrue": false},
+            {"value": "shy", "isTrue": false},
+            {"value": "cruel", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "She's not a … person and she always arrives late at meetings.",
+        "javob": [
+            {"value": "friendly", "isTrue": false},
+            {"value": "calm", "isTrue": false},
+            {"value": "bossy", "isTrue": false},
+            {"value": "punctual", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "Sam is very ... . He mostly gets perfect scores in Science and English.",
+        "javob": [
+            {"value": "lazy", "isTrue": false},
+            {"value": "stupid", "isTrue": false},
+            {"value": "smart", "isTrue": true},
+            {"value": "kind", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "A person who is physically powerful is…",
+        "javob": [
+            {"value": "strong", "isTrue": true},
+            {"value": "patient", "isTrue": false},
+            {"value": "clever", "isTrue": false},
+            {"value": "weak", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Well-dressed, clean and tidy person.",
+        "javob": [
+            {"value": "short", "isTrue": false},
+            {"value": "smart", "isTrue": true},
+            {"value": "muscular", "isTrue": false},
+            {"value": "long", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "This is … last time I am warning you.",
+        "javob": [
+            {"value": "an", "isTrue": false},
+            {"value": "a", "isTrue": false},
+            {"value": "The", "isTrue": true},
+            {"value": "-", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Here is … knife, and there is … envelope.",
+        "javob": [
+            {"value": "a/the", "isTrue": false},
+            {"value": "an/a", "isTrue": true},
+            {"value": "a/a", "isTrue": false},
+            {"value": "a/an", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "My brother and sister … playing tennis at 11am yesterday.",
+        "javob": [
+            {"value": "are", "isTrue": false},
+            {"value": "were", "isTrue": true},
+            {"value": "will", "isTrue": false},
+            {"value": "is", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "We … sleeping when the police came.",
+        "javob": [
+            {"value": "won't", "isTrue": false},
+            {"value": "will", "isTrue": false},
+            {"value": "weren't", "isTrue": true},
+            {"value": "was", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "... is your specialty?",
+        "javob": [
+            {"value": "why", "isTrue": false},
+            {"value": "whose", "isTrue": false},
+            {"value": "What", "isTrue": true},
+            {"value": "whom", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "A person that works with the money and accounts of a company.",
+        "javob": [
+            {"value": "Plumber", "isTrue": false},
+            {"value": "Accountant", "isTrue": true},
+            {"value": "Nurse", "isTrue": false},
+            {"value": "Teacher", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "... do you learn English? Because, I want to study abroad.",
+        "javob": [
+            {"value": "which", "isTrue": false},
+            {"value": "Why", "isTrue": true},
+            {"value": "how many", "isTrue": false},
+            {"value": "when", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "I don’t like this film. It’s… .",
+        "javob": [
+            {"value": "bored", "isTrue": false},
+            {"value": "boring", "isTrue": true},
+            {"value": "bore", "isTrue": false},
+            {"value": "will bore", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Don’t be … . The dog won’t bite.",
+        "javob": [
+            {"value": "frightened", "isTrue": true},
+            {"value": "frightening", "isTrue": false},
+            {"value": "was frightened", "isTrue": false},
+            {"value": "were frightened", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "I … my mobile last week.",
+        "javob": [
+            {"value": "lose", "isTrue": false},
+            {"value": "lost", "isTrue": true},
+            {"value": "has lost", "isTrue": false},
+            {"value": "have lost", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "I … to the school after lunch yesterday.",
+        "javob": [
+            {"value": "go", "isTrue": false},
+            {"value": "gone", "isTrue": false},
+            {"value": "went", "isTrue": true},
+            {"value": "goes", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "I … shopping last Saturday.",
+        "javob": [
+            {"value": "goes", "isTrue": false},
+            {"value": "went", "isTrue": true},
+            {"value": "go", "isTrue": false},
+            {"value": "gone", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "I … home from school yesterday.",
+        "javob": [
+            {"value": "walked", "isTrue": true},
+            {"value": "walk", "isTrue": false},
+            {"value": "have walked", "isTrue": false},
+            {"value": "walking", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "My teacher … us lots of homework last weekend.",
+        "javob": [
+            {"value": "give", "isTrue": false},
+            {"value": "have given", "isTrue": false},
+            {"value": "has given", "isTrue": false},
+            {"value": "gave", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "It … hot and sunny yesterday.",
+        "javob": [
+            {"value": "were", "isTrue": false},
+            {"value": "is", "isTrue": false},
+            {"value": "are", "isTrue": false},
+            {"value": "was", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "I … up before seven o’clock in the morning yesterday.",
+        "javob": [
+            {"value": "get", "isTrue": false},
+            {"value": "got", "isTrue": true},
+            {"value": "has gotten", "isTrue": false},
+            {"value": "have gotten", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "I … a football match last night.",
+        "javob": [
+            {"value": "shall watch", "isTrue": false},
+            {"value": "watched", "isTrue": true},
+            {"value": "will watch", "isTrue": false},
+            {"value": "watch", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "We … volleyball last Saturday.",
+        "javob": [
+            {"value": "played", "isTrue": true},
+            {"value": "plays", "isTrue": false},
+            {"value": "play", "isTrue": false},
+            {"value": "will play", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "She … with Tom last Sunday.",
+        "javob": [
+            {"value": "will dance", "isTrue": false},
+            {"value": "danced", "isTrue": true},
+            {"value": "dance", "isTrue": false},
+            {"value": "dancing", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "How is called street advertisement?",
+        "javob": [
+            {"value": "Billboard", "isTrue": true},
+            {"value": "book leaf", "isTrue": false},
+            {"value": "news", "isTrue": false},
+            {"value": "paper", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Mukhlisa … play the piano very well.",
+        "javob": [
+            {"value": "Can", "isTrue": true},
+            {"value": "need", "isTrue": false},
+            {"value": "to be", "isTrue": false},
+            {"value": "had", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "In our institute students … wear a uniform.",
+        "javob": [
+            {"value": "to be", "isTrue": false},
+            {"value": "was", "isTrue": false},
+            {"value": "had", "isTrue": false},
+            {"value": "Have to", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "Drivers … stop when the traffic lights are red.",
+        "javob": [
+            {"value": "must", "isTrue": true},
+            {"value": "can", "isTrue": false},
+            {"value": "to be", "isTrue": false},
+            {"value": "may", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "We … protect our environment to create a better lifestyle.",
+        "javob": [
+            {"value": "should", "isTrue": true},
+            {"value": "can", "isTrue": false},
+            {"value": "have", "isTrue": false},
+            {"value": "are", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "What's the extreme adjective for “big”?",
+        "javob": [
+            {"value": "huge", "isTrue": true},
+            {"value": "little", "isTrue": false},
+            {"value": "more big", "isTrue": false},
+            {"value": "small", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "What's the extreme adjective for “happy”?",
+        "javob": [
+            {"value": "big", "isTrue": false},
+            {"value": "delighted", "isTrue": true},
+            {"value": "good", "isTrue": false},
+            {"value": "small", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "I’m very hungry. Extreme adjective for “hungry”?",
+        "javob": [
+            {"value": "filthy", "isTrue": false},
+            {"value": "disgusting", "isTrue": false},
+            {"value": "starving", "isTrue": true},
+            {"value": "fantastic", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "It’s a very beautiful view. Extreme adjective for “beautiful”?",
+        "javob": [
+            {"value": "fantastic", "isTrue": false},
+            {"value": "filthy", "isTrue": false},
+            {"value": "tiny", "isTrue": false},
+            {"value": "stunning", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "The film was very bad. Extreme adjective for “bad”?",
+        "javob": [
+            {"value": "starving", "isTrue": false},
+            {"value": "awful", "isTrue": true},
+            {"value": "filthy", "isTrue": false},
+            {"value": "delicious", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "I’m very tired. Extreme adjective for “tired”?",
+        "javob": [
+            {"value": "Exhausted", "isTrue": true},
+            {"value": "filthy", "isTrue": false},
+            {"value": "starving", "isTrue": false},
+            {"value": "tiny", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "How hot or cold something is ...",
+        "javob": [
+            {"value": "gravity", "isTrue": false},
+            {"value": "cloud", "isTrue": false},
+            {"value": "friction", "isTrue": false},
+            {"value": "Temperature", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "The climate of a desert is usually ... and ...",
+        "javob": [
+            {"value": "dark/wet", "isTrue": false},
+            {"value": "rainy/humid", "isTrue": false},
+            {"value": "hot/dry", "isTrue": true},
+            {"value": "wet/cold", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Lightning is ...",
+        "javob": [
+            {"value": "energy from the sun", "isTrue": false},
+            {"value": "an electrical charge released into the atmosphere", "isTrue": true},
+            {"value": "a loud noise in the atmosphere", "isTrue": false},
+            {"value": "strong wind", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Every morning my mother ... at 6 o'clock.",
+        "javob": [
+            {"value": "got up", "isTrue": false},
+            {"value": "get up", "isTrue": false},
+            {"value": "get ups", "isTrue": false},
+            {"value": "gets up", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "Do you ... milk in your tea?",
+        "javob": [
+            {"value": "like", "isTrue": true},
+            {"value": "likes", "isTrue": false},
+            {"value": "liks", "isTrue": false},
+            {"value": "liking", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "It ... a beautiful day today.",
+        "javob": [
+            {"value": "am", "isTrue": false},
+            {"value": "are", "isTrue": false},
+            {"value": "is", "isTrue": true},
+            {"value": "be", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Which sentence is in the Simple Present?",
+        "javob": [
+            {"value": "He is reading a book", "isTrue": false},
+            {"value": "He has read a book", "isTrue": false},
+            {"value": "He reads a book", "isTrue": true},
+            {"value": "He read a book", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Which negative sentence is in the Simple Present?",
+        "javob": [
+            {"value": "We does not work in a bank", "isTrue": false},
+            {"value": "We don’t work in a bank", "isTrue": true},
+            {"value": "We didn’t work in a bank", "isTrue": false},
+            {"value": "We do’nt work in a bank", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "There … a man standing on the rocks.",
+        "javob": [
+            {"value": "is", "isTrue": true},
+            {"value": "will", "isTrue": false},
+            {"value": "am", "isTrue": false},
+            {"value": "are", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "There … many rocks on the mountain.",
+        "javob": [
+            {"value": "will", "isTrue": false},
+            {"value": "is", "isTrue": false},
+            {"value": "am", "isTrue": false},
+            {"value": "are", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "There … not many plants can grow in the deserts.",
+        "javob": [
+            {"value": "am", "isTrue": false},
+            {"value": "is", "isTrue": false},
+            {"value": "will", "isTrue": false},
+            {"value": "are", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "There … a boat on the lake near the shore.",
+        "javob": [
+            {"value": "will", "isTrue": false},
+            {"value": "are", "isTrue": false},
+            {"value": "is", "isTrue": true},
+            {"value": "am", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "... ... a narrow cave and ... a lot of rocks.",
+        "javob": [
+            {"value": "there is/there are", "isTrue": true},
+            {"value": "there are/there is", "isTrue": false},
+            {"value": "there is/there is", "isTrue": false},
+            {"value": "there are/there are", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "... is a large area with lots of trees.",
+        "javob": [
+            {"value": "cave", "isTrue": false},
+            {"value": "lake", "isTrue": false},
+            {"value": "desert", "isTrue": false},
+            {"value": "forest", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "... is a large area of water with land all around it.",
+        "javob": [
+            {"value": "shallow", "isTrue": false},
+            {"value": "desert", "isTrue": false},
+            {"value": "lake", "isTrue": true},
+            {"value": "forest", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "... is a large natural rock with steep hills.",
+        "javob": [
+            {"value": "desert", "isTrue": false},
+            {"value": "cave", "isTrue": false},
+            {"value": "lake", "isTrue": false},
+            {"value": "mountain", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "... is a large area of land covered with sand.",
+        "javob": [
+            {"value": "cave", "isTrue": false},
+            {"value": "ocean", "isTrue": false},
+            {"value": "desert", "isTrue": true},
+            {"value": "mountain", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "It is very dark in this ... even the Sun is shining.",
+        "javob": [
+            {"value": "valley", "isTrue": true},
+            {"value": "land", "isTrue": false},
+            {"value": "cave", "isTrue": false},
+            {"value": "desert", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "The ... over the river is very old.",
+        "javob": [
+            {"value": "wooden bridge", "isTrue": true},
+            {"value": "land", "isTrue": false},
+            {"value": "valley", "isTrue": false},
+            {"value": "desert", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "There ... many beautiful landscapes in the world.",
+        "javob": [
+            {"value": "are", "isTrue": true},
+            {"value": "am", "isTrue": false},
+            {"value": "will", "isTrue": false},
+            {"value": "is", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "There ... lot of meadows in the valley.",
+        "javob": [
+            {"value": "are", "isTrue": true},
+            {"value": "am", "isTrue": false},
+            {"value": "is", "isTrue": false},
+            {"value": "do", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "There is ... milk in the bottle.",
+        "javob": [
+            {"value": "some", "isTrue": true},
+            {"value": "never", "isTrue": false},
+            {"value": "few", "isTrue": false},
+            {"value": "lot", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Is there ... program which you don’t like?",
+        "javob": [
+            {"value": "lots", "isTrue": false},
+            {"value": "lot", "isTrue": false},
+            {"value": "a lot", "isTrue": false},
+            {"value": "any", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "I listen ... music at home.",
+        "javob": [
+            {"value": "to", "isTrue": true},
+            {"value": "at", "isTrue": false},
+            {"value": "in", "isTrue": false},
+            {"value": "on", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "I ... go shopping last Saturday.",
+        "javob": [
+            {"value": "aren’t", "isTrue": false},
+            {"value": "didn’t", "isTrue": true},
+            {"value": "isn’t", "isTrue": false},
+            {"value": "am not", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "The ... gives me the medicine once a day.",
+        "javob": [
+            {"value": "tailor", "isTrue": false},
+            {"value": "nurse", "isTrue": true},
+            {"value": "cook", "isTrue": false},
+            {"value": "florist", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "I ... my arm when I was nine years old.",
+        "javob": [
+            {"value": "did", "isTrue": false},
+            {"value": "broke", "isTrue": true},
+            {"value": "ate", "isTrue": false},
+            {"value": "sit", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "There is snow on the ... of the mountains.",
+        "javob": [
+            {"value": "tops", "isTrue": true},
+            {"value": "bottoms", "isTrue": false},
+            {"value": "inns", "isTrue": false},
+            {"value": "middle", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "A cold wind ... ... .",
+        "javob": [
+            {"value": "was blowing", "isTrue": false},
+            {"value": "are blowing", "isTrue": false},
+            {"value": "is blowing", "isTrue": true},
+            {"value": "were blowing", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Thank you so ... for your invitation.",
+        "javob": [
+            {"value": "little", "isTrue": false},
+            {"value": "many", "isTrue": false},
+            {"value": "small", "isTrue": false},
+            {"value": "much", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "A ... film emphasizes humor.",
+        "javob": [
+            {"value": "war", "isTrue": false},
+            {"value": "action", "isTrue": false},
+            {"value": "comedy", "isTrue": true},
+            {"value": "horror", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "The purpose of ... films is to frighten people.",
+        "javob": [
+            {"value": "action", "isTrue": false},
+            {"value": "horror", "isTrue": true},
+            {"value": "war", "isTrue": false},
+            {"value": "comedy", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "... film interprets factual material.",
+        "javob": [
+            {"value": "war", "isTrue": false},
+            {"value": "documentary", "isTrue": true},
+            {"value": "action", "isTrue": false},
+            {"value": "comedy", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "... a film with a fast-moving plot and action.",
+        "javob": [
+            {"value": "comedy", "isTrue": false},
+            {"value": "war", "isTrue": false},
+            {"value": "documentary", "isTrue": false},
+            {"value": "action", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "... film is about battles and warfare.",
+        "javob": [
+            {"value": "war", "isTrue": true},
+            {"value": "action", "isTrue": false},
+            {"value": "documentary", "isTrue": false},
+            {"value": "comedy", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "... films have magic or supernatural events.",
+        "javob": [
+            {"value": "musical", "isTrue": false},
+            {"value": "fantasy", "isTrue": true},
+            {"value": "soap opera", "isTrue": false},
+            {"value": "war", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "A letter to your manager is ...",
+        "javob": [
+            {"value": "A formal letter", "isTrue": true},
+            {"value": "Semi letter", "isTrue": false},
+            {"value": "Anti letter", "isTrue": false},
+            {"value": "An informal letter", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "If you don’t depend on others, you’re ...",
+        "javob": [
+            {"value": "adventurous", "isTrue": false},
+            {"value": "dependent", "isTrue": false},
+            {"value": "independent", "isTrue": true},
+            {"value": "energetic", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "The ... wrote an article in the magazine.",
+        "javob": [
+            {"value": "baker", "isTrue": false},
+            {"value": "agent", "isTrue": false},
+            {"value": "mechanic", "isTrue": false},
+            {"value": "journalist", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "Antonym of “powerful”?",
+        "javob": [
+            {"value": "Forget", "isTrue": false},
+            {"value": "Weak", "isTrue": true},
+            {"value": "Brave", "isTrue": false},
+            {"value": "Capable", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Most responsible job for health?",
+        "javob": [
+            {"value": "a dancer", "isTrue": false},
+            {"value": "a teacher", "isTrue": false},
+            {"value": "an architect", "isTrue": false},
+            {"value": "a doctor", "isTrue": true}
+        ]
+    },
+    {
+        "savol": "This person makes paintings and sculptures.",
+        "javob": [
+            {"value": "a police man", "isTrue": false},
+            {"value": "a teacher", "isTrue": false},
+            {"value": "an artist", "isTrue": true},
+            {"value": "a musician", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "This person can fly an airplane.",
+        "javob": [
+            {"value": "a taxi driver", "isTrue": false},
+            {"value": "a teacher", "isTrue": false},
+            {"value": "a pilot", "isTrue": true},
+            {"value": "an electrician", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Monthly income for work?",
+        "javob": [
+            {"value": "salary", "isTrue": true},
+            {"value": "holiday", "isTrue": false},
+            {"value": "a gift", "isTrue": false},
+            {"value": "heavy fine", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Compound noun with “guide”?",
+        "javob": [
+            {"value": "Site", "isTrue": false},
+            {"value": "Travel", "isTrue": true},
+            {"value": "Sun", "isTrue": false},
+            {"value": "Pack", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Compound noun with “pack”?",
+        "javob": [
+            {"value": "Guide", "isTrue": false},
+            {"value": "Site", "isTrue": false},
+            {"value": "Back", "isTrue": true},
+            {"value": "Travel", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Compound noun with “cream”?",
+        "javob": [
+            {"value": "Camp", "isTrue": false},
+            {"value": "Sun", "isTrue": true},
+            {"value": "Friend", "isTrue": false},
+            {"value": "Travel", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "... to rob a person or a place is ...",
+        "javob": [
+            {"value": "robbery", "isTrue": true},
+            {"value": "carson", "isTrue": false},
+            {"value": "break", "isTrue": false},
+            {"value": "murder", "isTrue": false}
+        ]
+    },
+    {
+        "savol": "Stealing from a bag or pocket is ...",
+        "javob": [
+            {"value": "shoplifting", "isTrue": false},
+            {"value": "pickpocketing", "isTrue": true},
+            {"value": "kidnapping", "isTrue": false},
+            {"value": "burgling", "isTrue": false}
+        ]
+    }
+]
