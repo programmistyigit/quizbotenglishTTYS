@@ -125,8 +125,7 @@ bot.onText(/\/stop/, (msg) => {
 bot.on('message', (msg) => {
     const text = msg.text
     const userId = msg.from.id;
-    bot.sendMessage(userId, text+'Sizda hozircha aktiv test yo‘q.');
-
+    
     // ✅ Testni to‘xtatish
     if (text == '🛑 To‘xtatish') {
         const state = userStates.get(userId);
@@ -135,6 +134,7 @@ bot.on('message', (msg) => {
             userStates.delete(userId);
             bot.sendMessage(userId, '🛑 Test to‘xtatildi. Qayta boshlash uchun /start yozing.');
         } else {
+            bot.sendMessage(userId, text+'Sizda hozircha aktiv test yo‘q.');
         }
         return;
     }
