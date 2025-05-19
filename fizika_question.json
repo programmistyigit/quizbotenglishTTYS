@@ -1,0 +1,4202 @@
+[
+    {
+        "savol": "Kulon qonunini ifodasini ko`rsating.",
+        "javob": [
+            {
+                "value": "F = k * (q1 * q2) / r^2",
+                "isTrue": true
+            },
+            {
+                "value": "F ≈ k * (q1 * q2) / r^2",
+                "isTrue": false
+            },
+            {
+                "value": "F = k + (q1 + q2) / r^2",
+                "isTrue": false
+            },
+            {
+                "value": "F = k * (q1 * q2) * r^2",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tebranishning to‘lqin uzunligi deb nimaga aytiladi?",
+        "javob": [
+            {
+                "value": "Bir xil fazoda tebranayotgan o‘zaro yaqin zarralar orasidagi masofaga",
+                "isTrue": true
+            },
+            {
+                "value": "Tebranish amplitudasiga",
+                "isTrue": false
+            },
+            {
+                "value": "Tebranish chastotasiga",
+                "isTrue": false
+            },
+            {
+                "value": "Zarrachalarning yo‘liga",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Bir jinsli elektrostatik maydoni deb nimaga aytiladi?",
+        "javob": [
+            {
+                "value": "Maydonning har bir nuqtasida kuchlanganlik vektori bir xil bo‘lgan maydon",
+                "isTrue": true
+            },
+            {
+                "value": "Faqat musbat zaryad hosil qilgan maydon",
+                "isTrue": false
+            },
+            {
+                "value": "Faqat manfiy zaryad hosil qilgan maydon",
+                "isTrue": false
+            },
+            {
+                "value": "Faqat nuqtaviy zaryad maydoni",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Qanday tebranish chastotasiga ega bo‘lgan tebranishlar infratovush deyiladi?",
+        "javob": [
+            {
+                "value": "Chastotasi 17 Gs dan kichik bo‘lgan tebranishlar",
+                "isTrue": true
+            },
+            {
+                "value": "Chastotasi yuqori bo‘lgan tebranishlar",
+                "isTrue": false
+            },
+            {
+                "value": "Chastotasi o‘zgaruvchan tebranishlar",
+                "isTrue": false
+            },
+            {
+                "value": "Turli chastotadagi tebranishlar",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Lazer nurlanishining qanday xususiyatlari bor?",
+        "javob": [
+            {
+                "value": "Vaqt va fazoda kogerent, qat’iy monoxromatik",
+                "isTrue": true
+            },
+            {
+                "value": "Faqat bir yo‘nalishda tarqaladi",
+                "isTrue": false
+            },
+            {
+                "value": "Yuksak darajada kogerent",
+                "isTrue": false
+            },
+            {
+                "value": "Dastasi ingichka",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Kirxgofning birinchi qoidasi qanday ta'riflanadi?",
+        "javob": [
+            {
+                "value": "Tugunda uchrashuvchi toklarning algebraik yig'indisi nolga teng",
+                "isTrue": true
+            },
+            {
+                "value": "Tarmoqlangan zanjirning har bir tarmog'idagi kuchlanishlarning miqdori teng",
+                "isTrue": false
+            },
+            {
+                "value": "Parallel ulangan o'tkazgichlarda kuchlanishlar teng",
+                "isTrue": false
+            },
+            {
+                "value": "Ketma-ket ulangan qarshiliklarda tok kuchi bir xil",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Sirt taranglik koeffisienti qanday formuladan aniqlanadi?",
+        "javob": [
+            {
+                "value": "σ = F / l",
+                "isTrue": true
+            },
+            {
+                "value": "σ = F * l",
+                "isTrue": false
+            },
+            {
+                "value": "σ = l / F",
+                "isTrue": false
+            },
+            {
+                "value": "σ = F / A",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Impuls miqdorini o‘zgarish ifodasini aniqlang.",
+        "javob": [
+            {
+                "value": "Δp = m(v - v₀)",
+                "isTrue": true
+            },
+            {
+                "value": "Δp = m * a",
+                "isTrue": false
+            },
+            {
+                "value": "Δp = F * t²",
+                "isTrue": false
+            },
+            {
+                "value": "Δp = m + v",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Qanday asbob yordamida nurlarni spektrlarga ajratiladi?",
+        "javob": [
+            {
+                "value": "Spektrometr",
+                "isTrue": true
+            },
+            {
+                "value": "Voltmetr",
+                "isTrue": false
+            },
+            {
+                "value": "Elektrometr",
+                "isTrue": false
+            },
+            {
+                "value": "Ampermetr",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Qanday tebranish chastotasiga ega bo‘lgan tebranishlar ultratovush deyiladi?",
+        "javob": [
+            {
+                "value": "Chastotasi 20 ming Gs dan ortiq bo‘lgan to‘lqinlar",
+                "isTrue": true
+            },
+            {
+                "value": "Chastotasi past bo‘lgan tebranishlar",
+                "isTrue": false
+            },
+            {
+                "value": "Turli chastotadagi tebranishlar",
+                "isTrue": false
+            },
+            {
+                "value": "Chastotasi o‘zgaruvchan tebranishlar",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Erkinlik darajasi i - ga teng bo’lgan molekulaning o’rtacha kinetik energiyasi qanday aniqlanadi?",
+        "javob": [
+            {
+                "value": "E = (3/2)kTi",
+                "isTrue": true
+            },
+            {
+                "value": "E = mc^2",
+                "isTrue": false
+            },
+            {
+                "value": "E = F * d",
+                "isTrue": false
+            },
+            {
+                "value": "E = pV",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "3 dona proton va -1 dona elektrondan iborat berk tizimning natijaviy zaryadi qancha va qanday ishorali bo`ladi?",
+        "javob": [
+            {
+                "value": "–5e",
+                "isTrue": false
+            },
+            {
+                "value": "+e",
+                "isTrue": true
+            },
+            {
+                "value": "0",
+                "isTrue": false
+            },
+            {
+                "value": "2e",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tinch holatdan tekis tezlanuvchan harakatga kelgan jism tezligini har sekundda 2 m/s ga oshirib bormoqda. Shu jism o’zining 5- sekundida qanday masofa bosib o’tadi?",
+        "javob": [
+            {
+                "value": "20",
+                "isTrue": false
+            },
+            {
+                "value": "45",
+                "isTrue": true
+            },
+            {
+                "value": "10",
+                "isTrue": false
+            },
+            {
+                "value": "25",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Keltirilgan fizik kattaliklardan qaysi biri voltlarda o’lchanadi?",
+        "javob": [
+            {
+                "value": "zanjirdagi kuchlanish",
+                "isTrue": true
+            },
+            {
+                "value": "zanjirdagi kuchlanish, manbaning elektr yurituvchi kuchi, elektr maydon potensiali",
+                "isTrue": true
+            },
+            {
+                "value": "elektr maydon potensiali",
+                "isTrue": false
+            },
+            {
+                "value": "manbaning elektr yurituvchi kuchi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Atomda qanday hodisa roy berganda u o’zidan yorug’lik chiqaradi?",
+        "javob": [
+            {
+                "value": "Atom magnit maydoni bilan ta`sirlashsa",
+                "isTrue": false
+            },
+            {
+                "value": "Atom boshqa atom bilan birlashsa",
+                "isTrue": false
+            },
+            {
+                "value": "Atomdagi elektron yuqori orbitadan pastki orbitaga o’tganda",
+                "isTrue": true
+            },
+            {
+                "value": "Atomdagi elektron pastki orbitadan yuqori orbitaga o’tganda",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tebranma harakat chastotasi birligi qanday bo’ladi?",
+        "javob": [
+            {
+                "value": "Hz",
+                "isTrue": true
+            },
+            {
+                "value": "s",
+                "isTrue": false
+            },
+            {
+                "value": "kHz",
+                "isTrue": false
+            },
+            {
+                "value": "MHz",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "De – Broylning to’lqin uzunligi formulasi qanday yoziladi?",
+        "javob": [
+            {
+                "value": "λ = h / p",
+                "isTrue": true
+            },
+            {
+                "value": "E = mc^2",
+                "isTrue": false
+            },
+            {
+                "value": "F = ma",
+                "isTrue": false
+            },
+            {
+                "value": "p = mv",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Elektr induksiya vektori qanday formula bilan ifodalanadi?",
+        "javob": [
+            {
+                "value": "E = -∇V",
+                "isTrue": true
+            },
+            {
+                "value": "E = F/q",
+                "isTrue": false
+            },
+            {
+                "value": "E = m*a",
+                "isTrue": false
+            },
+            {
+                "value": "E = pV",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Jismning o’g’irligi deb ……… ga aytiladi",
+        "javob": [
+            {
+                "value": "Jismning jismga ko’rsatadigan ta’siri",
+                "isTrue": false
+            },
+            {
+                "value": "Yer tomonidan ko’rsatadigan ta’siri",
+                "isTrue": true
+            },
+            {
+                "value": "Jismning tayanchga yoki osmaga ko’rsatadigan ta’siri",
+                "isTrue": false
+            },
+            {
+                "value": "To’g’ri javob yo’q",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Aylanma harakat qilayotgan jismning tezlanishlari qanday turlarga bo’linadi?",
+        "javob": [
+            {
+                "value": "Tangensial tezlanishga",
+                "isTrue": false
+            },
+            {
+                "value": "Normal va tangensial tezlanishga",
+                "isTrue": true
+            },
+            {
+                "value": "Normal tezlanishga",
+                "isTrue": false
+            },
+            {
+                "value": "Burchak tezlanaashga",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Quvvat qanday birliklarda o’lchanadi?",
+        "javob": [
+            {
+                "value": "Vatt",
+                "isTrue": true
+            },
+            {
+                "value": "Gers",
+                "isTrue": false
+            },
+            {
+                "value": "Vol`t",
+                "isTrue": false
+            },
+            {
+                "value": "Veber",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Elektr tokining paydo bo`lishi va doimiy mavjud bo`lish shartini ko`rsating.",
+        "javob": [
+            {
+                "value": "Elektr yurituvchi kuch manbaning mavjudligi",
+                "isTrue": true
+            },
+            {
+                "value": "Berk konturning mavjudligi",
+                "isTrue": false
+            },
+            {
+                "value": "Tok tashuvchi erkin zaryadlarning mavjudligi",
+                "isTrue": false
+            },
+            {
+                "value": "Elektr yurituvchi kuch manbaning mavjudligi, berk konturning mavjudligi, tok tashuvchi erkin zaryadlarning mavjudligi",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "O’tkazgichning elektr sig`imi deganda nima tushuniladi?",
+        "javob": [
+            {
+                "value": "O’tkazgichning zaryadiga bog`liq bo`lgan kattalikni",
+                "isTrue": true
+            },
+            {
+                "value": "O’tkazgichning geometrik shakli, uning o`lchamlari va u joylashgan muhitning dielektrik singdiruvchanligiga bog`liq bo`luvchi kattalikni",
+                "isTrue": true
+            },
+            {
+                "value": "O’tkazgichning kuchlanishiga bog`liq bo`lgan kattalikni",
+                "isTrue": false
+            },
+            {
+                "value": "Muxitning dielektrik singdirivchanligini",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Gorizontal yorug‘lik nuri vertikal joylashgan ko‘zguga tushadi. Ko‘zgu o‘z o‘qi atrofida α burchakka buriladi. Qaytgan nur qancha burchakka buriladi?",
+        "javob": [
+            {
+                "value": "1α",
+                "isTrue": false
+            },
+            {
+                "value": "2α",
+                "isTrue": true
+            },
+            {
+                "value": "1.5α",
+                "isTrue": false
+            },
+            {
+                "value": "3α",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Mis simning qarshiligi 6 Om. Shu simning ko`ndalang kesimi 3 marta katta, uzunligi esa 2 marta uzunroq mis simning qarshiligi aniqlansin.",
+        "javob": [
+            {
+                "value": "6",
+                "isTrue": false
+            },
+            {
+                "value": "2",
+                "isTrue": true
+            },
+            {
+                "value": "4",
+                "isTrue": false
+            },
+            {
+                "value": "3",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Jismning mеxanik harakat enеrgiyasiga jismning……dеyiladi.",
+        "javob": [
+            {
+                "value": "To’la enеrgiya",
+                "isTrue": false
+            },
+            {
+                "value": "Ish",
+                "isTrue": false
+            },
+            {
+                "value": "Kinеtik enеrgiya",
+                "isTrue": true
+            },
+            {
+                "value": "Issiqligi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Atom reaktorining asosiy yoqilg’isi qaysi element?",
+        "javob": [
+            {
+                "value": "Kumush",
+                "isTrue": false
+            },
+            {
+                "value": "Geliy",
+                "isTrue": false
+            },
+            {
+                "value": "Oltin",
+                "isTrue": false
+            },
+            {
+                "value": "Uran",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "Bernulli tenglamasini ko’rsating.",
+        "javob": [
+            {
+                "value": "P + 0.5ρv² + ρgh = constant",
+                "isTrue": true
+            },
+            {
+                "value": "F = ma",
+                "isTrue": false
+            },
+            {
+                "value": "E = mc^2",
+                "isTrue": false
+            },
+            {
+                "value": "pV = nRT",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Istalgan miqdordagi gazning ichki energiyasi qanday formuladan topiladi?",
+        "javob": [
+            {
+                "value": "U = (3/2)nRT",
+                "isTrue": true
+            },
+            {
+                "value": "E = mc^2",
+                "isTrue": false
+            },
+            {
+                "value": "F = ma",
+                "isTrue": false
+            },
+            {
+                "value": "pV = nRT",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tokning quvvati halqaro birliklar sistemasida qanday birlikda o’lchanadi?",
+        "javob": [
+            {
+                "value": "Volt",
+                "isTrue": false
+            },
+            {
+                "value": "Vatt",
+                "isTrue": true
+            },
+            {
+                "value": "Joul",
+                "isTrue": false
+            },
+            {
+                "value": "Vatt soat",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Dielektrik qabul qiluvchanlik qanday birlikda o’lchanadi?",
+        "javob": [
+            {
+                "value": "femto",
+                "isTrue": false
+            },
+            {
+                "value": "O`lchamsiz kattalik",
+                "isTrue": true
+            },
+            {
+                "value": "m/s",
+                "isTrue": false
+            },
+            {
+                "value": "sekund",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Yorug’lik difraksiyasi deb nimaga aytiladi?",
+        "javob": [
+            {
+                "value": "To’lqinlarning fazoda tarqalishiga",
+                "isTrue": false
+            },
+            {
+                "value": "Yorug’lik to’lqinlarining to’siqni aylanib o’tib to’siq orasida tarqalish hodisasiga",
+                "isTrue": true
+            },
+            {
+                "value": "To’lqinlarning muhitda tebranishiga",
+                "isTrue": false
+            },
+            {
+                "value": "To’lqinlarni suvda tarqalishiga",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Kapillyar nayda suyuqlikning ko’tarilish balandligi qanday formuladan aniqlanadi?",
+        "javob": [
+            {
+                "value": "h = (2γ)/(ρg)",
+                "isTrue": true
+            },
+            {
+                "value": "E = mc^2",
+                "isTrue": false
+            },
+            {
+                "value": "F = ma",
+                "isTrue": false
+            },
+            {
+                "value": "pV = nRT",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tеzlanish formulasini tоping.",
+        "javob": [
+            {
+                "value": "a = Δv / Δt",
+                "isTrue": true
+            },
+            {
+                "value": "F = ma",
+                "isTrue": false
+            },
+            {
+                "value": "p = mv",
+                "isTrue": false
+            },
+            {
+                "value": "E = mc^2",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Keltirilgan formula nimani ifodalaydi?",
+        "javob": [
+            {
+                "value": "Atmosfera bosimining balandlikka bog’liqligini",
+                "isTrue": true
+            },
+            {
+                "value": "Molekulalarning soniga qarab o’zgarishini",
+                "isTrue": false
+            },
+            {
+                "value": "Erkin yugurish yo’li uzunligini",
+                "isTrue": false
+            },
+            {
+                "value": "Molekulalarning tezliklar bo’yicha taqsimotini",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Kondensatorlar qanday holda o`zaro ulangan vaqtda kuchlanish ko`payadi?",
+        "javob": [
+            {
+                "value": "Qarshilik bilan ketma – ket ulanganda",
+                "isTrue": false
+            },
+            {
+                "value": "Parallel ulanganda",
+                "isTrue": false
+            },
+            {
+                "value": "Ketma – ket ulanganda",
+                "isTrue": true
+            },
+            {
+                "value": "Aralash ulanganda",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Vaqt birligi ichida tеzlikning o’zgarishiga miqdоr jihatdan tеng bo’lgan fizik kattalikga dеyiladi.",
+        "javob": [
+            {
+                "value": "Burchak tеzlik",
+                "isTrue": false
+            },
+            {
+                "value": "Tеzlanish",
+                "isTrue": true
+            },
+            {
+                "value": "Оniy",
+                "isTrue": false
+            },
+            {
+                "value": "Tеzlik",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Oralaridagi masofa 6 marta oshirilganida ham o`zaro ta`sirlashuvning Kulon kuchi o`zgarmasdan qolishi uchun zaryadlar ko`paytmasi necha marta ortirilishi lozim?",
+        "javob": [
+            {
+                "value": "45",
+                "isTrue": false
+            },
+            {
+                "value": "108",
+                "isTrue": true
+            },
+            {
+                "value": "49",
+                "isTrue": false
+            },
+            {
+                "value": "211",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Gey – Lyussak qonuni qanday parametrlarni bog’laydi?",
+        "javob": [
+            {
+                "value": "Хamma parametrlar o’zgarmas bo’ladi",
+                "isTrue": false
+            },
+            {
+                "value": "Хajm bilan temperaturani",
+                "isTrue": true
+            },
+            {
+                "value": "Bosim bilan temperaturani",
+                "isTrue": false
+            },
+            {
+                "value": "Bosim bilan хajmni",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Qаrshiligi 20 Om bo‘lgаn 5 ta ketma ket ulangan istemolchilar 220 V kuchlanishli tarmoqqa ulangan. Tok kuchi nimaga teng?(A)",
+        "javob": [
+            {
+                "value": "22",
+                "isTrue": false
+            },
+            {
+                "value": "2.2",
+                "isTrue": true
+            },
+            {
+                "value": "1.1",
+                "isTrue": false
+            },
+            {
+                "value": "2",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Ekvipotensial sirt bo`ylab zaryadni ko’chirishda bajariladigan ish nimaga teng?",
+        "javob": [
+            {
+                "value": "A=Q0U",
+                "isTrue": true
+            },
+            {
+                "value": "A=e",
+                "isTrue": false
+            },
+            {
+                "value": "A=Q0(",
+                "isTrue": false
+            },
+            {
+                "value": "0",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Izobarik jarayonlarga qanday jarayonlar kiradi?",
+        "javob": [
+            {
+                "value": "Temperatura o’zgarmas",
+                "isTrue": false
+            },
+            {
+                "value": "Hamma parametr o’zgaradi",
+                "isTrue": false
+            },
+            {
+                "value": "Hajm o’zgarmas",
+                "isTrue": false
+            },
+            {
+                "value": "Bosim o’zgarmas",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "Elektr zaryadining saqlanish qonunini nimani anglatadi?",
+        "javob": [
+            {
+                "value": "Musbat va manfiy zaryadlarning qo`shilishi",
+                "isTrue": true
+            },
+            {
+                "value": "Biror jismning boshqa jismni zaryadlashi",
+                "isTrue": false
+            },
+            {
+                "value": "Izolyatsiyalangan berk sistemani tashkil etuvchi barcha zarralar zaryadlarning umumiy zaryadining o’zgarmasligi",
+                "isTrue": true
+            },
+            {
+                "value": "Ishqalanish natijasida jismlarda zaryadlar хosil bo`lishi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Fotoeffekt uchun Eynshteyn tenglamasini ko’rsating.",
+        "javob": [
+            {
+                "value": "E = hf - W",
+                "isTrue": true
+            },
+            {
+                "value": "E = mc^2",
+                "isTrue": false
+            },
+            {
+                "value": "F = ma",
+                "isTrue": false
+            },
+            {
+                "value": "pV = nRT",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Plazma bu moddaning qanday holati?",
+        "javob": [
+            {
+                "value": "Moddaning gaz holati",
+                "isTrue": false
+            },
+            {
+                "value": "Moddaning to’liq ionlangan holati",
+                "isTrue": true
+            },
+            {
+                "value": "Moddaning qattiq holati",
+                "isTrue": false
+            },
+            {
+                "value": "Moddaning suyuq holati",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "H balandlikdan erkin tushayotgan jism qanday harakat turida qatnashadi?",
+        "javob": [
+            {
+                "value": "To’g’ri chiziqli tekis tezlanuvchan",
+                "isTrue": true
+            },
+            {
+                "value": "To’g’ri chiziqli sekinlanuvchan",
+                "isTrue": false
+            },
+            {
+                "value": "To’g’ri chiziqli tekis",
+                "isTrue": false
+            },
+            {
+                "value": "To’g’ri chiziqli",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tebranma harakat tenglamasi to’liq ko’rinishi qanday bo’ladi?",
+        "javob": [
+            {
+                "value": "x(t) = A * cos(ωt + φ)",
+                "isTrue": true
+            },
+            {
+                "value": "x(t) = vt + x0",
+                "isTrue": false
+            },
+            {
+                "value": "x(t) = F/m * t^2",
+                "isTrue": false
+            },
+            {
+                "value": "x(t) = p / V",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "60 N kuch jismga 0,8 m/s² tezlanish beradi. Qanday kuch bu jismga 2 m/s² tezlanish beradi?",
+        "javob": [
+            {
+                "value": "150 m/s",
+                "isTrue": false
+            },
+            {
+                "value": "130 m/s",
+                "isTrue": false
+            },
+            {
+                "value": "200 m/s",
+                "isTrue": true
+            },
+            {
+                "value": "125 m/s",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Qanday to’lqinlarni kogerent to’lqinlar deyiladi?",
+        "javob": [
+            {
+                "value": "Tebranishlarning tezligi o’zgarmasa",
+                "isTrue": true
+            },
+            {
+                "value": "Tebranishlarning to’lqin uzunligi o’zgarmasa",
+                "isTrue": false
+            },
+            {
+                "value": "Tebranishlarning intensivligi o’zgarmasa",
+                "isTrue": false
+            },
+            {
+                "value": "Tebranishlarning fazalar farqi vaqt bo’yicha o’zgarmasa",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Termoelektron emissiya deb nimaga aytiladi?",
+        "javob": [
+            {
+                "value": "Anod tokining maksimal qiymatga erishishiga",
+                "isTrue": false
+            },
+            {
+                "value": "Elektronlarning tartibli хarakatiga",
+                "isTrue": false
+            },
+            {
+                "value": "O’tkazgichlar qizdirilganda metallardan elektronlar ajralib chiqishi hodisasiga",
+                "isTrue": true
+            },
+            {
+                "value": "Vakuumdagi elektr tokiga",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "To`yingan tok deb nimaga aytiladi?",
+        "javob": [
+            {
+                "value": "Musbat zaryadlar hosil qiluvchi tok",
+                "isTrue": false
+            },
+            {
+                "value": "Qattiq jismlardan o’tuvchi tok",
+                "isTrue": false
+            },
+            {
+                "value": "Katoddan chiqqan barcha elektronlarning anodga yetib borishida hosil bo’luvchi tok",
+                "isTrue": true
+            },
+            {
+                "value": "Ionlardan hosil bo’luvchi tok",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Metallar elektr o’tkazuvchanligining klassik nazariyasiga binoan qarshilik quyidagi sababga ko`ra vujudga keladi.",
+        "javob": [
+            {
+                "value": "Ionning ion bilan to`qnashuvi",
+                "isTrue": false
+            },
+            {
+                "value": "Kuchlanishning o’zgarishiga",
+                "isTrue": false
+            },
+            {
+                "value": "Ionlarning o’tkazgich devorlari bilan to`qnashuvi",
+                "isTrue": false
+            },
+            {
+                "value": "Erkin elektronlarning panjaradagi ionlar bilan to`qnashuvi",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "Qanday dielektriklar qutbli bo`ladi?",
+        "javob": [
+            {
+                "value": "Musbat va manfiy zaryadlarning og`irlik markazi bir nuqtada bo`lsa",
+                "isTrue": true
+            },
+            {
+                "value": "Erkin zaryadga ega bo`lgan dielektriklar",
+                "isTrue": false
+            },
+            {
+                "value": "Musbat va manfiy zaryadlarning og`irlik markazi bir – biriga nisbatan siljigan dielektriklar",
+                "isTrue": true
+            },
+            {
+                "value": "Хususiy elektr momenti doimo nol bo`lgan dielektriklar",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Fotoelement deganda nima tushuniladi?",
+        "javob": [
+            {
+                "value": "Bir tomonlama elektr o’tkazuvchanlikka ega bo’lgan asbob",
+                "isTrue": false
+            },
+            {
+                "value": "Yoritilganlikni o’lchovchi asbob",
+                "isTrue": true
+            },
+            {
+                "value": "Jismlarning qizdirilganda nur chiqarishi",
+                "isTrue": false
+            },
+            {
+                "value": "Yorug’lik energiyasini elektr energiyaga aylantirib beruvchi qurilma",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Jismning kinеtik enеrgiyasining fоrmulasini tоping.",
+        "javob": [
+            {
+                "value": "E_k = (1/2)mv^2",
+                "isTrue": true
+            },
+            {
+                "value": "E = mc^2",
+                "isTrue": false
+            },
+            {
+                "value": "E = F * d",
+                "isTrue": false
+            },
+            {
+                "value": "E = pV",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "1mkKl zaryad hosil qiladigan elektrostatik maydonning shu zaryaddan 9 m masofada yotuvchi nuqtasidagi potensiali nimaga teng?",
+        "javob": [
+            {
+                "value": "1000",
+                "isTrue": false
+            },
+            {
+                "value": "10",
+                "isTrue": true
+            },
+            {
+                "value": "10000",
+                "isTrue": false
+            },
+            {
+                "value": "100",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Elektrostatik maydonda zaryadni ko’chirishda bajargan ish formulasi qanday?",
+        "javob": [
+            {
+                "value": "A = Q0U",
+                "isTrue": true
+            },
+            {
+                "value": "A = e",
+                "isTrue": false
+            },
+            {
+                "value": "A = Q0(",
+                "isTrue": false
+            },
+            {
+                "value": "A = 0",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Berilgan ikkita zaryad orasidagi Kulon kuchi to`qqiz marta kamayishi uchun, zaryadlar orasidagi masofani necha marta o`zgartirish kerak?",
+        "javob": [
+            {
+                "value": "9 marta kamaytiriladi",
+                "isTrue": false
+            },
+            {
+                "value": "9 marta oshiriladi",
+                "isTrue": true
+            },
+            {
+                "value": "3 marta oshiriladi",
+                "isTrue": false
+            },
+            {
+                "value": "81 marta kamaytiriladi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Boyl – Mariott qonuni qanday kattaliklarni o`zaro bog`laydi?",
+        "javob": [
+            {
+                "value": "Bosim bilan temperaturani",
+                "isTrue": false
+            },
+            {
+                "value": "Хajm bilan temperaturani",
+                "isTrue": false
+            },
+            {
+                "value": "Bosim bilan хajmni",
+                "isTrue": true
+            },
+            {
+                "value": "Хamma parametrlar o’zgarmas bo’ladi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "220V kuchlanishga mo`ljallangan 40 Vt va 60 Vt li lampochkalar tarmoqqa ketma-ket ulansa ularning umumiy quvvati qancha bo`ladi?",
+        "javob": [
+            {
+                "value": "24 Vt",
+                "isTrue": false
+            },
+            {
+                "value": "36 Vt",
+                "isTrue": true
+            },
+            {
+                "value": "60 Vt",
+                "isTrue": false
+            },
+            {
+                "value": "20 Vt",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Qanday jism absolyut qora jism deyiladi?",
+        "javob": [
+            {
+                "value": "Hamma jism",
+                "isTrue": false
+            },
+            {
+                "value": "Qora rangli jism",
+                "isTrue": false
+            },
+            {
+                "value": "Energiyani to’liq yutadigan jism",
+                "isTrue": true
+            },
+            {
+                "value": "Oq rangli jism",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Kalashnikоv avtоmat stvоlidan o’q chiqqandan so’ng qanday harakat qiladi?",
+        "javob": [
+            {
+                "value": "notekis",
+                "isTrue": true
+            },
+            {
+                "value": "tekis tezlanuvchan",
+                "isTrue": false
+            },
+            {
+                "value": "aylanma",
+                "isTrue": false
+            },
+            {
+                "value": "tekis",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Elektrostatik maydon kuchlanganligi nimaga bog`liq bo`ladi?",
+        "javob": [
+            {
+                "value": "ga bog`liq",
+                "isTrue": false
+            },
+            {
+                "value": "Maydonga kiritilgan zaryadga bog`liq",
+                "isTrue": true
+            },
+            {
+                "value": "Elektrostatik maydonni hosil qiluvchi zaryad va zaryaddan qaralayotgan nuqtagacha bo’lgani masofaga bog`liq",
+                "isTrue": true
+            },
+            {
+                "value": "ga bog`liq",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Bir vаlеntli iоndаn 2*10⁻⁸ sm uzоqlikdаgi elеktr mаydоnining kuchlаngаnligi аniqlаnsin.",
+        "javob": [
+            {
+                "value": "56,6 GV/m",
+                "isTrue": true
+            },
+            {
+                "value": "36 GV/m",
+                "isTrue": false
+            },
+            {
+                "value": "16,6 GV/m",
+                "isTrue": false
+            },
+            {
+                "value": "26,6 GV/m",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Difraksion panjara doimiysi deb nimaga aytiladi?",
+        "javob": [
+            {
+                "value": "Difraksion panjaraning tirqishlar soniga",
+                "isTrue": false
+            },
+            {
+                "value": "Difraksion panjaralar soniga",
+                "isTrue": false
+            },
+            {
+                "value": "Difraksion panjaraning kattaligiga",
+                "isTrue": false
+            },
+            {
+                "value": "Qo’shni tirqishlarning mos nuqtalari orasidagi masofaga",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "Keltirilgan formula nimani ifodalaydi?",
+        "javob": [
+            {
+                "value": "Atmosfera bosimining balandlikka bog’liqligini",
+                "isTrue": true
+            },
+            {
+                "value": "Molekulalarning sonining balandlikka qarab o’zgarishini",
+                "isTrue": false
+            },
+            {
+                "value": "Molekulalarning tezliklar bo’yicha taqsimotini",
+                "isTrue": false
+            },
+            {
+                "value": "Erkin yugurish yo’li uzunligini",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Elektrostatik maydonga kiritilgan o’tkazgichlarda qanday o`zgarish sodir bo`ladi?",
+        "javob": [
+            {
+                "value": "O’tkazgichlarda o`zgarish sodir bo`lmaydi",
+                "isTrue": false
+            },
+            {
+                "value": "Siljish elektr toki yuzaga keladi",
+                "isTrue": true
+            },
+            {
+                "value": "Qo’shimcha maydon хosil bo`lib, uni yo`nalishi asosiy maydonga teskari bo’ladi",
+                "isTrue": false
+            },
+            {
+                "value": "Tashqi maydon bilan bir tomonga yo`nalgan maydon yo’zaga keladi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Holat tenglamasi qanday parametrlarni o’z ichiga oladi?",
+        "javob": [
+            {
+                "value": "Termodinamik hajm",
+                "isTrue": false
+            },
+            {
+                "value": "Bosim, хajm, temperatura",
+                "isTrue": true
+            },
+            {
+                "value": "Hajm, temperatura",
+                "isTrue": false
+            },
+            {
+                "value": "Bosim, хajm",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "O’tkazgichning elektr sig`imi nimalarga bog`liq?",
+        "javob": [
+            {
+                "value": "O’tkazgichdagi zaryad miqdoriga va potensialiga",
+                "isTrue": true
+            },
+            {
+                "value": "O’tkazgichning o`lchami va potensialiga",
+                "isTrue": false
+            },
+            {
+                "value": "O’tkazgichning shakli va zaryadiga",
+                "isTrue": false
+            },
+            {
+                "value": "O’tkazgichning shakli, o`lchamlari va qaysi muhitda joylashganiga",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "Qanday zaryadlar erkin zaryadlar deyiladi?",
+        "javob": [
+            {
+                "value": "Tashqi maydon ta`sirida induksiyalanuvchi zaryadlar",
+                "isTrue": false
+            },
+            {
+                "value": "Metalldagi ionlar",
+                "isTrue": false
+            },
+            {
+                "value": "O’tkazgichda erkin harakat qiluvchi zaryadlar",
+                "isTrue": true
+            },
+            {
+                "value": "Kristall atomi ioniga bog`langan zaryadlar",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Kondensatorlar parallel ulanganda barcha kondensatorlar uchun qanday fizik kattalik o`zgarmas bo`ladi?",
+        "javob": [
+            {
+                "value": "Kuchlanish",
+                "isTrue": true
+            },
+            {
+                "value": "Energiya",
+                "isTrue": false
+            },
+            {
+                "value": "Zaryad",
+                "isTrue": false
+            },
+            {
+                "value": "Sig`im",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Matematik mayatnik deb………ga aytiladi.",
+        "javob": [
+            {
+                "value": "vaznsiz ipga osilgan shar",
+                "isTrue": true
+            },
+            {
+                "value": "O’qqa maxkamlangan qattiq jism",
+                "isTrue": false
+            },
+            {
+                "value": "vaznsiz, cho’zilmaydigan ipga osilgan m massali shar",
+                "isTrue": false
+            },
+            {
+                "value": "m massali, cho’zilmaydigan ipga osilgan shar",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Moddiy nuqta deb nima tushuniladi?",
+        "javob": [
+            {
+                "value": "jism o’lchami qaralayotgan vaziyatga nisbatan o’lchamlarini hisobga olmasa ham bo’ladigan jismga",
+                "isTrue": true
+            },
+            {
+                "value": "Bir хil jismlarni",
+                "isTrue": false
+            },
+            {
+                "value": "Har хil jismlarni",
+                "isTrue": false
+            },
+            {
+                "value": "Barcha jismlar",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Elektromagnit to’lqinlarning E va H vektorlari fazoda qanday tarqaladi?",
+        "javob": [
+            {
+                "value": "E va H vektorlar turli tekisliklarda tarqaladi",
+                "isTrue": false
+            },
+            {
+                "value": "E va H fazoda o’zaro perpendikulyar tekisliklarda tarqaladi",
+                "isTrue": true
+            },
+            {
+                "value": "E va H fazoda qarama – qarshi yo’nalishda tarqaladi",
+                "isTrue": false
+            },
+            {
+                "value": "E va H fazoda parallel tekisliklarda tarqaladi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Qаrshiligi 20 Om bo‘lgаn 5 ta parallel ulangan istemolchilar 12 V kuchlanishli tarmoqqa ulangan. Tok kuchi nimaga teng?(A)",
+        "javob": [
+            {
+                "value": "1.5",
+                "isTrue": false
+            },
+            {
+                "value": "3",
+                "isTrue": true
+            },
+            {
+                "value": "3.5",
+                "isTrue": false
+            },
+            {
+                "value": "2",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tokning quvvati formulasini ko`rsating.",
+        "javob": [
+            {
+                "value": "P = IV",
+                "isTrue": true
+            },
+            {
+                "value": "P = F * d",
+                "isTrue": false
+            },
+            {
+                "value": "P = m * a",
+                "isTrue": false
+            },
+            {
+                "value": "P = E / t",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Jismning inеrtlik o’lchоvidan ibоrat bo’lgan fizik kattalikga ... aytiladi.",
+        "javob": [
+            {
+                "value": "Kuch",
+                "isTrue": false
+            },
+            {
+                "value": "Jismning massasi",
+                "isTrue": true
+            },
+            {
+                "value": "Jismning impuls",
+                "isTrue": false
+            },
+            {
+                "value": "Tеzlanish",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "O’tkazgichning solishtirma qarshiligi nimalarga bog`liq bo`ladi?",
+        "javob": [
+            {
+                "value": "O’tkazgich turiga va temperaturasiga",
+                "isTrue": true
+            },
+            {
+                "value": "Ko`ndalang kesim yuziga",
+                "isTrue": false
+            },
+            {
+                "value": "Kuchlanishga va vaqtga",
+                "isTrue": false
+            },
+            {
+                "value": "Qarshlik va temperaturaga",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "-nurlanish nima?",
+        "javob": [
+            {
+                "value": "elektronlar oqimi",
+                "isTrue": true
+            },
+            {
+                "value": "neytronlar oqimi",
+                "isTrue": false
+            },
+            {
+                "value": "geliy yadrolarining oqimi",
+                "isTrue": false
+            },
+            {
+                "value": "elektromagnit to'lqinlar",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Butun zanjir uchun Om qonunining ta’rifi qanday bo`ladi?",
+        "javob": [
+            {
+                "value": "O’tkazgich ketma – ket ulanganda, umumiy qarshilik alohida o’tkazgichlar qarshiliklari yig`indisiga teng bo’ladi",
+                "isTrue": true
+            },
+            {
+                "value": "O’tkazgichdan o`tayotgan tok kuchlanishga to`g`ri qarshilikka teskari proporsional",
+                "isTrue": false
+            },
+            {
+                "value": "Berk zanjirdagi tok kuchi shu zanjirda ta`sir etayotgan EYUK ning to`la qarshilikka nisbatiga teng",
+                "isTrue": false
+            },
+            {
+                "value": "Tugunga keluvchi tok, undan ketuvchii toklar yig`indisiga teng",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Garmonik tebranish deb nimaga aytiladi?",
+        "javob": [
+            {
+                "value": "Gravitasion kuchlar ta`sirida bo’ladigan tebranishlarga",
+                "isTrue": false
+            },
+            {
+                "value": "Faqat ichki molekulyar kuchlar ta`sirida bo’ladigan tebranishlarga",
+                "isTrue": false
+            },
+            {
+                "value": "Jism siljishiga mos ravishda muvozanat vaziyati tomon yo’nalgan kuch",
+                "isTrue": false
+            },
+            {
+                "value": "Vaqt o’tishi bilan sinus (kosinus) qonuniga muvofiq o’zgaradigan tebranma harakat",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "Qanday haroratda simob atomlari ionizasiyasi uchun yetarli darajada ilgarilanma harakat o‘rtacha kinetik energiyasiga ega bo‘ladi? Simob atomining ionizasiya potensiali 10,4 V.",
+        "javob": [
+            {
+                "value": "8326 K",
+                "isTrue": true
+            },
+            {
+                "value": "820 K",
+                "isTrue": false
+            },
+            {
+                "value": "8036 K",
+                "isTrue": false
+            },
+            {
+                "value": "7200 K",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Radioaktiv moddalar nurlangan vaqtda o’zidan qanday zarrachalar chiqaradi?",
+        "javob": [
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "e, d",
+                "isTrue": false
+            },
+            {
+                "value": "e, n, d",
+                "isTrue": true
+            },
+            {
+                "value": "s, r, m",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Qanday hollarda impul`sning saqlanish qonuni bajariladi?",
+        "javob": [
+            {
+                "value": "Yopiq sistemada",
+                "isTrue": true
+            },
+            {
+                "value": "Ochiq sistemada",
+                "isTrue": false
+            },
+            {
+                "value": "Umuman bajarilmaydi",
+                "isTrue": false
+            },
+            {
+                "value": "Harakatdagi sistemada",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Bir jinsli maydon deganda qanday maydon tushiniladi?",
+        "javob": [
+            {
+                "value": "Har хil zaryadlarga bir хil kuch bilan ta'sir etuvchi maydon",
+                "isTrue": true
+            },
+            {
+                "value": "Maydon kuchlanganligining qiymati maydon mavjud bo’lgan fazoning hamma nuqtalarida bir хil bo’lishini",
+                "isTrue": false
+            },
+            {
+                "value": "Nuqtaviy zaryad хosil qilgan maydonni",
+                "isTrue": false
+            },
+            {
+                "value": "Qarama - qarshi yo’nalgan kuch chiziqlarini хosil qiluvchi har хil zaryadni",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tok zichligi nimani ifodalaydi?",
+        "javob": [
+            {
+                "value": "O`tkazgich uchlaridagi potensiallar farqini",
+                "isTrue": false
+            },
+            {
+                "value": "Zaryadli zarralarning tartibli хarakatini",
+                "isTrue": false
+            },
+            {
+                "value": "Zaryad tashuvchilar harakat yo`nalishiga perpendikulyar bo`lgan birlik yuzaga to`g`ri keluvchi tok kuchini",
+                "isTrue": true
+            },
+            {
+                "value": "Vaqt o`tishi bilan tok kattaligi o`zgarmasligini",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Yadro reaksiyasi qachon hosil bo’ladi?",
+        "javob": [
+            {
+                "value": "Modda bilan elementar zarra to’qnashganda",
+                "isTrue": true
+            },
+            {
+                "value": "Modda bilan yorug’lik to’qnashganda",
+                "isTrue": false
+            },
+            {
+                "value": "Modda bilan magnit maydon ta`sirlashganda",
+                "isTrue": false
+            },
+            {
+                "value": "Neytronlarning atom yadrosiga yutilishida",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Doppler effekti qanday fizik хodisani ifodalaydi?",
+        "javob": [
+            {
+                "value": "Bu effekt atomni nurlanishini aniqlaydi",
+                "isTrue": false
+            },
+            {
+                "value": "Bu effekt molekulaning nurlanishini aniqlaydi",
+                "isTrue": false
+            },
+            {
+                "value": "Bu effekt spektrlarni aniqlaydi",
+                "isTrue": false
+            },
+            {
+                "value": "Doppler effekti to’lqin tarqatuvchi manbalarning harakatini aniqlaydi",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "Kondensatorlar ketma-ket ulanganda barcha kondensatorlar uchun qanday fizik kattalik o`zgarmas bo`ladi?",
+        "javob": [
+            {
+                "value": "vaqt",
+                "isTrue": false
+            },
+            {
+                "value": "Zaryad",
+                "isTrue": true
+            },
+            {
+                "value": "Sig`im",
+                "isTrue": false
+            },
+            {
+                "value": "Davr",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Bir marta to’liq aylanish uchun kеtgan vaqtga dеb ataladi.",
+        "javob": [
+            {
+                "value": "Aylanish davri",
+                "isTrue": true
+            },
+            {
+                "value": "Chiziqli tеzlik",
+                "isTrue": false
+            },
+            {
+                "value": "Burchak tеzlik",
+                "isTrue": false
+            },
+            {
+                "value": "Сhastоtasi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Termodinamikaning ikkinchi qonuni qanday ta`riflanadi?",
+        "javob": [
+            {
+                "value": "Sistemaga berilgan issiqlik miqdori sistemaning ichki energiyasini oshirishga va sistemaning tashqi jismlar ustida ish bajarishiga sarflanadi",
+                "isTrue": true
+            },
+            {
+                "value": "Temperatura o’zgarmas bo’lganda energiya to’laligicha ish bajarishga sarf bo’ladi",
+                "isTrue": false
+            },
+            {
+                "value": "Issiqlik miqdori to’laligicha ishga aylanadigan jarayon bo’lishi mumkin emas",
+                "isTrue": false
+            },
+            {
+                "value": "Issiqlik miqdori o’z – o’zidan past temperaturali jismdan yuqori temperaturali jismga o’tmaydi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Ko’ndalang to’lqinlar qanday хosil bo’ladi?",
+        "javob": [
+            {
+                "value": "Muhit zarralari nurga parallel ravishda tebranganda",
+                "isTrue": false
+            },
+            {
+                "value": "Muhit zarralarning harakat yo’nalishi uning tarqalish yo’nalishiga o’zaro perpendikulyar bo’lib yo’nalganda",
+                "isTrue": true
+            },
+            {
+                "value": "Nogarmonik tebranishlarda",
+                "isTrue": false
+            },
+            {
+                "value": "Garmonik tebranishlarda",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Elektrostatik maydon energiyasi qanday formula bilan ifodalanadi?",
+        "javob": [
+            {
+                "value": "U = (1/2) * Q * V",
+                "isTrue": true
+            },
+            {
+                "value": "E = mc^2",
+                "isTrue": false
+            },
+            {
+                "value": "F = ma",
+                "isTrue": false
+            },
+            {
+                "value": "pV = nRT",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Uzoq masofalarga elektr signallarining bir zumda uzatilishini qanday tushuntiriladi?",
+        "javob": [
+            {
+                "value": "Elektrmagnit maydon 3 * 10^8 m/s tezlikda tarqalishi bilan",
+                "isTrue": true
+            },
+            {
+                "value": "Elektronlarning ionlar bilan to`qnashishi",
+                "isTrue": false
+            },
+            {
+                "value": "Elektronlar tovush tezligida tarqalishi bilan",
+                "isTrue": false
+            },
+            {
+                "value": "Elektr zaryadlar harakati bilan",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tebranma хarakat tenglamasining differensial ko’rinishini toping.",
+        "javob": [
+            {
+                "value": "d²x/dt² + ω²x = 0",
+                "isTrue": true
+            },
+            {
+                "value": "F = ma",
+                "isTrue": false
+            },
+            {
+                "value": "p = mv",
+                "isTrue": false
+            },
+            {
+                "value": "E = mc^2",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tebranma хarakat bo’lishi uchun qanday shart bajarilishi lozim?",
+        "javob": [
+            {
+                "value": "Jism muvozanat vaziyatiga ega bo’lishi va uni muvozanat holatidan chiqqandan so’ng oldingi vaziyatiga qaytaruvchi kuch bo’lishi",
+                "isTrue": true
+            },
+            {
+                "value": "Faqat muvozanat vaziyatiga ega bo’lishi",
+                "isTrue": false
+            },
+            {
+                "value": "Faqat uni oldinga holatga qaytaruvchi kuch bo’lishi",
+                "isTrue": false
+            },
+            {
+                "value": "Muvozanat хolatdan siljiganda uni ushlab turadigan kuch bo’lishi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Stefan – Bolsman qonunini ifodalang?",
+        "javob": [
+            {
+                "value": "J = σT^4",
+                "isTrue": true
+            },
+            {
+                "value": "E = mc^2",
+                "isTrue": false
+            },
+            {
+                "value": "F = ma",
+                "isTrue": false
+            },
+            {
+                "value": "pV = nRT",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Quyidagi formulalardan elastiklik kuchini ko`rsating.",
+        "javob": [
+            {
+                "value": "F = -kx",
+                "isTrue": true
+            },
+            {
+                "value": "E = mc^2",
+                "isTrue": false
+            },
+            {
+                "value": "F = ma",
+                "isTrue": false
+            },
+            {
+                "value": "pV = nRT",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Qanday dielektriklar qutbsiz bo`ladi?",
+        "javob": [
+            {
+                "value": "Хususiy elektr momenti doimo noldan katta bo`lgan dielektriklar",
+                "isTrue": false
+            },
+            {
+                "value": "Musbat va manfiy zaryadlarning og`irlik markazi siljigan dielektriklar",
+                "isTrue": false
+            },
+            {
+                "value": "Erkin elektronlari mavjud bo`lgan dielektriklar",
+                "isTrue": true
+            },
+            {
+                "value": "Musbat va manfiy zaryadlarning og`irlik markazi bir nuqtada bo`lgan dielektriklar",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Aylana bo’ylab tеkis harakatlanayotgan jismning birlik vaqtdagi aylanishlar sоni … dеb ataladi.",
+        "javob": [
+            {
+                "value": "Aylanish davri",
+                "isTrue": false
+            },
+            {
+                "value": "Chiziqli tеzlik",
+                "isTrue": false
+            },
+            {
+                "value": "Aylanish chastоtasi",
+                "isTrue": true
+            },
+            {
+                "value": "Burchak tеzlik",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Kompton effekti qaysi hodisani ifodalaydi?",
+        "javob": [
+            {
+                "value": "Nurlarning yutilishi",
+                "isTrue": false
+            },
+            {
+                "value": "Nurlarning sochilishi",
+                "isTrue": true
+            },
+            {
+                "value": "Nurlarning qaytishi",
+                "isTrue": false
+            },
+            {
+                "value": "Nurlarning sinishi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Metallarda elektr toki yo’nalishi qanday bo’ladi?",
+        "javob": [
+            {
+                "value": "Elektronlar yonalishiga qarama qarshi yo’nalish",
+                "isTrue": true
+            },
+            {
+                "value": "Elektronlar yonalishi",
+                "isTrue": false
+            },
+            {
+                "value": "Musbat ionlar yo’nalishi",
+                "isTrue": false
+            },
+            {
+                "value": "Manfiy zaryadlar yo’nalishi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Karno siklining umumiy ko’rinishdagi foydali ish koeffisiyenti qanday aniqlanadi?",
+        "javob": [
+            {
+                "value": "η = W/Q",
+                "isTrue": true
+            },
+            {
+                "value": "E = mc^2",
+                "isTrue": false
+            },
+            {
+                "value": "F = ma",
+                "isTrue": false
+            },
+            {
+                "value": "pV = nRT",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Jismlarning o’zaro ta’siri bilan aniqlanadigan energiyaga ……. deyiladi.",
+        "javob": [
+            {
+                "value": "Pоtеnsial enеrgiya",
+                "isTrue": true
+            },
+            {
+                "value": "Quvvat",
+                "isTrue": false
+            },
+            {
+                "value": "Kinеtik enеrgiya",
+                "isTrue": false
+            },
+            {
+                "value": "To’la enеrgiya",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Jism impul`sining o’zgarishi……. ga teng.",
+        "javob": [
+            {
+                "value": "Tezlik",
+                "isTrue": false
+            },
+            {
+                "value": "Kuch",
+                "isTrue": false
+            },
+            {
+                "value": "Kuch impulsi",
+                "isTrue": true
+            },
+            {
+                "value": "Massa",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Ko`ndalang kesim yuzi 1,6 mm² bo`lgan o’tkazgichdan 2 s davomida 2 * 10¹⁹ ta gacha elektron o`tsa, tok zichligi nimaga teng bo`ladi?",
+        "javob": [
+            {
+                "value": "0,5 A/mm²",
+                "isTrue": true
+            },
+            {
+                "value": "0,4 A/mm²",
+                "isTrue": false
+            },
+            {
+                "value": "2 A/mm²",
+                "isTrue": false
+            },
+            {
+                "value": "1 A/mm²",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Jismning impulsi 12 kg m/s, tezligi 6 m/s. Jism massasini tоping? (kg)",
+        "javob": [
+            {
+                "value": "2",
+                "isTrue": true
+            },
+            {
+                "value": "1",
+                "isTrue": false
+            },
+            {
+                "value": "4",
+                "isTrue": false
+            },
+            {
+                "value": "1.5",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Vaqt o`tishi bilan tok zichligini son qiymati va yo`nalishi o`zgarmasa uni deyiladi.",
+        "javob": [
+            {
+                "value": "O`zgarmas tok",
+                "isTrue": true
+            },
+            {
+                "value": "Tok kuchi",
+                "isTrue": false
+            },
+            {
+                "value": "Elektr toki",
+                "isTrue": false
+            },
+            {
+                "value": "Siljish tok",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Kritik xarorat tushunchasi nimani ifodalaydi?",
+        "javob": [
+            {
+                "value": "Kritik temperaturadan yuqori temperaturada biror holatda turgan modda хar qancha qisilganda ham suyuqlikka aylanmasligini",
+                "isTrue": true
+            },
+            {
+                "value": "To’yingan bug’ va suyuqlik orasidagi farq bo’lmaydigan xarorat",
+                "isTrue": false
+            },
+            {
+                "value": "Erish xarorati",
+                "isTrue": false
+            },
+            {
+                "value": "Suyuqlikning bug’ga aylanish xarorat",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Fotoeffekt hodisasi o’zi nima?",
+        "javob": [
+            {
+                "value": "Yorug’lik ta`sirida jismdan geliy chiqadi",
+                "isTrue": false
+            },
+            {
+                "value": "Yorug’lik ta`sirida jismdan elektronlar ajraladi",
+                "isTrue": true
+            },
+            {
+                "value": "Yorug’lik ta`sirida moddadan proton ajraladi",
+                "isTrue": false
+            },
+            {
+                "value": "Yorug’lik ta`sirida jismdan neytronlar ajraladi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tebranish konturidagi elektromagnit tebranishlar chastotasi 10³ Hz. Tebranishlar davri qanday (μs)?",
+        "javob": [
+            {
+                "value": "1000",
+                "isTrue": false
+            },
+            {
+                "value": "100",
+                "isTrue": true
+            },
+            {
+                "value": "100000",
+                "isTrue": false
+            },
+            {
+                "value": "10",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Fotonning impulsi qanday ifodalanadi?",
+        "javob": [
+            {
+                "value": "p = E/c",
+                "isTrue": true
+            },
+            {
+                "value": "E = mc^2",
+                "isTrue": false
+            },
+            {
+                "value": "F = ma",
+                "isTrue": false
+            },
+            {
+                "value": "p = mv",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Matematik mayatnikning tebranish davri nimaga bog’liq?",
+        "javob": [
+            {
+                "value": "Mayatnikning uzunligiga",
+                "isTrue": true
+            },
+            {
+                "value": "Erkin tushish tezlanishiga",
+                "isTrue": true
+            },
+            {
+                "value": "Mayatnikning uzunligidan chiqarilgan kvadrat ildizga to’g’ri va erkin tushish tezlanishidan chiqarilgan kvadrat ildizga teskari proporsional bog’likdir",
+                "isTrue": true
+            },
+            {
+                "value": "Tebranish amplitudasiga",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Atom yadrosi qanday zarralardan tashkil topgan?",
+        "javob": [
+            {
+                "value": "Elektron, vodorod, deteriydan",
+                "isTrue": false
+            },
+            {
+                "value": "Zarralardan",
+                "isTrue": false
+            },
+            {
+                "value": "Proton va neytron",
+                "isTrue": true
+            },
+            {
+                "value": "Elektron, proton, neytron",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Elektr zanjiriga kondensatorlar parallel ulanganda sig`imi qanday o`zgaradi?",
+        "javob": [
+            {
+                "value": "Sig`imi ortadi",
+                "isTrue": true
+            },
+            {
+                "value": "O`zgarmaydi",
+                "isTrue": false
+            },
+            {
+                "value": "Sig’im nolga teng bo’ladi",
+                "isTrue": false
+            },
+            {
+                "value": "Sig`imi kamayadi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Qarshiligi 100 om dan bo’gan 4 ta rezistorlarning ketma ket ulangandagi umumiy qarshiligi parallel ulangandagi umumiy qarshiligidan necha marta katta?",
+        "javob": [
+            {
+                "value": "10",
+                "isTrue": true
+            },
+            {
+                "value": "20",
+                "isTrue": false
+            },
+            {
+                "value": "14",
+                "isTrue": false
+            },
+            {
+                "value": "16",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Oralaridagi masofa 2 marta oshirilganida ham o`zaro ta`sirlashuvning Kulon kuchi o`zgarmasdan qolishi uchun zaryadlar ko`paytmasi necha marta ortirilishi lozim?",
+        "javob": [
+            {
+                "value": "49",
+                "isTrue": false
+            },
+            {
+                "value": "12",
+                "isTrue": false
+            },
+            {
+                "value": "7",
+                "isTrue": false
+            },
+            {
+                "value": "9",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "Molekulalarning o’zaro ta’sir va harakat energiyasi….deyiladi.",
+        "javob": [
+            {
+                "value": "kinetik energiya",
+                "isTrue": false
+            },
+            {
+                "value": "mexanik energiya",
+                "isTrue": false
+            },
+            {
+                "value": "potensial energiya",
+                "isTrue": false
+            },
+            {
+                "value": "ichki energiya",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "Rezistor uchlaridagi potensiallar farqi formulasini toping.",
+        "javob": [
+            {
+                "value": "V = IR",
+                "isTrue": true
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Nurlar oqimi kuchlanish berilgan kondensatorning orasidan o’tganda bu nurlarning qaysi biri musbat ishorali plastinkaga qarab og’adi?",
+        "javob": [
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "zarra",
+                "isTrue": true
+            },
+            {
+                "value": "zarra",
+                "isTrue": false
+            },
+            {
+                "value": "zarra",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Yadroning magnit momenti qanday zarralarning magnit momentidan tashkil topgan?",
+        "javob": [
+            {
+                "value": "Neytron, proton",
+                "isTrue": true
+            },
+            {
+                "value": "Elektron, neytron, proton",
+                "isTrue": false
+            },
+            {
+                "value": "Neytron, elektron",
+                "isTrue": false
+            },
+            {
+                "value": "Elektron, proton",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Jism aylana bo’ylab tekis harakatlanmoqda. Agar aylananing radiusi o’zgarmas qoldirilib jismning tezligi 3 marta orttirilsa, matkazga intilma tezlanish necha marta o’zgaradi?",
+        "javob": [
+            {
+                "value": "9 marta ortadi",
+                "isTrue": true
+            },
+            {
+                "value": "3 marta ortadi",
+                "isTrue": false
+            },
+            {
+                "value": "3 marta kamayadi",
+                "isTrue": false
+            },
+            {
+                "value": "9 marta kamayadi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Elеmеntning elеktr yurituvchi kuchi 8 V gа tеng, tаshqi qаrshilik 1,1 Om bo‘lganda zаnjirdagi tok kuchi 2 A gа tеng. Elеmеnt ichidаgi uning qаrshiligi tоpilsin.",
+        "javob": [
+            {
+                "value": "1,1 Om",
+                "isTrue": false
+            },
+            {
+                "value": "2,9 Om",
+                "isTrue": true
+            },
+            {
+                "value": "12 Om",
+                "isTrue": false
+            },
+            {
+                "value": "0,9 Om",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Molekulalari orasida o’zaro tasir kuchi mavjud emas, o’zaro va idish devorlari bilan to’qnashishi absolyut elastik, o’lchami idish o’lchamidan juda kichik gaz…deb ataladi.",
+        "javob": [
+            {
+                "value": "Qattiq jism",
+                "isTrue": false
+            },
+            {
+                "value": "Suyuqlik",
+                "isTrue": false
+            },
+            {
+                "value": "Ideal gaz",
+                "isTrue": true
+            },
+            {
+                "value": "Real gaz",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Termodinamikaning birinchi qonunining matematik ifodasi qanday?",
+        "javob": [
+            {
+                "value": "ΔU = Q - W",
+                "isTrue": true
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "To’lqin uzunligi qanday ifodalanadi?",
+        "javob": [
+            {
+                "value": "λ = v/f",
+                "isTrue": true
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Muhitning dielektrik singdiruvchanligi nimani ifodalaydi?",
+        "javob": [
+            {
+                "value": "Maydondagi energiyani oshish va kamayishini",
+                "isTrue": false
+            },
+            {
+                "value": "Elektr maydoniga kiritilgan dielektrikdagi maydon vakuumdagi maydon kuchlanganligiga nisbatan necha marta susayishini ifodalaydi",
+                "isTrue": true
+            },
+            {
+                "value": "Maydondagi erkin zaryadlarning algebraik yig`indisini",
+                "isTrue": false
+            },
+            {
+                "value": "Dielektrik maydonning kuchlanganligini",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Atom yuqori energetik sathdan quyi energetik sathga o’tganda…..",
+        "javob": [
+            {
+                "value": "Nur chiqaradi",
+                "isTrue": true
+            },
+            {
+                "value": "Nur yutadi",
+                "isTrue": false
+            },
+            {
+                "value": "Elektron yo’qotadi",
+                "isTrue": false
+            },
+            {
+                "value": "Yadro bo’linishi sodir bo’ladi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "O`ta o’tkazuvchanlik deb qanday hodisaga aytiladi?",
+        "javob": [
+            {
+                "value": "Qarshilikning temperaturaga proporsionalligi",
+                "isTrue": false
+            },
+            {
+                "value": "Temperatura oshganda qarshilikning kamayishi",
+                "isTrue": true
+            },
+            {
+                "value": "O’tkazgichlar temperaturasi kiritik temperaturalardan pasayganda qarshilikning nolgacha pasayishi",
+                "isTrue": true
+            },
+            {
+                "value": "Tok o’tgan o’tkazgichda energiya yo`qotilishi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Elektr toki miqdor jihatdan хarakterlaydi.",
+        "javob": [
+            {
+                "value": "elektr zaryadini",
+                "isTrue": true
+            },
+            {
+                "value": "zanjir qismida kuchlanish",
+                "isTrue": false
+            },
+            {
+                "value": "manbaning elektr yurituvchi kuchi",
+                "isTrue": false
+            },
+            {
+                "value": "tok kuchini",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Molekulyar – kinetik nazariyaning asosiy tenglamasi qanday ifodalanadi?",
+        "javob": [
+            {
+                "value": "PV = nRT",
+                "isTrue": true
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tugunda uchrashuvchi toklarning algebraik yig`indisi........",
+        "javob": [
+            {
+                "value": "0 ga teng",
+                "isTrue": true
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "1 ga teng",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Elektromagnit to’lqinlar fazoda qanday tezlikda tarqaladi?",
+        "javob": [
+            {
+                "value": "3 * 10^8 m/s",
+                "isTrue": true
+            },
+            {
+                "value": "4 * 10^10 m/s",
+                "isTrue": false
+            },
+            {
+                "value": "1 * 10^10 m/s",
+                "isTrue": false
+            },
+            {
+                "value": "2 * 10^9 m/s",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Radioktiv yadrolarni yarim emirish davri deb nimaga aytiladi?",
+        "javob": [
+            {
+                "value": "Yadroni yarmi yemirilishi uchun ketgan vaqt",
+                "isTrue": true
+            },
+            {
+                "value": "Yadroni to’liq yemirilish uchun ketgan vaqt",
+                "isTrue": false
+            },
+            {
+                "value": "Yadroni zarrachaga ajratishga ketgan vaqt",
+                "isTrue": false
+            },
+            {
+                "value": "Yadroni parchalanishiga ketgan vaqt",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "4 mol miqdordagi bir atomli ideal gazning haroratini 6 K ga oshirish uchun unga o’zgarmas bosimda qancha issiqlik miqdori berish kerak?",
+        "javob": [
+            {
+                "value": "512 J",
+                "isTrue": false
+            },
+            {
+                "value": "178 J",
+                "isTrue": true
+            },
+            {
+                "value": "498 J",
+                "isTrue": false
+            },
+            {
+                "value": "384 J",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Qachon elektrostatik maydon kuchlanganlik chiziqlari kuchlanganlik vektori bilan ustma – ust tushadi?",
+        "javob": [
+            {
+                "value": "Ikkita manfiy zaryadlar sistemasi",
+                "isTrue": false
+            },
+            {
+                "value": "Agar elektrostatik maydon yakka nuqtaviy zaryad hosil qilsa",
+                "isTrue": true
+            },
+            {
+                "value": "Musbat va manfiy zaryadlar sistemasida",
+                "isTrue": false
+            },
+            {
+                "value": "Ikkita musbat zaryadlar sistemasi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Absolyut namlik deb nimaga aytiladi?",
+        "javob": [
+            {
+                "value": "Dinamik muvozanat ro’y berish хodisasiga",
+                "isTrue": false
+            },
+            {
+                "value": "1 m³ хavo tarkibida mavjud bo’lgan suv bug’ining miqdorini ko'rsatuvchi kattalikka",
+                "isTrue": true
+            },
+            {
+                "value": "Suv bug’larining хavoda to’yingan хolatiga",
+                "isTrue": false
+            },
+            {
+                "value": "Хavo tarkibidagi bug’larning suvga aylanishiga",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Sharl qonuni qanday kattaliklarni o’zaro bog’laydi?",
+        "javob": [
+            {
+                "value": "Хamma parametrlar o’zgarmas bo’ladi",
+                "isTrue": false
+            },
+            {
+                "value": "Hajm bilan temperaturani",
+                "isTrue": false
+            },
+            {
+                "value": "Bosim bilan temperaturani",
+                "isTrue": false
+            },
+            {
+                "value": "Bosim bilan хajmni",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "Radiaktiv yemirilish qonuni qanday yoziladi?",
+        "javob": [
+            {
+                "value": "N(t) = N0 * (1/2)^(t/T1/2)",
+                "isTrue": true
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Eхolot asbobi qaysi sohada qo`llaniladi?",
+        "javob": [
+            {
+                "value": "Dehqonchilikda",
+                "isTrue": true
+            },
+            {
+                "value": "Konchilikda",
+                "isTrue": false
+            },
+            {
+                "value": "Gidroakustikada",
+                "isTrue": false
+            },
+            {
+                "value": "Metallurgiyada",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Yorug’lik interferensiyasi deb nimaga aytiladi?",
+        "javob": [
+            {
+                "value": "Nurlarni ikkiga ajralib tarqalishi",
+                "isTrue": false
+            },
+            {
+                "value": "Ikkita kogerent yorug’lik to’lqinlarini o’zaro qo’shilib, energiyalarning qayta taqsimlanib maksimum va minimum yoritilganlik hosil qilishi",
+                "isTrue": true
+            },
+            {
+                "value": "Nurlarni spektrlarga ajralishi",
+                "isTrue": false
+            },
+            {
+                "value": "Yorug’lik to’lqinlarining o’zaro qo’shilishi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Avtomobil o'z harakati vaqtining birinchi yarmida 80 km/soat tezlik bilan, qolgan vaqtida esa 40 km/soat tezlik bilan harakatlangan. Avtomobil harakatining o'rtacha tezligi topilsin.",
+        "javob": [
+            {
+                "value": "70 km/soat",
+                "isTrue": true
+            },
+            {
+                "value": "60 km/soat",
+                "isTrue": false
+            },
+            {
+                "value": "50 km/soat",
+                "isTrue": false
+            },
+            {
+                "value": "55 km/soat",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Elektromagnit tebranishlar konturida energiya aylanishlari qanday bo’ladi?",
+        "javob": [
+            {
+                "value": "Magnit maydon energiyasi elektr maydon energiyasiga",
+                "isTrue": false
+            },
+            {
+                "value": "Elektr maydon energiyasi mexanik energiyaga",
+                "isTrue": false
+            },
+            {
+                "value": "Elektr maydon energiyasi magnit maydon energiyasiga va aksincha",
+                "isTrue": true
+            },
+            {
+                "value": "Elektr maydon energiyasi magnit maydon energiyasiga",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "m massali gaz uchun Mendeleev –Klapeyron tenglamasini ifodalang.",
+        "javob": [
+            {
+                "value": "PV = nRT",
+                "isTrue": true
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Agar granitning zichligi 2700 kg/m³, suvning zichligi 1000 kg/m³ bo’lsa, 0.02 m³ granit bo’lakchasini suvda ushlab turish uchun qanday kuch zarur?",
+        "javob": [
+            {
+                "value": "140 N",
+                "isTrue": false
+            },
+            {
+                "value": "400 N",
+                "isTrue": true
+            },
+            {
+                "value": "200 N",
+                "isTrue": false
+            },
+            {
+                "value": "340 N",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Ekvipotensial sirt deb nimaga aytiladi?",
+        "javob": [
+            {
+                "value": "Maydon kuchlanganligi past bo`lgan nuqtaga",
+                "isTrue": false
+            },
+            {
+                "value": "Potensiali har hil bo’lgan kuch chiziqlari",
+                "isTrue": false
+            },
+            {
+                "value": "Maydon kuchlanganligi yuqori bo`lgan nuqtaga",
+                "isTrue": false
+            },
+            {
+                "value": "Barcha nuqtadagi potensial bir хil bo`lgan sirtga aytiladi",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "Tabiiy yorug’lik manbalaridan chiqqan nurda, interferensiya hodisasi kuzatiladimi?",
+        "javob": [
+            {
+                "value": "Interferensiya maksimum kuzatiladi",
+                "isTrue": false
+            },
+            {
+                "value": "Kuzatiladi",
+                "isTrue": true
+            },
+            {
+                "value": "Kuzatilmaydi",
+                "isTrue": false
+            },
+            {
+                "value": "Interferensiya minimum kuzatiladi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Avtоmоbil 1 soatda 60 km/sоat tеzlik bilan harakatlandi. Avtоmоbil qanday yolni bosib o’tadi?",
+        "javob": [
+            {
+                "value": "60 km",
+                "isTrue": true
+            },
+            {
+                "value": "240 m",
+                "isTrue": false
+            },
+            {
+                "value": "24 km",
+                "isTrue": false
+            },
+            {
+                "value": "40 km",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Elektrostatik maydonning manbai nima?",
+        "javob": [
+            {
+                "value": "Tinch turgan zaryadli zarralar",
+                "isTrue": true
+            },
+            {
+                "value": "Neytronlar",
+                "isTrue": false
+            },
+            {
+                "value": "Хarakatlanayotgan elektronlar",
+                "isTrue": false
+            },
+            {
+                "value": "Хarakatlanayotgan protonlar",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Adiabatik jarayon deganda nima tushuniladi?",
+        "javob": [
+            {
+                "value": "Хajm o’zgarmasdan ruy beradigan jarayon",
+                "isTrue": false
+            },
+            {
+                "value": "Temperatura o’zgarmasdan ro’y beradigan jarayon",
+                "isTrue": false
+            },
+            {
+                "value": "Bosim o’zgarmasdan ro’y beradigan jarayon",
+                "isTrue": false
+            },
+            {
+                "value": "Atrof muхit bilan issiqlik miqdori almashmasdan ro’y beradigan jarayon",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "Ichki ishqalanish koeffesientining o’lchov birligi nima?",
+        "javob": [
+            {
+                "value": "m/s",
+                "isTrue": false
+            },
+            {
+                "value": "Puaz",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "N/m²",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "EYuK 6 V ga teng bo‘lgan element maksimal 4 A tok beradi. Zanjirda 1 min da ajralib chiqqan eng ko‘p issiqlik miqdori topilsin.",
+        "javob": [
+            {
+                "value": "2000 J",
+                "isTrue": true
+            },
+            {
+                "value": "1440 J",
+                "isTrue": false
+            },
+            {
+                "value": "108 J",
+                "isTrue": false
+            },
+            {
+                "value": "208 J",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tok kuchi o`zgarmagan holda elektr qarshilik 2 marta kamaysa tokning quvvati qanday o`zgaradi?",
+        "javob": [
+            {
+                "value": "2 marta ortadi",
+                "isTrue": false
+            },
+            {
+                "value": "4 marta ortadi",
+                "isTrue": true
+            },
+            {
+                "value": "O`zgarmaydi",
+                "isTrue": false
+            },
+            {
+                "value": "2 marta kamayadi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Bo’ylama to’lqinlar qanday hosil bo’ladi?",
+        "javob": [
+            {
+                "value": "Garmonik tebranishlarda",
+                "isTrue": false
+            },
+            {
+                "value": "Muhit zarralarining harakat yo’nalishi va uning tarqalish yo’nalishi ustma – ust tushib tebranganda",
+                "isTrue": true
+            },
+            {
+                "value": "Muhit zarralari nurga parallel ravishda tebranganda",
+                "isTrue": false
+            },
+            {
+                "value": "Nogarmonik tebranishlarda",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Oq yorug’lik manbaiga ketma-ket joylashgan qizil va ko’k shishalar orqali qaralganda qanday rangda ko’rinadi?",
+        "javob": [
+            {
+                "value": "qizil",
+                "isTrue": false
+            },
+            {
+                "value": "ko’k",
+                "isTrue": true
+            },
+            {
+                "value": "qora",
+                "isTrue": false
+            },
+            {
+                "value": "sariq",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tokning zichligi qanday formuladan aniqlanadi?",
+        "javob": [
+            {
+                "value": "J = I/A",
+                "isTrue": true
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Gaz molekulalarining tezliklari bo’yicha taqsimlanishini qanday taqsimot deyiladi?",
+        "javob": [
+            {
+                "value": "Lens",
+                "isTrue": false
+            },
+            {
+                "value": "Stefan",
+                "isTrue": false
+            },
+            {
+                "value": "Nyuton",
+                "isTrue": false
+            },
+            {
+                "value": "Maksvell",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "Siklik chastota bilan chastota o`zaro qanday bog`langan?",
+        "javob": [
+            {
+                "value": "f = 1/T",
+                "isTrue": true
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Real gazning хolat (Van – der – Vaal`s) tenglamasi qanday ifodalanadi?",
+        "javob": [
+            {
+                "value": "P = (nRT)/(V - nb) - a(n/V)^2",
+                "isTrue": true
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Qanday maydon potensial maydon deyiladi?",
+        "javob": [
+            {
+                "value": "Barcha nuqtasidagi potensial nolga teng bo’lgan maydon",
+                "isTrue": true
+            },
+            {
+                "value": "Barch maydonlar",
+                "isTrue": false
+            },
+            {
+                "value": "Musbat zaryadning potensial energiyasi nol bo’ladigan maydonni",
+                "isTrue": false
+            },
+            {
+                "value": "Bir jinsli maydonda zaryadni ko’chirishda bajarilgan ish yo’lning shakliga bog’liq bo’lmaydigan maydon",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Jismlar nurlanishida energiya yutiladimi yoki chiqaradimi?",
+        "javob": [
+            {
+                "value": "Energiya muvozanatda bo’ladi",
+                "isTrue": false
+            },
+            {
+                "value": "Energiya o’zgarmaydi",
+                "isTrue": true
+            },
+            {
+                "value": "Energiya yutiladi",
+                "isTrue": false
+            },
+            {
+                "value": "Energiya chiqaradi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Bir mol gaz izoxorik ravishda bosimi 5 marta kamayguncha sovutildi. So’ngra 400 K boshlang’ich haroratgacha izobarik qizdirildi. Gaz qanday ish bajaragan (J)?",
+        "javob": [
+            {
+                "value": "1200",
+                "isTrue": false
+            },
+            {
+                "value": "2656",
+                "isTrue": true
+            },
+            {
+                "value": "1656",
+                "isTrue": false
+            },
+            {
+                "value": "5456",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Solishtirma elektr qarshiligi nimaga bog’liq?",
+        "javob": [
+            {
+                "value": "O’tkazgichning temperaturasiga",
+                "isTrue": true
+            },
+            {
+                "value": "O’tkazgichning temperaturasiga, o’tkazgichning materialiga",
+                "isTrue": false
+            },
+            {
+                "value": "O’tkazgichning uzunligiga",
+                "isTrue": false
+            },
+            {
+                "value": "O’tkazgichning materialiga",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Zanjirning bir qismi uchun Om qonuni (integral ko’rinishi) ni ko’rsating.",
+        "javob": [
+            {
+                "value": "∫V = ∫IR",
+                "isTrue": true
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "+15 dona proton va -16 dona elektrondan iborat berk tizimning natijaviy zaryadi qancha va qanday ishorali bo`ladi?",
+        "javob": [
+            {
+                "value": "–e",
+                "isTrue": false
+            },
+            {
+                "value": "–16e",
+                "isTrue": false
+            },
+            {
+                "value": "31e",
+                "isTrue": false
+            },
+            {
+                "value": "15e",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "Elektr dipoli nima?",
+        "javob": [
+            {
+                "value": "Orasidagi masofa juda kichik zaryad miqdorlari o`zaro teng va qarama - qarshi ishorali ikkita nuqtaviy zaryaddan tashkil topgan sistema",
+                "isTrue": true
+            },
+            {
+                "value": "Ikkita musbat zaryaddan tashkil topgan sistema",
+                "isTrue": false
+            },
+            {
+                "value": "Zaryadlar jamlanmasi",
+                "isTrue": false
+            },
+            {
+                "value": "Ikkita manfiy zaryaddan tashkil topgan sistema",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Vaqt birligi ichida burilish burchagiga miqdоr jihatdan tеng bo’lgan fizik kattalikga tеkis aylanma harakatning ... dеyiladi.",
+        "javob": [
+            {
+                "value": "Chiziqli tеzlik",
+                "isTrue": false
+            },
+            {
+                "value": "Сhastоtasi",
+                "isTrue": false
+            },
+            {
+                "value": "Aylanish davri",
+                "isTrue": false
+            },
+            {
+                "value": "Burchak tеzlik",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "Yassi kоndеnsаtоr plаstinkаlаri оrаsigа yupqа slyudа plаstinkаsi qo‘yilgаn. Elеktr mаydоni kuchlаngаnligi 10 kV/sm bo‘lganda bu plаstinkаgа qаndаy bоsim tа‘sir qilаdi? Dielektrik singdiruvchanlik 6 ga teng.",
+        "javob": [
+            {
+                "value": "8,5 Pa",
+                "isTrue": true
+            },
+            {
+                "value": "0,5 Pa",
+                "isTrue": false
+            },
+            {
+                "value": "1 Pa",
+                "isTrue": false
+            },
+            {
+                "value": "1,06 Pa",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tebranma хarakat qanday kattaliklar bilan хarakterlanadi?",
+        "javob": [
+            {
+                "value": "Davri, chastotasi, amplitudasi",
+                "isTrue": true
+            },
+            {
+                "value": "Amplitudasi",
+                "isTrue": false
+            },
+            {
+                "value": "Davri bilan, amplitudasi",
+                "isTrue": false
+            },
+            {
+                "value": "Chastotasi, amplituda",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Otkazgichlarning qarshiligi nimalarga bog'liq bo'ladi?",
+        "javob": [
+            {
+                "value": "Uzunligiga",
+                "isTrue": true
+            },
+            {
+                "value": "O’tkazgich ko`ndalang kesim yuziga, o’tkazgich moddasining turiga, uzunligiga",
+                "isTrue": true
+            },
+            {
+                "value": "O’tkazgich moddasining turiga",
+                "isTrue": false
+            },
+            {
+                "value": "O’tkazgich ko`ndalang kesim yuziga",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "1 kg qo’rg’oshin normal atmosfera bosimidagi erish temperaturasi 327 0С da butunlay suyuqlikka aylanishida qancha issiqlik miqdori sarflanadi?(kJ)",
+        "javob": [
+            {
+                "value": "20",
+                "isTrue": false
+            },
+            {
+                "value": "30",
+                "isTrue": true
+            },
+            {
+                "value": "25",
+                "isTrue": false
+            },
+            {
+                "value": "15",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Sharning elektr sig`imi formulasini ko`rsating.",
+        "javob": [
+            {
+                "value": "C = 4πε₀r",
+                "isTrue": true
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            },
+            {
+                "value": "",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Molekula erkin yugurish yo’lining o’rtacha uzunligi nimalarga bog’liq bo’ladi?",
+        "javob": [
+            {
+                "value": "Molekula konsentrasiyasiga",
+                "isTrue": true
+            },
+            {
+                "value": "Molekula konsentrasiyasiga, diametriga, effektiv kesimiga",
+                "isTrue": true
+            },
+            {
+                "value": "Molekula effektov kesimiga",
+                "isTrue": false
+            },
+            {
+                "value": "Molekula diametriga",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Nurlanishlar o’z tabiati bilan necha хil turlarga bo’linadi?",
+        "javob": [
+            {
+                "value": "0.5",
+                "isTrue": false
+            },
+            {
+                "value": "2",
+                "isTrue": true
+            },
+            {
+                "value": "1",
+                "isTrue": false
+            },
+            {
+                "value": "3",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Qanday zaryadlar bog`langan zaryadlar deyiladi?",
+        "javob": [
+            {
+                "value": "Tashqi maydon ta`sirida хarakatlanmay o`z oriyentatsiyasini o’zgartiruvchi zaryadlar",
+                "isTrue": true
+            },
+            {
+                "value": "Kristall panjara ichidagi elektronlar gazi",
+                "isTrue": false
+            },
+            {
+                "value": "Tashqi maydon ta`sirida tok oqimini хosil qiluvchi zaryadlar",
+                "isTrue": false
+            },
+            {
+                "value": "Maydon ta`sirida хarakatga keluvchi zaryadlar",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "C1 = 1 µF, C2 = 4 µF, C3 = 6 µF. Eng katta sig'im?",
+        "javob": [
+            {
+                "value": "11",
+                "isTrue": true
+            },
+            {
+                "value": "6",
+                "isTrue": false
+            },
+            {
+                "value": "20",
+                "isTrue": false
+            },
+            {
+                "value": "9",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "2 sm masofadagi nuqtada magnit maydon kuchlanganligi (2.5 A tok)?",
+        "javob": [
+            {
+                "value": "18.9",
+                "isTrue": false
+            },
+            {
+                "value": "9.8",
+                "isTrue": false
+            },
+            {
+                "value": "4.8",
+                "isTrue": false
+            },
+            {
+                "value": "32.0",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "savol": "Ko’chish nima?",
+        "javob": [
+            {
+                "value": "Boshlang’ich va oxirgi vaziyatni tutashtiruvchi vektor to’g’ri chiziqqa",
+                "isTrue": true
+            },
+            {
+                "value": "Traektoriyaning shakliga",
+                "isTrue": false
+            },
+            {
+                "value": "Yo'lning uzunligiga",
+                "isTrue": false
+            },
+            {
+                "value": "Jismning harakatiga",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Rezonans nima?",
+        "javob": [
+            {
+                "value": "Majburiy tebranish chastotasining uzunlikka bog’liq",
+                "isTrue": false
+            },
+            {
+                "value": "Chastotaning biror aniq qiymatida tebranish amplitudasining ortib ketishi",
+                "isTrue": false
+            },
+            {
+                "value": "Tashqi kuch o’zgarishlari chastotasi sistemaning xususiy tebranishlari chastotasi bilan tenglashganda amplituda oshishi",
+                "isTrue": true
+            },
+            {
+                "value": "Majbur etuvchi chastotaning tebranish davriga ta'sir etishi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Massasi 0.5 kg bo’lgan jismning og’irligi?",
+        "javob": [
+            {
+                "value": "2.5",
+                "isTrue": false
+            },
+            {
+                "value": "2",
+                "isTrue": false
+            },
+            {
+                "value": "5",
+                "isTrue": true
+            },
+            {
+                "value": "50",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Om qonunining differensial ko'rinishi?",
+        "javob": [
+            {
+                "value": "Tok kuchining elektr o’tkazuvchanligiga bog’liqligi",
+                "isTrue": true
+            },
+            {
+                "value": "Issiqlik quvvati zichligining elektr o’tkazuvchanligi",
+                "isTrue": false
+            },
+            {
+                "value": "Issiqlik quvvat zichligining elektr o’tkazuvchanlikka bog’liqligi",
+                "isTrue": false
+            },
+            {
+                "value": "Issiqlik o’tkazuvchanligining elektr o’tkazuvchanlikka bog’liqligi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Rezistordagi kuchlanish (2 Ohm, 12 V)?",
+        "javob": [
+            {
+                "value": "4 V",
+                "isTrue": false
+            },
+            {
+                "value": "2 V",
+                "isTrue": false
+            },
+            {
+                "value": "8 V",
+                "isTrue": true
+            },
+            {
+                "value": "14 V",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Nyutoning III qonuni ifodasi?",
+        "javob": [
+            {
+                "value": "F = -F'",
+                "isTrue": true
+            },
+            {
+                "value": "F = ma",
+                "isTrue": false
+            },
+            {
+                "value": "F = mv^2/r",
+                "isTrue": false
+            },
+            {
+                "value": "F = qE",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Fizik mayatnikning tebranish davri?",
+        "javob": [
+            {
+                "value": "T = 2π√(l/g)",
+                "isTrue": true
+            },
+            {
+                "value": "T = 2πl",
+                "isTrue": false
+            },
+            {
+                "value": "T = l/g",
+                "isTrue": false
+            },
+            {
+                "value": "T = g/l",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tartiblangan holda yo'nalish olib harakatlanuvchi zaryadlar oqimi?",
+        "javob": [
+            {
+                "value": "Kuchlanishi",
+                "isTrue": false
+            },
+            {
+                "value": "Elektr toki",
+                "isTrue": true
+            },
+            {
+                "value": "Quvvat",
+                "isTrue": false
+            },
+            {
+                "value": "Tok kuchi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Nima uchun elektronlarning issiqlik harakati tok hosil bo'lishiga olib kelmaydi?",
+        "javob": [
+            {
+                "value": "Temperatura oshganda qarshilik oshgani uchun",
+                "isTrue": false
+            },
+            {
+                "value": "Zaryadlarning o'zaro kompensatsiyalangani uchun",
+                "isTrue": false
+            },
+            {
+                "value": "Elektronlar хaotik harakatlangani uchun",
+                "isTrue": true
+            },
+            {
+                "value": "Zaryadlar erkin holatda bo’lmaydi",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Atomlarning o’rtacha o’lchamlari qanday?",
+        "javob": [
+            {
+                "value": "10^-14",
+                "isTrue": false
+            },
+            {
+                "value": "10^-9",
+                "isTrue": false
+            },
+            {
+                "value": "10^-10",
+                "isTrue": true
+            },
+            {
+                "value": "10^-12",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Yassi kondensator sig'imi qanday formula bilan ifodalanadi?",
+        "javob": [
+            {
+                "value": "C = ε * (A/d)",
+                "isTrue": true
+            },
+            {
+                "value": "C = Q/V",
+                "isTrue": false
+            },
+            {
+                "value": "C = 1/(4πk)",
+                "isTrue": false
+            },
+            {
+                "value": "C = m*g",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Zaryadlar tizimi hosil qilgan maydonning natijaviy potensiali qachon nolga teng bo'ladi?",
+        "javob": [
+            {
+                "value": "Zaryadlar soni 0 ga teng",
+                "isTrue": false
+            },
+            {
+                "value": "Cheksizlikda",
+                "isTrue": true
+            },
+            {
+                "value": "Zaryadlar turli ishorali bo'lganda",
+                "isTrue": false
+            },
+            {
+                "value": "Zaryadlar harakatlanganida",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tok manbaining elektr yurituvchi kuchi nima?",
+        "javob": [
+            {
+                "value": "Uzluksiz elektr toki hosil qiladigan manba",
+                "isTrue": true
+            },
+            {
+                "value": "Zaryad birligiga ta'sir etuvchi kuch",
+                "isTrue": false
+            },
+            {
+                "value": "Kulon kuchlarining ta'siri",
+                "isTrue": false
+            },
+            {
+                "value": "Birlik musbat zaryadni zanjir bo'ylab ko'chirishda",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "0.4 m/s² tezlanish bilan harakatlanayotgan avtomobilning tezligi qancha vaqtdan keyin 12 dan 18 m/s gacha ortadi?",
+        "javob": [
+            {
+                "value": "15s",
+                "isTrue": false
+            },
+            {
+                "value": "10s",
+                "isTrue": true
+            },
+            {
+                "value": "20s",
+                "isTrue": false
+            },
+            {
+                "value": "5s",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Shuntning qarshiligi ampermetr qarshiligidan 4 marta kichik. Agar magistraldagi tok kuchi 400 mA bo’lsa, ampermetr qanday tokni ko’rsatadi?",
+        "javob": [
+            {
+                "value": "40",
+                "isTrue": false
+            },
+            {
+                "value": "100",
+                "isTrue": true
+            },
+            {
+                "value": "30",
+                "isTrue": false
+            },
+            {
+                "value": "80",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Dielektrik singdiruvchanlik formulasi qanday?",
+        "javob": [
+            {
+                "value": "κ = ε/ε0",
+                "isTrue": true
+            },
+            {
+                "value": "κ = E/V",
+                "isTrue": false
+            },
+            {
+                "value": "κ = Q/C",
+                "isTrue": false
+            },
+            {
+                "value": "κ = F/qE",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Elektrostatik maydonda zaryadni ko’chirishda bajargan ish nimalarga bog’liq emas?",
+        "javob": [
+            {
+                "value": "Harakatlanish trayektoriyasiga",
+                "isTrue": true
+            },
+            {
+                "value": "Potensiallar farqiga",
+                "isTrue": false
+            },
+            {
+                "value": "Zaryad miqdorlariga",
+                "isTrue": false
+            },
+            {
+                "value": "Zaryadning ishorasiga",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Tekis o’zgaruvchan harakatda tezlanishning manfiy ishorasi nimani anglatadi?",
+        "javob": [
+            {
+                "value": "Tekis sekinlanuvchan harakat",
+                "isTrue": true
+            },
+            {
+                "value": "Tekis tezlanuvchan harakat",
+                "isTrue": false
+            },
+            {
+                "value": "Notekis harakat",
+                "isTrue": false
+            },
+            {
+                "value": "Tekis",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "To’lqin uzunligi bir xil va fazalar farqi o’zgarmas bo’lgan to’lqinlar ...",
+        "javob": [
+            {
+                "value": "Kogerent",
+                "isTrue": true
+            },
+            {
+                "value": "Ko’ndalang",
+                "isTrue": false
+            },
+            {
+                "value": "Turg’un",
+                "isTrue": false
+            },
+            {
+                "value": "Bo’ylama",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "10 m/s tezlik bilan harakatlanayotgan 8 kg massali jism kinetik energiyasini toping.",
+        "javob": [
+            {
+                "value": "200",
+                "isTrue": false
+            },
+            {
+                "value": "500",
+                "isTrue": true
+            },
+            {
+                "value": "100",
+                "isTrue": false
+            },
+            {
+                "value": "400",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Elektrostatik maydonda zaryadni ko’chirishda bajargan ish nimalarga bog’liq emas?",
+        "javob": [
+            {
+                "value": "Zaryad miqdorlariga",
+                "isTrue": false
+            },
+            {
+                "value": "Zaryadlar ishorasiga",
+                "isTrue": false
+            },
+            {
+                "value": "Harakatlanish trayektoriyasiga",
+                "isTrue": true
+            },
+            {
+                "value": "Potensiallar farqiga",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Vaqt birligi ichida o’tilgan yo’lga miqdor jihatdan teng bo’lgan fizik kattalikga ...",
+        "javob": [
+            {
+                "value": "Davr",
+                "isTrue": false
+            },
+            {
+                "value": "Vaqt",
+                "isTrue": false
+            },
+            {
+                "value": "Tezlik",
+                "isTrue": true
+            },
+            {
+                "value": "Yo'l",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "savol": "Uran yadrosi qanday zarralar ta’sirida bo’linadi?",
+        "javob": [
+            {
+                "value": "Mezonlar",
+                "isTrue": false
+            },
+            {
+                "value": "Barionlar",
+                "isTrue": false
+            },
+            {
+                "value": "Leptonlar",
+                "isTrue": false
+            },
+            {
+                "value": "Neytronlar",
+                "isTrue": true
+            }
+        ]
+    }
+]
