@@ -127,7 +127,7 @@ bot.on('message', (msg) => {
     const userId = msg.from.id;
 
     // ✅ Testni to‘xtatish
-    if (text === 'stop') {
+    if (text == '🛑 To‘xtatish') {
         const state = userStates.get(userId);
         if (state) {
             if (state.timeout) clearTimeout(state.timeout);
@@ -140,7 +140,7 @@ bot.on('message', (msg) => {
     }
 
     // 🔁 Qayta boshlash
-    if (text === '🔁 Qaytadan boshlash') {
+    if (text == '🔁 Qaytadan boshlash') {
         userStates.delete(userId);
         bot.sendMessage(userId, 'Test qayta boshlandi!');
         userStates.set(userId, {
