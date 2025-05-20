@@ -2,41 +2,47 @@ const TelegramBot = require('node-telegram-bot-api');
 const fs = require('fs');
 require("dotenv").config()
 
-const QUESTIONS = require('./data.json');
-const TOKEN = process.env.BOT_TOKEN;
+const BOT_TOKEN = process.env.fizika_bot_token; // o'zingizning tokenni kiriting
+const QUESTIONS = JSON.parse(fs.readFileSync('fizika_question.json', 'utf-8'));
+const bot = new TelegramBot(BOT_TOKEN, { polling: true });
 
-const bot = new TelegramBot(TOKEN, { polling: true });
 const userStates = new Map();
 
-function getRandomQuestions(n) {
-    const shuffled = [...QUESTIONS].sort(() => 0.5 - Math.random());
-    return shuffled.slice(0, n);
-}
+// Boshlash
+bot.onText(/\/start/, (msg) => {
+    const userId = msg.from.id;
+    userStates.set(userId, {
+        index: 0,
+        score: 0,
+        total: QUESTIONS.length,
+        answers: [],
+        timeout: null
+    });
+    bot.sendMessage(userId, 'Test boshlandi! Quyidagi tugmalar yordamida testni to‘xtatishingiz yoki qayta boshlashingiz mumkin.', {
+        reply_markup: {
+            keyboard: [
+                ['🛑 To‘xtatish', '🔁 Qaytadan boshlash']
+            ],
+            resize_keyboard: true
+        }
+    }).then(() => {
+        sendQuestion(userId);
+    });
+});
 
+// Savol yuborish
 function sendQuestion(userId) {
     const state = userStates.get(userId);
     if (!state) return;
 
+    // ❗ Eski timeoutni tozalash
     if (state.timeout) {
         clearTimeout(state.timeout);
         state.timeout = null;
     }
 
-    const questionObj = state.mode === '20test'
-        ? state.questions[state.index]
-        : QUESTIONS[state.index];
-
+    const questionObj = QUESTIONS[state.index];
     if (!questionObj) return showResult(userId);
-
-    const choices = questionObj.javob.map(j => j.value.slice(0, 100));
-    for (let i = 0; i < choices.length; i++) {
-        if (choices[i].length > 100) {
-            bot.sendMessage(userId, `❌ ${state.index + 1}-savolning ${i + 1}-variantidagi matn juda uzun.`);
-            state.index++;
-            sendQuestion(userId);
-            return;
-        }
-    }
 
     const options = {
         type: 'quiz',
@@ -45,12 +51,18 @@ function sendQuestion(userId) {
         open_period: 30
     };
 
+    const choices = questionObj.javob.map(j => j.value.slice(0, 100));
+
     const current = state.index + 1;
     const total = state.total;
     const correctSoFar = state.answers.filter(a => a.is_correct).length;
-    const questionText = `— ${questionObj.savol} \n\n🧠 ${current}/${total} | ✅ ${correctSoFar}/${state.index}`;
+
+    const questionText = `— ${questionObj.savol} 🧠 ${current}/${total} | ✅ ${correctSoFar}/${state.index}`;
 
     bot.sendPoll(userId, questionText, choices, options).then(pollMsg => {
+        // ✅ Yangi timeout ni saqlaymiz
+      
+        state.timeout = null;
         const timeout = setTimeout(() => {
             state.answers.push({
                 selected: null,
@@ -62,108 +74,90 @@ function sendQuestion(userId) {
             sendQuestion(userId);
         }, 31000);
 
-        state.timeout = timeout;
+        state.timeout = timeout; // ❗ saqlaymiz
     });
 }
 
-function showResult(userId) {
-    const state = userStates.get(userId);
-    if (!state) return;
-
-    const correctAnswers = state.answers.filter(a => a.is_correct).length;
-    const totalQuestions = state.total;
-
-    bot.sendMessage(userId, `✅ Test yakunlandi!\n\nTo‘g‘ri javoblar soni: ${correctAnswers}/${totalQuestions}`);
-    userStates.delete(userId);
-}
-
-bot.on('poll_answer', pollAnswer => {
+// Poll natijasi
+bot.on('poll_answer', (pollAnswer) => {
     const userId = pollAnswer.user.id;
     const state = userStates.get(userId);
     if (!state) return;
 
-    if (state.timeout) {
-        clearTimeout(state.timeout);
-        state.timeout = null;
-    }
+    clearTimeout(state.timeout); // timeoutni to‘xtatamiz
 
-    const questionObj = state.mode === '20test'
-        ? state.questions[state.index]
-        : QUESTIONS[state.index];
+    const currentQuestion = QUESTIONS[state.index];
+    const correctIndex = currentQuestion.javob.findIndex(j => j.isTrue);
+    const selected = pollAnswer.option_ids[0];
 
-    const correctOptionId = questionObj.javob.findIndex(j => j.isTrue);
-    const selectedOptionId = pollAnswer.option_ids[0];
+    const isCorrect = selected === correctIndex;
+    if (isCorrect) state.score++;
 
-    const isCorrect = selectedOptionId === correctOptionId;
-    state.answers.push({
-        selected: selectedOptionId,
-        correct: correctOptionId,
-        is_correct: isCorrect
-    });
+    state.answers.push({ selected, correct: correctIndex, is_correct: isCorrect });
     state.index++;
-
-    setTimeout(() => sendQuestion(userId), 500);
+    sendQuestion(userId);
 });
 
-bot.onText(/\/start/, msg => {
-    const userId = msg.from.id;
-    bot.sendMessage(userId, '📚 Testga xush kelibsiz!', {
+
+// Natija
+function showResult(userId) {
+    const state = userStates.get(userId);
+    if (!state) return;
+
+    const text = `✅ Test tugadi!\n\nSizning natijangiz: ${state.score} / ${state.total}`;
+    bot.sendMessage(userId, text, {
         reply_markup: {
-            keyboard: [
-                ['🛑 To‘xtatish', '🔁 Qaytadan boshlash'],
-                ['🧪 20ta Test']
-            ],
+            keyboard: [['🔁 Qaytadan boshlash']],
             resize_keyboard: true
         }
     });
+}
+
+bot.onText(/\/stop/, (msg) => {
+    const userId = msg.from.id;
+    const state = userStates.get(userId);
+    if (state) {
+        if (state.timeout) clearTimeout(state.timeout);
+        userStates.delete(userId);
+        bot.sendMessage(userId, '🛑 Test to‘xtatildi. Qayta boshlash uchun /start yozing.');
+    } else {
+        bot.sendMessage(userId, 'Sizda hozircha aktiv test yo‘q.');
+    }
 });
 
-bot.on('message', msg => {
+bot.on('message', (msg) => {
+    const text = msg.text
     const userId = msg.from.id;
-    const text = msg.text;
-
-    if (text === '🧪 20ta Test') {
-        const selectedQuestions = getRandomQuestions(20);
-        userStates.set(userId, {
-            index: 0,
-            score: 0,
-            total: selectedQuestions.length,
-            answers: [],
-            timeout: null,
-            mode: '20test',
-            questions: selectedQuestions
-        });
-
-        bot.sendMessage(userId, '🧪 20 ta test boshlandi!');
-        sendQuestion(userId);
+    
+    // ✅ Testni to‘xtatish
+    if (text == '🛑 To‘xtatish') {
+        const state = userStates.get(userId);
+        if (state) {
+            if (state.timeout) clearTimeout(state.timeout);
+            userStates.delete(userId);
+            bot.sendMessage(userId, '🛑 Test to‘xtatildi. Qayta boshlash uchun /start yozing.');
+        } else {
+            bot.sendMessage(userId, text+'Sizda hozircha aktiv test yo‘q.');
+        }
         return;
     }
 
-    if (text === '🔁 Qaytadan boshlash') {
-        userStates.delete(userId);
-        bot.sendMessage(userId, '♻️ Test boshqatdan boshlandi. /start ni bosing.', {
-            reply_markup: {
-                keyboard: [
-                    ['🛑 To‘xtatish', '🔁 Qaytadan boshlash'],
-                    ['🧪 20ta Test']
-                ],
-                resize_keyboard: true
-            }
-        });
-        return;
+    // 🔁 Qayta boshlash
+    if (text == '🔁 Qaytadan boshlash') {
+    const oldState = userStates.get(userId);
+    if (oldState && oldState.timeout) {
+        clearTimeout(oldState.timeout); // eski timeoutni tozalaymiz
     }
 
-    if (text === '🛑 To‘xtatish') {
-        userStates.delete(userId);
-        bot.sendMessage(userId, '🛑 Test to‘xtatildi. /start ni bosing.', {
-            reply_markup: {
-                keyboard: [
-                    ['🛑 To‘xtatish', '🔁 Qaytadan boshlash'],
-                    ['🧪 20ta Test']
-                ],
-                resize_keyboard: true
-            }
-        });
-        return;
-    }
+    userStates.delete(userId);
+    bot.sendMessage(userId, 'Test qayta boshlandi!');
+    userStates.set(userId, {
+        index: 0,
+        score: 0,
+        total: QUESTIONS.length,
+        answers: [],
+        timeout: null
+    });
+    sendQuestion(userId);
+}
 });
