@@ -1,5 +1,6 @@
 const TelegramBot = require('node-telegram-bot-api');
 const fs = require('fs');
+require("dotenv").config()
 
 const QUESTIONS = require('./data.json');
 const TOKEN = process.env.BOT_TOKEN;
