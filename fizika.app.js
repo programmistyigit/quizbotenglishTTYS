@@ -51,7 +51,8 @@ function sendQuestion(userId) {
         open_period: 30
     };
 
-    const choices = questionObj.javob.map(j => j.value);
+    const choices = questionObj.javob.map(j => j.value.slice(0, 100));
+
     const current = state.index + 1;
     const total = state.total;
     const correctSoFar = state.answers.filter(a => a.is_correct).length;
