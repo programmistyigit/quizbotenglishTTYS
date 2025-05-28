@@ -2,12 +2,18 @@ const TelegramBot = require('node-telegram-bot-api');
 const fs = require('fs');
 require("dotenv").config()
 
-const BOT_TOKEN = process.env.fizika_bot_token; // o'zingizning tokenni kiriting
+const BOT_TOKEN = process.env.tarix_bot_api; // o'zingizning tokenni kiriting
+
 const QUESTIONS = JSON.parse(fs.readFileSync('tarix.json', 'utf-8'));
 const bot = new TelegramBot(BOT_TOKEN, { polling: true });
 
 const userStates = new Map();
-
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
 
 // Boshlash
 bot.onText(/\/start/, (msg) => {
@@ -89,6 +95,7 @@ function sendQuestion(userId) {
         state.timeout = timeout;
     });
 }
+
 
 // Poll natijasi
 bot.on('poll_answer', (pollAnswer) => {

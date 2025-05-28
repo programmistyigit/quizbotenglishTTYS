@@ -1447,5 +1447,590 @@
       { "value": "A. Navoi", "isTrue": false },
       { "value": "Al-Farobi", "isTrue": false }
      ]
-    }
+    },
+    {
+    "savol": "O`rta asrlarda yashagan progressiv mutafakkirlardan biri J. Boden davlatning asosiy vazifasi... deya ta’rif bergan.",
+    "javob": [
+      { "value": "Xuquq va ozodlikni taminlashdan iborat.", "isTrue": true },
+      { "value": "Davlatni boshqarish", "isTrue": false },
+      { "value": "Ijtimoiy adolatni ta'minlash", "isTrue": false },
+      { "value": "Xalqni himoya qilish", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Buyuk faylasuf olim Farobiyning qaysi asarida o`rta asr fanining ijtimoiy siyosiy, falsafiy masalalari keng talqin qilingan?",
+    "javob": [
+      { "value": "“Fozil odamlar shahri”", "isTrue": true },
+      { "value": "“Akhlok”", "isTrue": false },
+      { "value": "“Tafakkur”", "isTrue": false },
+      { "value": "“Ijtimoiy nazariya”", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Farobiy o`zining asarlarida davlatning vazifasi... deya qayd etgan.",
+    "javob": [
+      { "value": "Insonlarni baxt-saodatga olib borishdir, bu esa ilm va yaxshi axloq yordamida qo`lga kiritiladi.", "isTrue": true },
+      { "value": "Ijtimoiy tartibni saqlash", "isTrue": false },
+      { "value": "Harbiy kuchlarni boshqarish", "isTrue": false },
+      { "value": "Tijorat faoliyatini rivojlantirish", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Jamoatchilik boshqaruvi tizimini takomillashtirishda qanday vazifalar qamrab olingan?",
+    "javob": [
+      { "value": "Nodavlat notijorat tashkilotlarni, ommaviy axborot vositalarini yanada rivojlantirish, shuningdek mahallaning jamiyat hayotidagi rolini kuchaytirish.", "isTrue": true },
+      { "value": "Davlat idoralarini kuchaytirish", "isTrue": false },
+      { "value": "Tijorat tashkilotlarini rivojlantirish", "isTrue": false },
+      { "value": "Siyosiy partiyalarni cheklash", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O`zbekistonda 2025 yilga borib turizm sohasida qanday yutuqlarga erishish rejalashtirilmoqda?",
+    "javob": [
+      { "value": "Xar yili 7 mln. xorijliklarni O`zbekistonga kelishi va undan tushgan daromadni 2 mln. dollarga yetkazish.", "isTrue": true },
+      { "value": "Yillik 5 mln. xorijliklarni qabul qilish", "isTrue": false },
+      { "value": "Xorijiy investitsiyalarni 1 mln. dollarga yetkazish", "isTrue": false },
+      { "value": "Turizm sohasida 100 ming yangi ish o'rinlari yaratish", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Quyidagi davlatlardan qaysi biri O’zbekiston mustaqilligini birinchi bo’lib tan oldi?",
+    "javob": [
+      { "value": "Turkiya", "isTrue": true },
+      { "value": "Rossiya", "isTrue": false },
+      { "value": "Qozog'iston", "isTrue": false },
+      { "value": "Xitoy", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Oilaning muhim tarkibiy asosi nima?",
+    "javob": [
+      { "value": "Tabiiy munosabatlar; Biologik munosabatlar; Iqtisodiy mulkiy, ma'naviy, axloqiy munosabatlar", "isTrue": true },
+      { "value": "Fuqaro huquqlari", "isTrue": false },
+      { "value": "Siyosiy munosabatlar", "isTrue": false },
+      { "value": "Ijtimoiy xizmatlar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Bozor munosabatlarining rivojiga fuqarolik jamiyati qanday ta’sir ko’rsatadi?",
+    "javob": [
+      { "value": "Korrupsiyaga qarshi kurashda qo’l keladi; davlatga ko’mak beradi; tadbirkorlarning imkoniyatlarini kengaytiradi.", "isTrue": true },
+      { "value": "Siyosiy partiyalarni cheklaydi", "isTrue": false },
+      { "value": "Faoliyatni pasaytiradi", "isTrue": false },
+      { "value": "Bozorni monopoliyaga olib keladi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Fuqaroviy faollik dastlab qanday ko’rinishda namoyon bo’ladi?",
+    "javob": [
+      { "value": "Ko’ngillilar jamiyatlari vositasida", "isTrue": true },
+      { "value": "Tijorat tashkilotlari orqali", "isTrue": false },
+      { "value": "Siyosiy partiyalar orqali", "isTrue": false },
+      { "value": "Davlat idoralari orqali", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Xususiy mulk insonga qanday xis baxsh etadi?",
+    "javob": [
+      { "value": "Mustaqillik va erkinlik, o`z o`zini qadrlash, tinchlik va xavfsizlik, ijtimoiy holat, ma’suliyat", "isTrue": true },
+      { "value": "Fuqaro huquqlarini cheklash", "isTrue": false },
+      { "value": "Ijtimoiy adolatsizlik", "isTrue": false },
+      { "value": "Iqtisodiy qiyinchiliklar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O`zbekiston paxta yetishtirish buyicha dunyoda nechanchi o`rinda turadi?",
+    "javob": [
+      { "value": "4- o`rinda", "isTrue": true },
+      { "value": "1- o'rinda", "isTrue": false },
+      { "value": "2- o'rinda", "isTrue": false },
+      { "value": "3- o'rinda", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Umuminsoniy qadriyatlar deganda nimani tushunasiz?",
+    "javob": [
+      { "value": "Inson huquqlari, adolat, xurmat va xurmatli munosabat, tinchlik va hamkorlik, ma’suliyat va hisobdorlik", "isTrue": true },
+      { "value": "Siyosiy erkinliklar", "isTrue": false },
+      { "value": "Ijtimoiy kuch", "isTrue": false },
+      { "value": "Tijorat imkoniyatlari", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Nobel mukofoti laureyati D. Djozef Stiglis metodi buyicha “Baxt o’lchovi” nechta yunalishda e’tiborga olinadi?",
+    "javob": [
+      { "value": "5ta (ijtimoiy farovonlik, sog`liq, ta`lim, daromad va boylik taqsimoti, atrof muhit)", "isTrue": true },
+      { "value": "3ta (ijtimoiy farovonlik, sog`liq, ta`lim)", "isTrue": false },
+      { "value": "4ta (ijtimoiy farovonlik, daromad, atrof muhit, siyosiy barqarorlik)", "isTrue": false },
+      { "value": "2ta (ijtimoiy farovonlik, iqtisodiy o'sish)", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Bizga ma’lumki Orol atrofida 5,5 mln gektar yer maydoni saxroga aylangan. Xozirgi kunda Muynoqda qanday ijobiy ishlar olib borilmoqda?",
+    "javob": [
+      { "value": "Asosan ko`chatlar ekilmoqda, 500 ming gektar maydonda o`rmonlar barpo etiladi, yiliga 14 mln ko`chat", "isTrue": true },
+      { "value": "Suv ta'minoti yaxshilanmoqda", "isTrue": false },
+      { "value": "Qishloq xo'jaligi rivojlantirilmoqda", "isTrue": false },
+      { "value": "Tadbirkorlikni rivojlantirishga qaratilgan dasturlar amalga oshirilmoqda", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekiston Respublikasi Konstitutsiyasiga asosan O’zbekiston Respublikasi Prezidenti etib kim saylanishi mumkin?",
+    "javob": [
+      { "value": "O`zbekiston fuqarosi, yoshi 35-65 orasi, 10 yil O'zbekiston hududida yashagan saylov huquqiga ega bo'lishi kerak.", "isTrue": true },
+      { "value": "O'zbekiston fuqarosi, yoshi 30-60 orasi", "isTrue": false },
+      { "value": "O'zbekiston fuqarosi, yoshi 40-70 orasi", "isTrue": false },
+      { "value": "O'zbekiston fuqarosi, yoshi 25-55 orasi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekiston Respublikasida saylovlarni tashkil etish va o’tkazish bo’yicha doimiy organ qaysi?",
+    "javob": [
+      { "value": "Markaziy saylov komissiyasi", "isTrue": true },
+      { "value": "Oliy Majlis", "isTrue": false },
+      { "value": "Vazirlar Mahkamasi", "isTrue": false },
+      { "value": "Ijtimoiy tashkilotlar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O`zbekistonda maktab bitiruvchilarini oliy ta’lim bilan qamrab olish darajasi 2030 yilda ... belgilangan.",
+    "javob": [
+      { "value": "50% etib", "isTrue": true },
+      { "value": "30% etib", "isTrue": false },
+      { "value": "40% etib", "isTrue": false },
+      { "value": "60% etib", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Fuqarolar huquqlarini himoya qilish, jismoniy va yuridik shaxslarning murojaatlari bilan ishlashni nazorat qilish va muvofiqlashtirish xizmati tomonidan mamlakatimizning barcha shahar hamda tumanlarida, chekka-chekka qishloqlarda, mahallalarda ommaviy qabullar, xalq bilan yuzma-yuz suhbatlar tashkil qilish masalalarini qaysi davlat organi amalga oshiradi?",
+    "javob": [
+      { "value": "Prezident Administratsiyasi", "isTrue": true },
+      { "value": "Vazirlar Mahkamasi", "isTrue": false },
+      { "value": "Oliy Majlis", "isTrue": false },
+      { "value": "Ijtimoiy tashkilotlar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Davlatimiz rahbarining 2018 yil 25 sentabrdagi Farmoni bilan Vazirlar Mahkamasi huzurida qanday jamgarma tashkil etildi?",
+    "javob": [
+      { "value": "“El-yurt umidi”", "isTrue": true },
+      { "value": "“Yoshlar kelajagi”", "isTrue": false },
+      { "value": "“Millat kelajagi”", "isTrue": false },
+      { "value": "“Ijtimoiy barqarorlik”", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekiston 2017 yildan boshlab ishtirokchi sifatida qatnashayotgan “Bir makon, bir yo‘l” xalqaro forumi qaysi davlat tashabbusi bilan tashkil qilingan edi?",
+    "javob": [
+      { "value": "Xitoy tashabbusi bilan tashkil qilingan", "isTrue": true },
+      { "value": "Rossiya tashabbusi bilan tashkil qilingan", "isTrue": false },
+      { "value": "AQSH tashabbusi bilan tashkil qilingan", "isTrue": false },
+      { "value": "Evropa Ittifoqi tashabbusi bilan tashkil qilingan", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O'zbekiston Respublikasi Prezidentining “O'zbekiston Respublikasining xalqaro reyting va indekslardagi o'rnini yaxshilash hamda davlat organlari va tashkilotlarida ular bilan tizimli ishlashning yangi mexanizmini joriy qilish to'g'risida”gi farmoni qachon qabul qilindi?",
+    "javob": [
+      { "value": "2020 yil 2 iyun", "isTrue": true },
+      { "value": "2019 yil 1 yanvar", "isTrue": false },
+      { "value": "2021 yil 10 aprel", "isTrue": false },
+      { "value": "2018 yil 15 fevral", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Quyidagi reytinglarning qaysi biri BMTning Sanoatni rivojlantirish tashkiloti (YUNIDO) tomonidan yuritiladi?",
+    "javob": [
+      { "value": "“Raqobatbardosh sanoat unumdorligi indeksi”", "isTrue": true },
+      { "value": "“Biznes yuritish osonligi indeksi”", "isTrue": false },
+      { "value": "“Innovatsiya indeksi”", "isTrue": false },
+      { "value": "“Qonun ustuvorligi indeksi”", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Xalqaro mustaqil notijorat tashkilot - “World Justice Project” tomonidan 2010 yildan boshlab qaysi dunyo reytingi e’lon qilinib kelinmoqda?",
+    "javob": [
+      { "value": "“Qonun ustuvorligi indeksi”", "isTrue": true },
+      { "value": "“Innovatsiya indeksi”", "isTrue": false },
+      { "value": "“Raqobatbardosh imkoniyat indeksi”", "isTrue": false },
+      { "value": "“Iqtisodiy erkinlik indeksi”", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Xalqaro mustaqil notijorat tashkilot - “World Justice Project” ekspertlari “Qonun ustuvorligi indeksi”ni qanday tadqiqotlar natijalariga tayanib ishlab chiqadilar?",
+    "javob": [
+      { "value": "Ushbu davlatlardagi huquqiy muhit, jamiyat va davlat oʻrtasidagi oʻzaro aloqalar xususiyatlari, mustaqil va daxlsiz sud mavjudligini tadqiq etadi.", "isTrue": true },
+      { "value": "Siyosiy erkinlikni o'rganadi", "isTrue": false },
+      { "value": "Ijtimoiy adolatni ta'minlaydi", "isTrue": false },
+      { "value": "Siyosiy partiyalarni nazorat qiladi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“Qonun ustuvorligi indeksi”ning qayd etishicha, Oʻzbekistonda huquq ustuvorligi bilan bogʻliq vaziyat o’rganilganda uning qaysi indekatori eng yomon natija sifatida ko’rsatildi?",
+    "javob": [
+      { "value": "“Hukumat ochiqligi” indikatori", "isTrue": true },
+      { "value": "“Siyosiy erkinlik” indikatori", "isTrue": false },
+      { "value": "“Ijtimoiy himoya” indikatori", "isTrue": false },
+      { "value": "“Davlat xizmatlari” indikatori", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Xalqaro intellektual mulk tashkilotining “Global innovatsiyalar indeksi”ni ishlab chiqishdagi asosiy tadqiqotlarni dunyoniy qaysi oliy ta’lim muassasasi amalga oshiradi?",
+    "javob": [
+      { "value": "Kornell universiteti (Nyu-York, xususiy OTM)", "isTrue": true },
+      { "value": "Harvard universiteti", "isTrue": false },
+      { "value": "Massachusetts universiteti", "isTrue": false },
+      { "value": "Stanford universiteti", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Doing Business reytingi (“Biznes yuritish osonligi reytingi”)da kichik va o‘rta biznes yuritish osonligi darajasini ta’minlashga qaratilgan jami nechta indikator baholanadi?",
+    "javob": [
+      { "value": "11ta indikator", "isTrue": true },
+      { "value": "10ta indikator", "isTrue": false },
+      { "value": "8ta indikator", "isTrue": false },
+      { "value": "12ta indikator", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Biznes erkinligi, mehnat erkinligi hamda investitsiya erkinligi qaysi xalqaro reytingning asosiy tarkibiy qismi sanaladi?",
+    "javob": [
+      { "value": "Iqtisodiy erkinlik", "isTrue": true },
+      { "value": "Siyosiy erkinlik", "isTrue": false },
+      { "value": "Ijtimoiy erkinlik", "isTrue": false },
+      { "value": "Madaniy erkinlik", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "2020 yil respublikamizda 197 ta yirik, minglab kichik va o‘rta korxonalar hamda infratuzilma ob'yektlari barpo etildi. Jumladan,…",
+    "javob": [
+      { "value": "197 ta yirik, minglab kichik va o‘rta korxonalar hamda infratuzilma ob'yektlari barpo etildi.", "isTrue": true },
+      { "value": "100 ta yirik korxona", "isTrue": false },
+      { "value": "50 ta infratuzilma obyekti", "isTrue": false },
+      { "value": "150 ta kichik korxona", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Qaysi yili dunyodagi nufuzli “Fitch Ratings” va “Standart & Poo’rs” reyting agentliklari birinchi marta O’zbekistonning xalqaro suveren kredit reytingini belgiladi?",
+    "javob": [
+      { "value": "2018 yil", "isTrue": true },
+      { "value": "2019 yil", "isTrue": false },
+      { "value": "2017 yil", "isTrue": false },
+      { "value": "2020 yil", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Yurtimiz tarixida ilk marta O‘zbekistonning suveren davlat obligatsiyalarini xalqaro moliya bozorlariga chiqarish rejasi haqida Prezident Sh.M.Mirziyoyevning qaysi yildagi Murojaatnomasida ma’lumot berilgan?",
+    "javob": [
+      { "value": "2018 yil", "isTrue": true },
+      { "value": "2017 yil", "isTrue": false },
+      { "value": "2019 yil", "isTrue": false },
+      { "value": "2020 yil", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“O‘zbekiston - 2030” strategiyasi to‘g‘risida Prezident Farmoni qachon qabul qilindi?",
+    "javob": [
+      { "value": "2023 yil 11 sentyabr", "isTrue": true },
+      { "value": "2022 yil 5 fevral", "isTrue": false },
+      { "value": "2021 yil 1 yanvar", "isTrue": false },
+      { "value": "2020 yil 20 noyabr", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekistonda davlat suverenitetini amalga oshiruvchi tuzilmalarni belgilang.",
+    "javob": [
+      { "value": "Tashqi ishlar vazirligi, Mudofaa vazirligi, Ichki ishlar vazirligi, Milliy xavfsizlik xizmati, Oliy attestatsiya komissiyasi va boshqa hukumat organlari", "isTrue": true },
+      { "value": "Siyosiy partiyalar", "isTrue": false },
+      { "value": "Ijtimoiy tashkilotlar", "isTrue": false },
+      { "value": "Oliy Majlis", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekistonning xorijiy mamlakatlar bilan aloqasini yo‘lga qo‘yish maqsadida respublika tarixida birinchi marta Tashqi iqtisodiy aloqalar vazirligi tuzildi, vazirlik quyudagi vakolatlarga ega qilib belgilandi:",
+    "javob": [
+      { "value": "Xorijiy investitsiyalarni jalb qilish, eksport va import faoliyatini tartibga solish hamda xalqaro iqtisodiy hamkorlikni rivojlantirish.", "isTrue": true },
+      { "value": "Siyosiy aloqalarni mustahkamlash", "isTrue": false },
+      { "value": "Mahalliy iqtisodni rivojlantirish", "isTrue": false },
+      { "value": "Ijtimoiy masalalarni hal etish", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Bugungi kunda Oliy ta’lim, fan va innovatsiyalar vaziri kim?",
+    "javob": [
+      { "value": "Kongratbay Sharipov", "isTrue": true },
+      { "value": "Sh. Mirziyoyev", "isTrue": false },
+      { "value": "I.A. Karimov", "isTrue": false },
+      { "value": "A. Navoi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekistonda 1 nafar deputatga qancha nafar aholi to‘g‘ri keladi? (aholi soni 2024 yil yanvar holatiga ko’ra 37 mln.)",
+    "javob": [
+      { "value": "246 ming", "isTrue": true },
+      { "value": "300 ming", "isTrue": false },
+      { "value": "200 ming", "isTrue": false },
+      { "value": "150 ming", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Fuqarolar yig‘inining raisi (oqsoqoli) va uning maslahatchilari qancha muddatga saylanadi?",
+    "javob": [
+      { "value": "2 yarim yil", "isTrue": true },
+      { "value": "3 yil", "isTrue": false },
+      { "value": "1 yil", "isTrue": false },
+      { "value": "4 yil", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Fuqarolarning o‘zini o‘zi boshqarish organlari deb qanday tuzimaga aytiladi?",
+    "javob": [
+      { "value": "Mahalla fuqarolar yig‘inlari va ularga tegishli tuzilmalar", "isTrue": true },
+      { "value": "Siyosiy partiyalar", "isTrue": false },
+      { "value": "Davlat idoralari", "isTrue": false },
+      { "value": "Ommaviy axborot vositalari", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Mustaqillik yillarida sudlar faoliyatiga kiritilgan yangilikni aniqlang?",
+    "javob": [
+      { "value": "Sudlarning mustaqilligi, ochiqligi va shaffofligini ta'minlash hamda sud-huquq islohotlari tizimiga zamonaviy texnologiyalarni joriy qilish.", "isTrue": true },
+      { "value": "Sudlarni cheklash", "isTrue": false },
+      { "value": "Siyosiy ta'sir", "isTrue": false },
+      { "value": "Ochiqlikni cheklash", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekistonda Bozor munosabatlariga o'tishning asosiy shartlaridan biri sifatida mulkni davlat tasarrufidan chiqarish va xususiylashtirish amalga oshirildi. Natijada…",
+    "javob": [
+      { "value": "Bu bilan davlat monopoliyasi tugatilib, ma'muriy buyruqbozlik buzildi va bozor iqtisodiyotiga asos solindi, mulkdorlar sinfi shakllandi.", "isTrue": true },
+      { "value": "Siyosiy monopoliyalar vujudga keldi", "isTrue": false },
+      { "value": "Ijtimoiy tenglik yo'qoldi", "isTrue": false },
+      { "value": "Xorijiy investitsiyalar kamaydi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Mulkni xususiylashtirish va ko'p ukladli iqtisodni shakllantirishning birinchi bosqichida qanday natijalarga erishilgan edi?",
+    "javob": [
+      { "value": "Bu davrda asosan maishiy xizmat, savdo korxonalari, transport va qurilishning kichik korxonalari mulk shakli o'zgartirilib, mulkning ijara, jamoa, aksiadorlik shakllari vujudga keldi.", "isTrue": true },
+      { "value": "Fuqaro huquqlari cheklangan", "isTrue": false },
+      { "value": "Siyosiy partiyalar ko'paydi", "isTrue": false },
+      { "value": "Ijtimoiy adolat ta'minlandi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Iqtisodiy islohotlarni amalga oshirishning asosiy yo‘nalishlari qaysilar?",
+    "javob": [
+      { "value": "Mulkiy munosabatlarni isloh qilish; agrar islohotlar; moliy-kredit va narx-navo islohoti; boshqarish tizimini isloh qilish va bozor infratuzilmasini yaratish; tashqi iqtisodiy aloqalar islohoti; ijtimoiy islohotlar", "isTrue": true },
+      { "value": "Siyosiy islohotlar; ijtimoiy adolat; iqtisodiy erkinlik", "isTrue": false },
+      { "value": "Ijtimoiy sohalarga qaratilgan islohotlar", "isTrue": false },
+      { "value": "Davlatni boshqarish tizimini o'zgartirish", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekiston Respublikasida iqtisodiy islohotlarning huquqiy negizini yaratishga yo‘naltirilgan 400 dan ortiq qonun hujjatlari qabul qilingan bo‘lib, o‘z navbatida ularni bir necha yo‘nalishlarga bo‘lish mumkin:",
+    "javob": [
+      { "value": "Mulkchilik munosabatlari va ko`p ukladli iqtisodiyotni shakillantiruvchi qonunlar; Xo`jalik yuritishni tartibga soluvchi qonunlar; O`zbekistonning tashqi iqtisodiy faoliyatini belgilab beruvchi huquqiy normalar", "isTrue": true },
+      { "value": "Siyosiy partiyalarni rivojlantirish qonunlari", "isTrue": false },
+      { "value": "Ijtimoiy masalalarni hal etish qonunlari", "isTrue": false },
+      { "value": "Davlat byudjetini belgilovchi qonunlar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Iqtisodiy mustaqillik O‘zbekistonga qanday imkoniyatlarni berdi?",
+    "javob": [
+      { "value": "Mustaqil moliya-kredit; bank siyosatini yuritish; o‘z davlat byudjetini yaratish va unga to‘la egalik qilish", "isTrue": true },
+      { "value": "Siyosiy erkinliklarni cheklash", "isTrue": false },
+      { "value": "Ijtimoiy masalalarni hal etish", "isTrue": false },
+      { "value": "Xorijiy investitsiyalarni cheklash", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekistonda qishloq xo‘jaligi va oziq-ovqat tarmog‘ining raqobatbardoshligini oshirishga qaratilgan davlat siyosatining ustuvor yo‘nalishlariga ko’ra, Qishloq xo‘jaligining rivojlantirish bo‘yicha kelgusi yilga mo‘ljallangan dastur qachon ishlab chiqiladi va tasdiqlanadi?",
+    "javob": [
+      { "value": "Har yili 1-dekabrga qadar", "isTrue": true },
+      { "value": "Har yili 1-yanvarga qadar", "isTrue": false },
+      { "value": "Har yili 1-martga qadar", "isTrue": false },
+      { "value": "Har yili 1-aprelga qadar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Aholining oziq-ovqat xavfsizligini ta’minlash, qulay agrobiznes muhitini va qo‘shilgan qiymat zanjirini yaratish bu - ….. .",
+    "javob": [
+      { "value": "Qishloq xo‘jaligida strategik rivojlanish maqsadlaridan biri", "isTrue": true },
+      { "value": "Siyosiy maqsad", "isTrue": false },
+      { "value": "Ijtimoiy maqsad", "isTrue": false },
+      { "value": "Uzoq muddatli maqsad", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Oziq-ovqat xavfsizligini ta’minlashga ta’sir etuvchi asosiy omillarni sanab bering.",
+    "javob": [
+      { "value": "Aholi sonining o’sishi, yer, suv, va energiya resurslariga bo`lgan talabning ortishi, shuningdek iqlimning keskin o`zgarishi", "isTrue": true },
+      { "value": "Siyosiy barqarorlik", "isTrue": false },
+      { "value": "Ijtimoiy adolatni ta'minlash", "isTrue": false },
+      { "value": "Iqtisodiy erkinliklarni kuchaytirish", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Oziq-ovqat xavfsizligining to‘rt tarkibiy qismlari sanab bering.",
+    "javob": [
+      { "value": "1-oziq-ovqatning mavjudligi, 2-uni xarid qilish qobiliyati, 3-undan foydalanish, 4-uning barqarorligi", "isTrue": true },
+      { "value": "1-oziq-ovqatning sifati, 2-uni ishlab chiqarish, 3-undan foydalanish, 4-uning narxi", "isTrue": false },
+      { "value": "1-oziq-ovqatning yetkazib berilishi, 2-uni xarid qilish, 3-undan foydalanish, 4-uning saqlanishi", "isTrue": false },
+      { "value": "1-oziq-ovqatning xavfsizligi, 2-uni xarid qilish qobiliyati, 3-undan foydalanish, 4-uning sifatli bo'lishi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekistonda oziq-ovqat xavfsizligini mustahkamlash bo‘yicha hal etilishi zarur bo‘lgan qanday muammolar mavjud?",
+    "javob": [
+      { "value": "Aholining ijtimoiy himoyaga muhtoj qatlamiga oziq-ovqat mahsulotlari ta’minoti barqarorligiga erishish, kam daromadli oilalarning xarid qobiliyatini oshirish, mahsulotlar narxi va miqdori keskin o‘zgarishining oldini olish", "isTrue": true },
+      { "value": "Siyosiy muammolarni hal qilish", "isTrue": false },
+      { "value": "Iqtisodiy muammolarni hal qilish", "isTrue": false },
+      { "value": "Fuqaro huquqlarini cheklash", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekiston 2018-yilda Global ochlik indeksi bo‘yicha 119 mamlakat orasida nechinch o’rinni egalladi?",
+    "javob": [
+      { "value": "54-o`rin", "isTrue": true },
+      { "value": "60-o'rin", "isTrue": false },
+      { "value": "50-o'rin", "isTrue": false },
+      { "value": "70-o'rin", "isTrue": false }
+    ]
+  },
+    {
+    "savol": "O’zbekistonda Xalqaro standartlar va sifat talablariga javob beradigan laboratoriyalar, ulgurji bozorlar va logistika markazlari, shuningdek, bojxona va chegara maskanlarida meva-sabzavot mahsulotlarini fitosanitariya nazoratidan o‘tkazish uchun jihozlar yetishmovchiligi kuzatilayotgan bo’lib, bu qanday muammolarga sabab bo’lmoqda?",
+    "javob": [
+      { "value": "Bu o‘z navbatida yetishtiriladigan va sotishga chiqariladigan mahsulotlar hajmini oshirish, qo‘shilgan qiymatni ko‘paytirish, eksport geografiyasi va mahsulot turlarining diversifikatsiya qilinishiga to‘sqinlik qilmoqda.", "isTrue": true },
+      { "value": "Mahsulotlar sifatini oshirishga yordam bermaydi.", "isTrue": false },
+      { "value": "Xarajatlarni kamaytiradi.", "isTrue": false },
+      { "value": "Ijtimoiy masalalarni hal qiladi.", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "„Xalq xoʻjaligi“ atamasi Oʻzbekiston tarixining Sovet davrida keng qoʻllanilgan bo’lib, hozirgi davrda ……… atamasi ishlatiladi. Nuqtalar o’rnini to’g’ri to’ldiring.",
+    "javob": [
+      { "value": "milliy iqtisodiyot", "isTrue": true },
+      { "value": "siyosiy iqtisod", "isTrue": false },
+      { "value": "global iqtisod", "isTrue": false },
+      { "value": "mulkchilik iqtisodi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekistonda iqtisodiy islohotlar natijasida yalpi ichki mahsulot tarkibida sanoatning ulushi qancha foizni tashkil etmoqda?",
+    "javob": [
+      { "value": "24,2 foizdan ziyod", "isTrue": true },
+      { "value": "20 foizdan kam", "isTrue": false },
+      { "value": "30 foizdan ko'p", "isTrue": false },
+      { "value": "15 foiz", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Iqtisodiyotda Ekstensiv xojalik yuritish deb nimaga aytiladi?",
+    "javob": [
+      { "value": "Ishlab chiqarishni fan-texnika yutuqlari va zamonaviy mexanizatsiya imkoniyatlari o‘miga tabiiy boyliklarni jadal o‘zlashtirish hisobiga yuksaltirish usuli", "isTrue": true },
+      { "value": "Iqtisodiy resurslarni kamaytirish", "isTrue": false },
+      { "value": "Sanoatni rivojlantirish", "isTrue": false },
+      { "value": "Ijtimoiy masalalarni hal qilish", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Intensiv xo‘jalik yuritish usuli bu …….. .",
+    "javob": [
+      { "value": "Fan va texnika yutuqlarini iqtisodiyotga tezkor joriy etuvchi, xomashyo va boyliklarni tejab-tergab, chiqindi chiqarmay to‘liq foydalanish usuli.", "isTrue": true },
+      { "value": "Tabiiy boyliklarni ko'paytirish", "isTrue": false },
+      { "value": "Ijtimoiy masalalarni hal qilish", "isTrue": false },
+      { "value": "Siyosiy erkinliklarni kengaytirish", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Diversifikatsiya atamasini izohlang.",
+    "javob": [
+      { "value": "(lot. diversiﬁ catio - oʻzgarish, xilma-xil taraqqiyot) - korxona (birlashma)larning faoliyati sohalari va ishlab chiqaradigan mahsulotlari turining kengayishi, yangilanib turishidir.", "isTrue": true },
+      { "value": "Yalpi iqtisodiyotni rivojlantirish", "isTrue": false },
+      { "value": "Siyosiy partiyalarni rivojlantirish", "isTrue": false },
+      { "value": "Ijtimoiy barqarorlikni ta'minlash", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekiston geosiyosiy jihatdan qulay makonda joylashganligini qulay tabiiy-iqlim sharoitiga egaligi misolida izohlang.",
+    "javob": [
+      { "value": "O‘zbekistonning tabiiy-iqlim sharoiti qulay bo‘lib, paxta yetishtirish, bog‘dorchilik va chorvachilikni rivojlantirishga imkon beradi.", "isTrue": true },
+      { "value": "Iqtisodiy rivojlanishni cheklaydi", "isTrue": false },
+      { "value": "Siyosiy erkinliklarni kamaytiradi", "isTrue": false },
+      { "value": "Fuqaro huquqlarini cheklaydi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "2015-yilga qadar O‘zbekiston mustaqilligini qancha davlat tan oldi?",
+    "javob": [
+      { "value": "130 ta", "isTrue": true },
+      { "value": "100 ta", "isTrue": false },
+      { "value": "150 ta", "isTrue": false },
+      { "value": "120 ta", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Qaysi muhim hujjatda ilk marotaba O’zbekiston o‘z tashqi siyosatining asosiy yo‘lini belgilab olgan edi?",
+    "javob": [
+      { "value": "Konstitutsiyada", "isTrue": true },
+      { "value": "Oliy Majlis qarorida", "isTrue": false },
+      { "value": "Davlat dasturida", "isTrue": false },
+      { "value": "Siyosiy rejalarda", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "1996-yil 21-iyunda Florensiya shahrida imzolangan O‘zbekiston bilan Yevropa Ittifoqi o‘rtasidagi «Sheriklik va hamkorlik to‘g‘risidagi bitim» qachon kuchga kirdi?",
+    "javob": [
+      { "value": "1999-yil", "isTrue": true },
+      { "value": "2000-yil", "isTrue": false },
+      { "value": "1998-yil", "isTrue": false },
+      { "value": "2001-yil", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekiston Respublikasining Yevropada birinchi elchixonasi qaysi shaharda ochilgan edi?",
+    "javob": [
+      { "value": "Bonnda", "isTrue": true },
+      { "value": "Toshkentda", "isTrue": false },
+      { "value": "Buxoroda", "isTrue": false },
+      { "value": "Samarqandda", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Germaniyaning qaysi firmasi O‘zbekistonda nashriyot - matbaa sohasida hamkorlik qilayotgan yirik kompaniya hisoblanadi?",
+    "javob": [
+      { "value": "Heidelberg", "isTrue": true },
+      { "value": "Siemens", "isTrue": false },
+      { "value": "Bayer", "isTrue": false },
+      { "value": "Volkswagen", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "1993-yilda tuzilgan Orolni qutqarish xalqaro jamg‘armasi (OQXJ) qaysi davlatlar ta’sisligida tashkil etildi?",
+    "javob": [
+      { "value": "O`zbekiston, Qozog`iston, Qirg`iziston, Tojikiston va Turkmaniston.", "isTrue": true },
+      { "value": "O'zbekiston, Qozog'iston, Rossiya", "isTrue": false },
+      { "value": "O'zbekiston, Tojikiston, Qirg'iziston", "isTrue": false },
+      { "value": "O'zbekiston, Ozarbayjon, Qozog'iston", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Xalqaro Orolni qutqarish jamg‘armasi Nukus filiali tomonidan 2014-yilda amalga oshirilgan ishlarni ko’rsating.",
+    "javob": [
+      { "value": "Orol dengizining Axantay qismida 1500, Oqqum qismida 34 gektarlik saksovulzor sun’iy o‘rmon barpo etildi", "isTrue": true },
+      { "value": "Suv ta'minotini yaxshilash", "isTrue": false },
+      { "value": "Ijtimoiy masalalarni hal etish", "isTrue": false },
+      { "value": "Mahalliy aholi uchun ish o'rinlari yaratish", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekiston Birinchi Prezident I.A. Karimov davrida Amudaryo yuqori qismida balandligi 350 metrni tashkil etadigan Rog‘un GESning qurilishiga qat’iy qarshi chiqqan. Uning sababi ………… edi.",
+    "javob": [
+      { "value": "Amudaryo suvlarining kamayishi va atrof-muhitga zarar yetkazish xavfi edi.", "isTrue": true },
+      { "value": "Energiya ta'minotini yaxshilash", "isTrue": false },
+      { "value": "Siyosiy muammolar", "isTrue": false },
+      { "value": "Investitsiyalarni jalb qilish", "isTrue": false }
+    ]
+  }
 ]
