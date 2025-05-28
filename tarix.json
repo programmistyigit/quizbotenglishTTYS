@@ -1,0 +1,1451 @@
+[
+  {
+    "savol": "“Tarix saboqlari insonni hushyorlikka o‘rgatadi, irodasini mustahkamlaydi”, deya kim ta’kidlagan edi?",
+    "javob": [
+      { "value": "I.A. Karimov", "isTrue": true },
+      { "value": "Sh.M. Mirziyoyev", "isTrue": false },
+      { "value": "B.N. Yuldashev", "isTrue": false },
+      { "value": "M. Ulug‘bek", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "I.A. Karimovning “O‘zbekistonning yangi tarixini tayyorlash va nashr qilish haqida”gi qarori qachon qabul qilindi?",
+    "javob": [
+      { "value": "1996-yil 13-dekabr", "isTrue": true },
+      { "value": "1995-yil 1-sentabr", "isTrue": false },
+      { "value": "1997-yil 24-mart", "isTrue": false },
+      { "value": "2000-yil 9-yanvar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Shavkat Mirziyoyevning nashrdan chiqqan ilk asari qanday nomlanadi?",
+    "javob": [
+      { "value": "Erkin va farovon, demokratik o’zbekiston davlatini birgalikda barpo etamiz", "isTrue": true },
+      { "value": "Yangi O‘zbekiston sari", "isTrue": false },
+      { "value": "Kelajak uchun islohot", "isTrue": false },
+      { "value": "Milliy taraqqiyot yo‘li", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "2000-yil “Sharq” nashriyotida nashr qilingan ilk asar qaysi?",
+    "javob": [
+      { "value": "Mustaqil O‘zbekiston tarixi (III jild)", "isTrue": true },
+      { "value": "Tarixiy haqiqat", "isTrue": false },
+      { "value": "Yangi tarix saboqlari", "isTrue": false },
+      { "value": "Sharq uyg‘onishi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "2012-yilda tashkil etilgan O‘zbekiston zamonaviy tarixi bo‘yicha jamoat kengashining vazifasi nima?",
+    "javob": [
+      { "value": "Tarixiylik, ob'ektivlik, tizimli o‘rganish", "isTrue": true },
+      { "value": "Tarixiy shaxslar ro‘yxatini tuzish", "isTrue": false },
+      { "value": "Madaniyat obidalari tiklash", "isTrue": false },
+      { "value": "Qonunlar loyihasini ko‘rib chiqish", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekistonning eng yangi tarixi fani OTMlarda qachondan mustaqil fan sifatida o‘qitila boshlandi?",
+    "javob": [
+      { "value": "2020-yilda", "isTrue": true },
+      { "value": "2018-yilda", "isTrue": false },
+      { "value": "2015-yilda", "isTrue": false },
+      { "value": "2012-yilda", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Islom Karimov ta’kidlagan tarixiy haqiqat: '..................................'",
+    "javob": [
+      { "value": "Tarixni bilmasdan kelajakni qurish mumkin emas", "isTrue": true },
+      { "value": "O‘tmishsiz kelajak yo‘q", "isTrue": false },
+      { "value": "Tarix – hayot ustozidir", "isTrue": false },
+      { "value": "Kelajak tarixda yashaydi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekiston SSR Mustaqillik Deklaratsiyasi qachon qabul qilingan?",
+    "javob": [
+      { "value": "1990-yil 20-iyun", "isTrue": true },
+      { "value": "1991-yil 1-sentabr", "isTrue": false },
+      { "value": "1989-yil 8-dekabr", "isTrue": false },
+      { "value": "1992-yil 8-dekabr", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "1992-yil Konstitutsiya loyihasi umumxalq muhokamasiga qo‘yilganda nechta moddadan iborat edi?",
+    "javob": [
+      { "value": "149 moddadan iborat", "isTrue": true },
+      { "value": "138 moddadan iborat", "isTrue": false },
+      { "value": "120 moddadan iborat", "isTrue": false },
+      { "value": "101 moddadan iborat", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Konstitutsiya loyihasini tayyorlagan komissiya nechta kishidan iborat bo‘lgan?",
+    "javob": [
+      { "value": "64 kishidan iborat", "isTrue": true },
+      { "value": "50 kishidan iborat", "isTrue": false },
+      { "value": "75 kishidan iborat", "isTrue": false },
+      { "value": "100 kishidan iborat", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“O’zbekiston Respublikasi Mudofaa ishlari vazirligini tuzish to’g’risida”gi qonun qaysi sanada qabul qilingan?",
+    "javob": [
+      { "value": "1991 yil 5 sentyabr", "isTrue": true },
+      { "value": "1992 yil 4 yanvar", "isTrue": false },
+      { "value": "1990 yil 12 mart", "isTrue": false },
+      { "value": "1991 yil 12 dekabr", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekiston Respublikasi Konstitutsiyasi loyihasini yaratish ustida qancha muddat ish olib borildi?",
+    "javob": [
+      { "value": "2 yil 5 oy", "isTrue": true },
+      { "value": "1 yil", "isTrue": false },
+      { "value": "3 yil 2 oy", "isTrue": false },
+      { "value": "6 oy", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Quyidagi tamoyillardan qaysi biri  O‘zbekistonning eng yangi tarixi fanining metodologik (uslubiy), ilmiy usul va tamoyillari muvofiq emas?",
+    "javob": [
+      { "value": "Subyektivlik", "isTrue": true },
+      { "value": "Tarixiylik", "isTrue": false },
+      { "value": "Obyektivlik", "isTrue": false },
+      { "value": "Komplekslik", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“O‘zbekiston tarixi” telekanali qachondan boshlab o‘z faoliyatini boshlagan?",
+    "javob": [
+      { "value": "2019-yil 1-sentyabr", "isTrue": true },
+      { "value": "2018-yil 1-dekabr", "isTrue": false },
+      { "value": "2020-yil 10-yanvar", "isTrue": false },
+      { "value": "2017-yil 20-mart", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Prezident SH.Mirziyoyev bildirgan fikrlar qaysi davlat arbobiga nisbatan ta’kidlangan: “...shoiru olimini ham, davlat arbobini ham istagancha tahqirlashi, insoniy sha’nini tuproqqa qorishi mumkin ekan”?",
+    "javob": [
+      { "value": "Sharof Rashidov", "isTrue": true },
+      { "value": "Islom Karimov", "isTrue": false },
+      { "value": "Abdulla Qodiriy", "isTrue": false },
+      { "value": "Fitrat", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“Tarixiy xotirasiz kelajak yo‘q” nomli asar muallifi va nashr qilingan yili?",
+    "javob": [
+      { "value": "Islom Karimov 1998-yil", "isTrue": true },
+      { "value": "Shavkat Mirziyoyev 2000-yil", "isTrue": false },
+      { "value": "Erkin Vohidov 1995-yil", "isTrue": false },
+      { "value": "M. Xoldorov 1999-yil", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Mustaqillikning dastlabki kunlaridan boshlab ishlab chiqilgan yoshlarga oid huquqiy hujjat qaysi?",
+    "javob": [
+      { "value": "“O‘zbekistonda yoshlarga oid davlat siyosatining asoslari to‘g‘risida”gi qonun", "isTrue": true },
+      { "value": "Yoshlar siyosati to‘g‘risida farmon", "isTrue": false },
+      { "value": "Yoshlar uchun rivojlanish dasturi", "isTrue": false },
+      { "value": "Talaba manifesti", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekiston qanday davlat sifatida e’tirof qilingan?",
+    "javob": [
+      { "value": "Yoshlar mamlakati", "isTrue": true },
+      { "value": "Sanoat mamlakati", "isTrue": false },
+      { "value": "Qariyalar mamlakati", "isTrue": false },
+      { "value": "Iqtisodiy markaz", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "1952 yilgi O’z SSR KP(b) MK plenumida A.Niyozovning ma’ruzasi nimaga qaratilgan edi?",
+    "javob": [
+      { "value": "Respublikada mafkuraviy ishning ahvoli va uni yaxshilash choralari to`g`risida", "isTrue": true },
+      { "value": "Yangi konstitutsiyani ishlab chiqish", "isTrue": false },
+      { "value": "Iqtisodiy islohotlar masalasi", "isTrue": false },
+      { "value": "O‘quv dasturlarini yangilash", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Qatag‘onlikning 2-to‘lqini – “Ziyolilarni qatag‘on qilish”da kimlar ayblanib qamoqqa olindi?",
+    "javob": [
+      { "value": "Maqsud Shayxzoda, Shukurullo Yusupov, G’ulom Alimov", "isTrue": true },
+      { "value": "Munavvarqori, Fitrat, Qodiriy", "isTrue": false },
+      { "value": "Karimov, Mirziyoyev, Rashidov", "isTrue": false },
+      { "value": "To‘raqo‘zi, Avloniy, Behbudiy", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Yopilgan masjid binolari Sovet davrida qanday holga keltirilgan?",
+    "javob": [
+      { "value": "Hudosizlar uyiga, ateizm muzeylariga aylantirildi", "isTrue": true },
+      { "value": "Kitob do‘konlariga aylantirildi", "isTrue": false },
+      { "value": "Sport zallariga aylantirildi", "isTrue": false },
+      { "value": "Kinozallarga aylantirildi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Abdulla Qodiriy qachon otib tashlangan edi?",
+    "javob": [
+      { "value": "1938-yil 4-oktabr", "isTrue": true },
+      { "value": "1937-yil 1-aprel", "isTrue": false },
+      { "value": "1939-yil 10-may", "isTrue": false },
+      { "value": "1940-yil 5-noyabr", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Abdurauf Fitratning madaniy merosidagi yagona buyuk fazilat nima edi?",
+    "javob": [
+      { "value": "Milliy mustaqillik uchun kurash", "isTrue": true },
+      { "value": "She’riyatdagi yangilik", "isTrue": false },
+      { "value": "Jurnalistik faoliyati", "isTrue": false },
+      { "value": "Tilshunoslikka hissa", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Abdurauf Fitratning qaysi asarida xalqning boshqalarga yem bo‘lishi muqarrar deb yoziladi?",
+    "javob": [
+      { "value": "“Temur oldida”", "isTrue": true },
+      { "value": "“Tarixiy oyna”", "isTrue": false },
+      { "value": "“Milliy uyg‘onish”", "isTrue": false },
+      { "value": "“Ruhiy meros”", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Milliy Ittihod va Milliy Istiqlol tashkilotlarining asoschilari kimlar?",
+    "javob": [
+      { "value": "Munavvarqori va Sadriddinxon Sharifxoʻjayev", "isTrue": true },
+      { "value": "Islom Karimov va Sharof Rashidov", "isTrue": false },
+      { "value": "Abdulla Qodiriy va Fitrat", "isTrue": false },
+      { "value": "Qori-Niyoziy va Avloniy", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘z she’rlarida Elxon tahallusini qo‘llab, ijod qilgan siyosiy arbob kim edi?",
+    "javob": [
+      { "value": "Akmal Ikromov", "isTrue": true },
+      { "value": "Yusuf Xos Hojib", "isTrue": false },
+      { "value": "Abu Rayhon Beruniy", "isTrue": false },
+      { "value": "Said Ahmad", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Sovet mafkurachilari tomonidan to’qib chiqarilgan va o’zbek milliy kadrlari sha’nini bulg’ashga qaratilgan siyosiy sohadagi jinoiy ishlar qaysilar?",
+    "javob": [
+      { "value": "“18 lar guruhi”, “inog`movchilik”, “Qosimovchilik”", "isTrue": true },
+      { "value": "“Uyg‘onchilar”, “Yurtparvarlar”", "isTrue": false },
+      { "value": "“Adolatchilar”, “Ilm ahli”", "isTrue": false },
+      { "value": "“Ma’rifatchilar”, “Jadidlar”", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "1999-yilgi xalqaro konferensiya tavsiyasiga ko‘ra qaysi yangilik tatbiq qilindi?",
+    "javob": [
+      { "value": "Jadidlarning 20 ta mashhur vakili kiritilgan “Unutilmas siymolar” albom-kitobi nashr qilindi", "isTrue": true },
+      { "value": "Yangi konstitutsiya ishlab chiqildi", "isTrue": false },
+      { "value": "Yangi telekanal ochildi", "isTrue": false },
+      { "value": "Qatag‘on qurbonlariga yodgorlik qurildi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "1917-yil 26-28-noyabrda Qoʻqondagi qurultoyda Turkiston Muxtoriyati hukumatiga kim rahbar bo‘lgan?",
+    "javob": [
+      { "value": "Muhammadjon Tinishboyev, so‘ngra Mustafo Cho‘qay", "isTrue": true },
+      { "value": "Fitrat", "isTrue": false },
+      { "value": "Munavvarqori", "isTrue": false },
+      { "value": "Avloniy", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "1917 yilda Toshkentda „Shoʻroi Islomiya“, „Turon“, „Shoʻroi Ulamo“, „Ittifoqi muslimin“ kabi tashkilotlar tuzilganda Samarqandda qanday tashkilotlar tuzilgan edi?",
+    "javob": [
+      { "value": "Samarqandda „Ittifoq“ , „Mirvaj ul-islom“ , „Miftah ul-maorif“", "isTrue": true },
+      { "value": "„Yosh buxoroliklar“, „Milliy uyg‘onish“, „Sho‘ro“", "isTrue": false },
+      { "value": "„Ma’rifat“, „Istiqbol“, „Hurriyat“", "isTrue": false },
+      { "value": "„Ozodlik“, „Ilm ahli“, „Temuriylar“", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Xiva xonligida yangi usul maktablarini tashkil qilish orqali xalq ommasining siyosiy faolligini oshirish natijasida nima sodir bo‘ldi?",
+    "javob": [
+      { "value": "1904-yil „jamiyati xayriya“ tuzilib, yangi usul maktabi ochildi", "isTrue": true },
+      { "value": "Xiva maktablari yopildi", "isTrue": false },
+      { "value": "Sho‘rolar maktablarni egalladi", "isTrue": false },
+      { "value": "Jadidlar Toshkentga ko‘chdi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Buxorodagi ilk siyosiy partiya qanday asosda tashkil qilingan edi?",
+    "javob": [
+      { "value": "„Tarbiyai atfol“ maxfiy jamiyati asosida", "isTrue": true },
+      { "value": "„Sho‘roi ulamo“ tashabbusi bilan", "isTrue": false },
+      { "value": "„Turkiston Ittifoqi“ asosida", "isTrue": false },
+      { "value": "„Mirrix ul-islom“ tashkiloti asosida", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "1908-yil Buxoroda tuzilgan „Buxoroi sharif shirkati“ jamiyatda qanday vazifalarni bajargan?",
+    "javob": [
+      { "value": "Darsliklar nashr etish va kitob savdosi bilan shugʻullandi", "isTrue": true },
+      { "value": "Pul muomalasini nazorat qilgan", "isTrue": false },
+      { "value": "Siyosiy namoyishlar uyushtirgan", "isTrue": false },
+      { "value": "Masjidlar qurdirgan", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Turkiston general-gubernatorligi tarkibidagi Kaspiy orti viloyati bugungi kunda qayerga to‘g‘ri keladi?",
+    "javob": [
+      { "value": "Turkmaniston Respublikasiga", "isTrue": true },
+      { "value": "Qozog‘iston Respublikasiga", "isTrue": false },
+      { "value": "Tojikiston Respublikasiga", "isTrue": false },
+      { "value": "O‘zbekiston Respublikasiga", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "XIX asr birinchi yarmida Buxoro, Xiva va Qo‘qon shaharlaridagi mavjud madrasalar soni qanday edi?",
+    "javob": [
+      { "value": "Buxoroda 150 ta, Xivada 130 ta, Qo‘qonda 60 ta", "isTrue": true },
+      { "value": "Buxoroda 100 ta, Xivada 100 ta, Qo‘qonda 100 ta", "isTrue": false },
+      { "value": "Buxoroda 60 ta, Xivada 150 ta, Qo‘qonda 130 ta", "isTrue": false },
+      { "value": "Buxoroda 130 ta, Xivada 60 ta, Qo‘qonda 150 ta", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Xonliklarda so‘fiy shayxlarga qanday imtiyozlar berilgan edi?",
+    "javob": [
+      { "value": "Barcha davlat o‘lponlaridan ozod edilar", "isTrue": true },
+      { "value": "Maxsus madrasa ajratilgan", "isTrue": false },
+      { "value": "Faqatgina juma namoziga borishga ruxsat berilgan", "isTrue": false },
+      { "value": "Tashqi siyosatga aralashganlar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Arab Muhammad madrasasi qaysi tarixiy shaharda joylashgan?",
+    "javob": [
+      { "value": "Xiva", "isTrue": true },
+      { "value": "Buxoro", "isTrue": false },
+      { "value": "Qo‘qon", "isTrue": false },
+      { "value": "Toshkent", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“Xaft iqlim” (Etti iqlim) nomli asar muallifi kim?",
+    "javob": [
+      { "value": "Amin Ahmad Roziy", "isTrue": true },
+      { "value": "Ahmad Donish", "isTrue": false },
+      { "value": "Mirzo Ulug‘bek", "isTrue": false },
+      { "value": "Abu Rayhon Beruniy", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O. Shpengler tomonidan madaniyat va sivilizatsiya tushunchalari farqlangan asar nomi nima?",
+    "javob": [
+      { "value": "Yevropa quyoshning so‘nishi", "isTrue": true },
+      { "value": "Tarixiy ong", "isTrue": false },
+      { "value": "Sivilizatsiyalar to‘qnashuvi", "isTrue": false },
+      { "value": "Kelajak madaniyati", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“Tarixni anglash” asarining muallifi kim?",
+    "javob": [
+      { "value": "Arnold Jozeph Toynbee", "isTrue": true },
+      { "value": "Semuel Xantington", "isTrue": false },
+      { "value": "Shpengler", "isTrue": false },
+      { "value": "Gibbon", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Arnold Toynbining fikricha, har qanday sivilizatsiyaning tayanchi nima?",
+    "javob": [
+      { "value": "Din", "isTrue": true },
+      { "value": "Ilm-fan", "isTrue": false },
+      { "value": "Madaniyat", "isTrue": false },
+      { "value": "Siyosat", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "S. Xantingtonning 1996-yilgi asarida qanday nazariya ilgari surilgan?",
+    "javob": [
+      { "value": "Pessimistik sivilizatsiya nazariyasi", "isTrue": true },
+      { "value": "Optimistik taraqqiyot nazariyasi", "isTrue": false },
+      { "value": "Progressiv tarix nazariyasi", "isTrue": false },
+      { "value": "Tsivilizatsiyalarning sintezi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Garvard universiteti qoshidagi Strategik tadqiqotlar institutining direktori S.Xantington 1996 yilda chop etgan shov-shuvli “Sivilizatsiyalar to’qnashuvi” asarida sivilizatsion taraqqiyotning qanday nazariyasi keltiriladi va asoslanadi?",
+    "javob": [
+      { "value": "pissimistik", "isTrue": true },
+      { "value": "optimistik", "isTrue": false },
+      { "value": "realistik", "isTrue": false },
+      { "value": "utopik", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Davlatning ilk belgilari to‘g‘ri berilgan qatorni belgilang.",
+    "javob": [
+      { "value": "yozuv, hududiy birlik va rasmiy davlat(boshqaruv) hokimyati", "isTrue": true },
+      { "value": "falsafa, iqtisod va madaniyat", "isTrue": false },
+      { "value": "din, qonun va an’ana", "isTrue": false },
+      { "value": "siyosat, iqtisod va harbiy kuch", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Amudaryo sohillarida davlatchik markaziga ega bo‘lgan Oʻrta Osiyo qadimiy mintaqasi – qadimiy davlat va rivojlangan irrigatsiyali dehqonchilik, hunarmandlik va savdo mintaqasi sifatida namoyon bo’luvchi mintaqamizning eng qadimgi davlati qanday nomlanadi?",
+    "javob": [
+      { "value": "Xorazm", "isTrue": true },
+      { "value": "Sogd", "isTrue": false },
+      { "value": "Buxoro", "isTrue": false },
+      { "value": "Mavaraunnahr", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘rta Osiyodagi qadimgi davlatchilik evalyutsiyasi nechta davrga bo‘linadi?",
+    "javob": [
+      { "value": "6 ta", "isTrue": true },
+      { "value": "4 ta", "isTrue": false },
+      { "value": "5 ta", "isTrue": false },
+      { "value": "7 ta", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“Zafarnoma” asarida yozilishicha, Amir Temurning ismini kim tanlab bergan?",
+    "javob": [
+      { "value": "Shayx Zayniddin", "isTrue": true },
+      { "value": "Amir Ali", "isTrue": false },
+      { "value": "Abdulaziz", "isTrue": false },
+      { "value": "Nasriddin", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Sohibqiron Amir Temur otasining ko‘rsatmasi asosida 12 yoshida dunyoviy fanlar bilan birgalikda, qilichbozlikni o‘rganish uchun qaysi mohir ustoz shogirdligiga berilgan?",
+    "javob": [
+      { "value": "Samir Toraxon", "isTrue": true },
+      { "value": "Alisher Navoi", "isTrue": false },
+      { "value": "Ibn Sino", "isTrue": false },
+      { "value": "Bardaq", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Amir Temur saltanatining to‘rt asosiy ustinini sanang.",
+    "javob": [
+      { "value": "-Islom va shariat aqidalari; - qadimdan amalda bo‘lgan odoblar- yo‘sun va tuzuklar, qonun ustivorligi; - Xazina; - Raiyat, ya’ni mehnatkash xalq.", "isTrue": true },
+      { "value": "-Iqtisodiyot; - Davlat siyosati; - Madaniyat; - Ijtimoiy hayot.", "isTrue": false },
+      { "value": "-Harbiy kuch; - Qonunlar; - Ijtimoiy tizim; - Axloq.", "isTrue": false },
+      { "value": "-Diniy hayot; - Madaniy rivojlanish; - Ijtimoiy barqarorlik; - Qonun ustuvorligi.", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Amir Temur davlatining boshqaruv tizimi qanday tuzilgan edi?",
+    "javob": [
+      { "value": "2 qismga (qonun chiqaruvchi va ijroiya)", "isTrue": true },
+      { "value": "3 qismga (ijroiya, qonun chiqaruvchi va sud)", "isTrue": false },
+      { "value": "1 qismga (markaziy boshqaruv)", "isTrue": false },
+      { "value": "4 qismga (mintaqaviy, markaziy, ijroiya va sud)", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Amir Temur saltanatida Qonun chiqaruvchi tizim qanday nomlangan?",
+    "javob": [
+      { "value": "qurultoy", "isTrue": true },
+      { "value": "majlis", "isTrue": false },
+      { "value": "senat", "isTrue": false },
+      { "value": "shura", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Qurultoy qanday masala va muammolarni muhokama qilgan va qonuniylashtirgan?",
+    "javob": [
+      { "value": "qurultoy urush va sulh, davlatning ichki va tashqi siyosatini belgilash kabi masala va muammolarni muhokama qilgan va qonuniylashtirgan", "isTrue": true },
+      { "value": "qurultoy iqtisodiy muammolarni hal etish", "isTrue": false },
+      { "value": "qurultoy faqat harbiy masalalarni muhokama qilgan", "isTrue": false },
+      { "value": "qurultoy madaniy masalalarni ko'targan", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Tarixiy manbalarda ta’kidlanishicha, Amir Temur davlati boshqaruvida nechta vazir mavjud edi?",
+    "javob": [
+      { "value": "4 ta", "isTrue": true },
+      { "value": "3 ta", "isTrue": false },
+      { "value": "5 ta", "isTrue": false },
+      { "value": "6 ta", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Amir Temur saltanatidagi “Mamlakat va raiyat vaziri” bosh bo‘lgan muassasa qanday nom bilan atalgan?",
+    "javob": [
+      { "value": "Devoni oliy", "isTrue": true },
+      { "value": "Devoni hukumat", "isTrue": false },
+      { "value": "Devoni davlat", "isTrue": false },
+      { "value": "Devoni xalq", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“Temur tuzuklari”da aytilishicha, xorijiy mamlakatlar bilan olib boriladigan munosabatlarga boshchilik qilgan oliy davlat muassasasi – …….. bo ‘lgan. Nuqtalar o’rniga to’g’ri javobni tanlang.",
+    "javob": [
+      { "value": "Devoni insho yoki Devoni rasoil", "isTrue": true },
+      { "value": "Devoni alifbo", "isTrue": false },
+      { "value": "Devoni maslahat", "isTrue": false },
+      { "value": "Devoni ishlar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Bugungi kunda BMTga a’zo davlatlar soni nechta?",
+    "javob": [
+      { "value": "200 taga yaqin, 193 ta", "isTrue": true },
+      { "value": "150 ta", "isTrue": false },
+      { "value": "175 ta", "isTrue": false },
+      { "value": "250 ta", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "BMTga a’zo davlatlardan nechtasida prezidentlik lavozimi tasis etilgan?",
+    "javob": [
+      { "value": "153 tasida prezidentlik lavozimi tasis etilgan", "isTrue": true },
+      { "value": "100 tasida", "isTrue": false },
+      { "value": "80 tasida", "isTrue": false },
+      { "value": "200 tasida", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Mamlakatimiz milliy davlatchiligining rivojlanishida mutlaqo yangi bosqichni boshlab bergan prezidentlik institutiga qachon asos solingan?",
+    "javob": [
+      { "value": "1990 yil 24 mart", "isTrue": true },
+      { "value": "1991 yil 1 yanvar", "isTrue": false },
+      { "value": "1989 yil 15 avgust", "isTrue": false },
+      { "value": "1992 yil 4 yanvar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekiston SSR Konstitutsiyasi (Asosiy qonun) ga o’zgartirish va qo’shimchalar kiritish tog’risidagi qonuni qachon qabul qilingan?",
+    "javob": [
+      { "value": "1990 yil 24 mart", "isTrue": true },
+      { "value": "1991 yil 1 yanvar", "isTrue": false },
+      { "value": "1992 yil 4 yanvar", "isTrue": false },
+      { "value": "1989 yil 15 avgust", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“O’zbekiston Respublikasi Prezidenti saylovi tog’risida”gi Qonun qachon qabul qilingan?",
+    "javob": [
+      { "value": "1991 yil 18 noyabr", "isTrue": true },
+      { "value": "1990 yil 5 dekabr", "isTrue": false },
+      { "value": "1992 yil 4 yanvar", "isTrue": false },
+      { "value": "1991 yil 1 yanvar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekiston Respublikasi Prezidentligiga muqobillik asosida ilk saylov qachon bo’lgan?",
+    "javob": [
+      { "value": "1991 yil 29 dekabr", "isTrue": true },
+      { "value": "1992 yil 4 yanvar", "isTrue": false },
+      { "value": "1990 yil 1 yanvar", "isTrue": false },
+      { "value": "1991 yil 1 yanvar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Har bir hokimiyat faoliyatini muvofiqlashtiruvchi mustaqil organ berilgan javobni toping?",
+    "javob": [
+      { "value": "Prezident", "isTrue": true },
+      { "value": "Parlament", "isTrue": false },
+      { "value": "Vitse-prezident", "isTrue": false },
+      { "value": "Hokimiyat", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Nechanchi yilgacha parlamentimiz Oliy Kengash nomi bilan atalib kelingan?",
+    "javob": [
+      { "value": "1995 yil", "isTrue": true },
+      { "value": "1992 yil", "isTrue": false },
+      { "value": "1990 yil", "isTrue": false },
+      { "value": "1993 yil", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Nechanchi yildan boshlab parlament Oliy Majlis nomi bilan ataladigan bo’ldi?",
+    "javob": [
+      { "value": "1995 yil", "isTrue": true },
+      { "value": "1992 yil", "isTrue": false },
+      { "value": "1990 yil", "isTrue": false },
+      { "value": "1993 yil", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Qachondan boshlab Oliy Majlis ikki palatali parlament sifatida o’z faoliyatini boshlagan?",
+    "javob": [
+      { "value": "2005 yil", "isTrue": true },
+      { "value": "2000 yil", "isTrue": false },
+      { "value": "1995 yil", "isTrue": false },
+      { "value": "2010 yil", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Jahonning nufuzli nashrlari tomonidan 2014 yilning eng yaxshi loyihasi deb topilgan majmua?",
+    "javob": [
+      { "value": "Ustyurt gaz-kimyo majmuasi", "isTrue": true },
+      { "value": "Sho’rtan gaz-kimyo majmuasi", "isTrue": false },
+      { "value": "Buxoro neft-gaz majmuasi", "isTrue": false },
+      { "value": "Qashqadaryo gaz-kimyo majmuasi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Sho`rbuloq suv omborini qaysi hududda qurish rejalashtirilgan?",
+    "javob": [
+      { "value": "To`rtkul tumani", "isTrue": true },
+      { "value": "Buxoro", "isTrue": false },
+      { "value": "Samarqand", "isTrue": false },
+      { "value": "Navoi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "1995-yil sentyabrdagi xalqaro konferensiyada qabul qilingan Nukus deklaratsiyasi qaysi muammoga qaratilgan edi?",
+    "javob": [
+      { "value": "Orol muammosiga qaratilgan edi", "isTrue": true },
+      { "value": "Iqlim o'zgarishiga qaratilgan edi", "isTrue": false },
+      { "value": "Suv tanqisligiga qaratilgan edi", "isTrue": false },
+      { "value": "Energiya inqiroziga qaratilgan edi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekiston respublikasi parlamenti nechta deputatlik o’rniga ega?",
+    "javob": [
+      { "value": "150 deputatlik o’rniga ega", "isTrue": true },
+      { "value": "100 deputatlik o’rniga ega", "isTrue": false },
+      { "value": "200 deputatlik o’rniga ega", "isTrue": false },
+      { "value": "50 deputatlik o’rniga ega", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Senat a’zolaridan necha nafari president tomonidan tayinlanadi?",
+    "javob": [
+      { "value": "16 nafari", "isTrue": true },
+      { "value": "12 nafari", "isTrue": false },
+      { "value": "10 nafari", "isTrue": false },
+      { "value": "20 nafari", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekistonda vitse-prezident lavozimi qachon tugatilgan?",
+    "javob": [
+      { "value": "1992 yil 4 yanvar", "isTrue": true },
+      { "value": "1990 yil 1 yanvar", "isTrue": false },
+      { "value": "1991 yil 1 avgust", "isTrue": false },
+      { "value": "1993 yil 1 yanvar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekistonda Bosh vazir lavozimi qachon tasis etilgan?",
+    "javob": [
+      { "value": "1992 yil 4 yanvar", "isTrue": true },
+      { "value": "1991 yil 18 noyabr", "isTrue": false },
+      { "value": "1990 yil 1 yanvar", "isTrue": false },
+      { "value": "1993 yil 1 yanvar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekistondagi iqtisodiy islohotlar natijasida barpo qilingan yirik loyihalardan biri – “Sho’rtan gaz-kimyo majmuasi“ qaysi davlat va qaysi kompaniya bilan hamkorlikda barpo qilindi?",
+    "javob": [
+      { "value": "AQSh, ABB Lummus Global", "isTrue": true },
+      { "value": "Germaniya, Siemens", "isTrue": false },
+      { "value": "Rossiya, Gazprom", "isTrue": false },
+      { "value": "Xitoy, Huawei", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Dastlabki davrda O’zbekiston Respublikasi sud tizimiga necha yil muddatga sudlar kirgan?",
+    "javob": [
+      { "value": "5 yil", "isTrue": true },
+      { "value": "3 yil", "isTrue": false },
+      { "value": "7 yil", "isTrue": false },
+      { "value": "10 yil", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Mamlakatimizda o’lim jazosi nechanchi yilda bekor qilingan?",
+    "javob": [
+      { "value": "2008 yil 1 yanvar", "isTrue": true },
+      { "value": "2010 yil 1 yanvar", "isTrue": false },
+      { "value": "2005 yil 1 yanvar", "isTrue": false },
+      { "value": "2007 yil 1 yanvar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“O`zbekistonnig o`ziga xos istiqlol va taraqqiyot yo`li “ asarida nechta davlatchilik shakllari bor?",
+    "javob": [
+      { "value": "3 ta", "isTrue": true },
+      { "value": "5 ta", "isTrue": false },
+      { "value": "4 ta", "isTrue": false },
+      { "value": "2 ta", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "1997-yilda quyidagi qaysi shaharlarning 2500 yilligi keng nishonlandi?",
+    "javob": [
+      { "value": "Buxoro va Xiva", "isTrue": true },
+      { "value": "Samarqand va Toshkent", "isTrue": false },
+      { "value": "Farg'ona va Andijon", "isTrue": false },
+      { "value": "Nukus va Qarshi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O`zbekiston bilan ta’lim sohasida hamkorlikni yo`lga qo`ygan Tinchlik Korpusi nomli xalqaro tashkilot qaysi davlatga tegishli edi?",
+    "javob": [
+      { "value": "AQSH", "isTrue": true },
+      { "value": "Rossiya", "isTrue": false },
+      { "value": "Germaniya", "isTrue": false },
+      { "value": "Xitoy", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Oʻzbekiston Respublikasining 2001-yil 11-mayda qabul qilingan \"Mudofaa toʻgrisida\"gi qonunning 12-moddasiga binoan O’zbekiston Respublikasida nechta harbiy okrug mavjud?",
+    "javob": [
+      { "value": "5ta", "isTrue": true },
+      { "value": "3ta", "isTrue": false },
+      { "value": "4ta", "isTrue": false },
+      { "value": "6ta", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Oʻzbekiston Respublikasidagi Shimoli-gʻarbiy Harbiy okruglarga qaysi hududlar kiradi?",
+    "javob": [
+      { "value": "Qoraqalpogʻiston Respublikasi, Xorazm viloyati", "isTrue": true },
+      { "value": "Samarqand, Jizzax", "isTrue": false },
+      { "value": "Toshkent, Andijon", "isTrue": false },
+      { "value": "Nukus, Farg'ona", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Oʻzbekiston Respublikasidagi Janubi-gʻarbiy maxsus Harbiy okruglar qaysi hududlarda joylashgan?",
+    "javob": [
+      { "value": "Navoi, Buxoro va Qashqadaryo", "isTrue": true },
+      { "value": "Toshkent, Andijon", "isTrue": false },
+      { "value": "Samarqand, Jizzax", "isTrue": false },
+      { "value": "Xorazm, Qoraqalpogʻiston", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Oʻzbekiston Respublikasidagi Janubi-gʻarbiy maxsus Harbiy okruglar okrug shtabi joylashgan shaharni belgilang.",
+    "javob": [
+      { "value": "Qarshi shahrida", "isTrue": true },
+      { "value": "Samarqand shahrida", "isTrue": false },
+      { "value": "Toshkent shahrida", "isTrue": false },
+      { "value": "Andijon shahrida", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Oʻzbekiston Respublikasidagi Markaziy Harbiy okruglarni belgilang.",
+    "javob": [
+      { "value": "Samarqand, Jizzax va Sirdaryo", "isTrue": true },
+      { "value": "Toshkent, Farg'ona", "isTrue": false },
+      { "value": "Nukus, Qarshi", "isTrue": false },
+      { "value": "Xorazm, Buxoro", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Oʻzbekiston Respublikasidagi Toshkent Harbiy okruglariga qaysi hududlar kiritilgan?",
+    "javob": [
+      { "value": "Toshkent viloyati, Toshkent shahri", "isTrue": true },
+      { "value": "Samarqand viloyati, Jizzax", "isTrue": false },
+      { "value": "Andijon viloyati, Farg'ona", "isTrue": false },
+      { "value": "Nukus, Buxoro", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Oʻzbekiston Respublikasidagi Sharqiy Harbiy okruglar tarkibiga kiruvchi hududlarni belgilang.",
+    "javob": [
+      { "value": "Andijon, Farg`on ava Namangan", "isTrue": true },
+      { "value": "Samarqand, Jizzax", "isTrue": false },
+      { "value": "Buxoro, Qashqadaryo", "isTrue": false },
+      { "value": "Toshkent, Qarshi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekiston rahbari Islom Karimov tashabbusi bilan 1989 - yil 17 - avgustda “Qishloqda yashovchi har bir oilani tomorqa bilan ta’minlash, ularga yakka tartibda uy-joy qurish uchun barcha sharoitlarni yaratib berish haqida” qaror qabul qilindi. Mazkur qaror qabul qilinganidan so‘ng o‘tgan bir yil mobaynida qancha oilaga tomorqa-yer uchastkalari ajratib berildi?",
+    "javob": [
+      { "value": "60 mingdan ziyod", "isTrue": true },
+      { "value": "30 ming", "isTrue": false },
+      { "value": "50 ming", "isTrue": false },
+      { "value": "70 ming", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekiston davlat Suvereniteti uchun zamin yaratgan muhim tarixiy asoslar qaysi?",
+    "javob": [
+      { "value": "Siyosiy-iqtisodiy mustaqillik", "isTrue": true },
+      { "value": "Ijtimoiy barqarorlik", "isTrue": false },
+      { "value": "Madaniy meros", "isTrue": false },
+      { "value": "Harbiy kuchlar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekiston davlat raxbari Islom Karimov bilan bog’liq 1991 yil 19 avgustda sodir bo’lgan voqea qaysi?",
+    "javob": [
+      { "value": "Hindistonga qilgan rasmiy tashrifidan qaytib keldi va Toshkent shahri faollari bilan uchrashuv o`tkazdi", "isTrue": true },
+      { "value": "Moskvaga borib, rahbarlar bilan uchrashdi", "isTrue": false },
+      { "value": "O‘zbekistonni mustaqil e'lon qildi", "isTrue": false },
+      { "value": "Boshqa davlatlarga tashrif buyurdi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekiston Respublikasi Prezidenti huzuridagi Xavfsizlik kengashining ilk bor kengaytirilgan ochiq videokonferensiyasi nechanchi yilda bo’lib o’tdi?",
+    "javob": [
+      { "value": "2017 yil 10 yanvar", "isTrue": true },
+      { "value": "2015 yil 5 dekabr", "isTrue": false },
+      { "value": "2018 yil 1 mart", "isTrue": false },
+      { "value": "2016 yil 15 fevral", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“Milliy xavfsizlik tog’risida”gi qonun nechanchi yilda muhokama uchun taqdim etilgan?",
+    "javob": [
+      { "value": "1997 yil avgust", "isTrue": true },
+      { "value": "1996 yil yanvar", "isTrue": false },
+      { "value": "1998 yil dekabr", "isTrue": false },
+      { "value": "1995 yil may", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekistonda Qurolli Kuchlarning jangovar holatga shayligi bugungi kunda….",
+    "javob": [
+      { "value": "3 soat", "isTrue": true },
+      { "value": "1 soat", "isTrue": false },
+      { "value": "5 soat", "isTrue": false },
+      { "value": "2 soat", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“O’zbekiston Respublikasi Mudofaa doktrinasi tog’risida”gi qonun qachon qabul qilingan?",
+    "javob": [
+      { "value": "2018-yil 9-yanvar", "isTrue": true },
+      { "value": "2017-yil 1-fevral", "isTrue": false },
+      { "value": "2019-yil 5-mart", "isTrue": false },
+      { "value": "2020-yil 10-aprel", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Quyidagi qaysi atama “ta’limot” degan ma’noni bildiradi?",
+    "javob": [
+      { "value": "doktrina", "isTrue": true },
+      { "value": "konsepsiya", "isTrue": false },
+      { "value": "teoriya", "isTrue": false },
+      { "value": "usul", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Hozirgi amalda bo‘lgan mahalliy vakillik organlari yangi organlar bo‘lmasdan, ……negizida tashkil qilingan.",
+    "javob": [
+      { "value": "Xalq deputatlari kengashi", "isTrue": true },
+      { "value": "Oliy Kengash", "isTrue": false },
+      { "value": "Mahalliy hokimiyat", "isTrue": false },
+      { "value": "Xalq yig‘ini", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Qachon ilk bor Toshkent shahrida va 12 ta viloyatda, 163 ta qishloq tumani va 18 ta shahar tumanida hamda 120 ta shaharda hokimlar tayinlandi va tasdiqlandi, ularning apparati - hokimiyatlar tuzildi?",
+    "javob": [
+      { "value": "1993- yil", "isTrue": true },
+      { "value": "1992- yil", "isTrue": false },
+      { "value": "1995- yil", "isTrue": false },
+      { "value": "1994- yil", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekiston Respublikasi Konstitutsiyasiga muvofiq, mahalliy davlat hokimiyati, hokimiyat organlari qaysi organlarga bo’lindi?",
+    "javob": [
+      { "value": "Vakillik va ijroiya hokimyatiga", "isTrue": true },
+      { "value": "Markaziy va mahalliy hokimyatga", "isTrue": false },
+      { "value": "Ijroiya va nazorat organlariga", "isTrue": false },
+      { "value": "Mahalliy va davlat organlariga", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Xalq deputatlari Kengashlari qaysi organga kiradi?",
+    "javob": [
+      { "value": "Mahalliy vakillik organiga", "isTrue": true },
+      { "value": "Davlat organiga", "isTrue": false },
+      { "value": "Ijroiya organiga", "isTrue": false },
+      { "value": "Boshqaruv organiga", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Xalq deputatlari Kengashlari ishining asosiy tashkiliy – huquqiy shakli bu……",
+    "javob": [
+      { "value": "Majlis", "isTrue": true },
+      { "value": "Kengash", "isTrue": false },
+      { "value": "Komissiya", "isTrue": false },
+      { "value": "Ombudsman", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Xalq deputatlari viloyat, tuman va shahar Kengashlariga saylov to‘g‘risida»gi Qonunda vakillik organlariga nechchi yoshga to‘lgan fuqarolar saylanadi?",
+    "javob": [
+      { "value": "21 yosh", "isTrue": true },
+      { "value": "18 yosh", "isTrue": false },
+      { "value": "25 yosh", "isTrue": false },
+      { "value": "30 yosh", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Xalq deputatlari viloyat va Toshkent shahar Kengashlariga ….. tadan ko‘p bo‘lmagan, tuman va shahar Kengashlariga esa …. tadan ko‘p bo‘lmagan deputatlar ….. yil muddatga saylanadi?",
+    "javob": [
+      { "value": "60\\ 30\\ 5", "isTrue": true },
+      { "value": "50\\ 20\\ 4", "isTrue": false },
+      { "value": "70\\ 40\\ 6", "isTrue": false },
+      { "value": "80\\ 50\\ 7", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Viloyat va Toshkent shahar hokimi kim tomonidan qonunga muvofiq tayinlanadi hamda lavozimidan ozod etiladi?",
+    "javob": [
+      { "value": "Prezident", "isTrue": true },
+      { "value": "Vitse-prezident", "isTrue": false },
+      { "value": "Parlament", "isTrue": false },
+      { "value": "Hokimiyat", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Tuman va shaharlarning hokimlari kim tomonidan tayinlanadi va lavozimidan ozod qilinadi?",
+    "javob": [
+      { "value": "Tegishli viloyat hokimi", "isTrue": true },
+      { "value": "Toshkent shahar hokimi", "isTrue": false },
+      { "value": "Oliy Kengash", "isTrue": false },
+      { "value": "Xalq deputatlari Kengashi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Tuman va shaharlarning hokimlari qaysi organ tomonidan tasdiqlanadi?",
+    "javob": [
+      { "value": "Xalq deputatlari kengashi", "isTrue": true },
+      { "value": "Oliy Kengash", "isTrue": false },
+      { "value": "Mahalliy hukumat", "isTrue": false },
+      { "value": "Davlat organi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Shaharlardagi tumanlarning hokimlari kim tomonidan tayinlanadi va lavozimidan ozod qilinadi?",
+    "javob": [
+      { "value": "Tegishli viloyat hokimi", "isTrue": true },
+      { "value": "Oliy Kengash", "isTrue": false },
+      { "value": "Toshkent shahar hokimi", "isTrue": false },
+      { "value": "Xalq deputatlari Kengashi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Tumanlarga bo‘ysunadigan shaharlarning hokimlari kim tomonidan tayinlanadi va lavozimidan ozod qilinadi?",
+    "javob": [
+      { "value": "Viloyat hokimi", "isTrue": true },
+      { "value": "Toshkent shahar hokimi", "isTrue": false },
+      { "value": "Oliy Kengash", "isTrue": false },
+      { "value": "Xalq deputatlari Kengashi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Viloyat hokimlari va Toshkent shahar hokimi kimning shu joylardagi vakili hisoblanadi?",
+    "javob": [
+      { "value": "O'zbekiston Respublikasi Prezidenti", "isTrue": true },
+      { "value": "Vitse-prezident", "isTrue": false },
+      { "value": "Parlament", "isTrue": false },
+      { "value": "Hokimiyat", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Hozirda deyarli jahonning barcha mamlakatlarida mahalliy o‘zini o‘zi boshqarish deb ataladigan institut O‘zbekistonda nima deb ataladi?",
+    "javob": [
+      { "value": "Fuqarolarning o'z o'zini boshqarish", "isTrue": true },
+      { "value": "Mahalliy hokimiyat", "isTrue": false },
+      { "value": "Davlat organi", "isTrue": false },
+      { "value": "Xalq yig‘ini", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Ko‘ppartiyaviylik tizimi nima?",
+    "javob": [
+      { "value": "Jamiyat hayotida ikki yoki undan ko'p siyosiy partiyaning mavjudligi", "isTrue": true },
+      { "value": "Bitta partiya tizimi", "isTrue": false },
+      { "value": "Siyosiy partiyalarning yo'qligi", "isTrue": false },
+      { "value": "Faoliyatni cheklash", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Jamiyatda demokratik huquqiy davlat barpo etishning asosiy garovi nima hisoblanadi?",
+    "javob": [
+      { "value": "Ko'ppartiyaviylikning bo'lishi", "isTrue": true },
+      { "value": "Siyosiy partiyalarning yo'qligi", "isTrue": false },
+      { "value": "Bitta partiya tizimi", "isTrue": false },
+      { "value": "Harbiy kuchlarning mavjudligi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Mustaqillik davrida tashkil topgan ilk siyosiy partiya bu……",
+    "javob": [
+      { "value": "Xalq demokratik partiyasi", "isTrue": true },
+      { "value": "Milliy tiklanish partiyasi", "isTrue": false },
+      { "value": "Sotsial-demokratik partiya", "isTrue": false },
+      { "value": "O'zbekiston Liberal-demokratik partiyasi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Sotsial-demokratik partiyalarning asosiy maqsadi nimaga qartilgan?",
+    "javob": [
+      { "value": "Vatan, taraqqiyot, ijtimoiy adolat yo‘lida jonini ham fido qilishga tayyor, elim deb, yurtim deb yonib yashaydigan fidokor shaxslarni birlashtirishdir", "isTrue": true },
+      { "value": "Siyosiy kuchlarni birlashtirish", "isTrue": false },
+      { "value": "Yalpi iqtisodiyotni rivojlantirish", "isTrue": false },
+      { "value": "Yoshlarni siyosatga jalb etish", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Qаytа qurishning eng birinchi nаtijаsi…",
+    "javob": [
+      { "value": "Oshkoralik", "isTrue": true },
+      { "value": "Siyosiy barqarorlik", "isTrue": false },
+      { "value": "Iqtisodiy rivojlanish", "isTrue": false },
+      { "value": "Ijtimoiy adolat", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Fаrg’оnа voqealаri sоdir bo’lgаn dаvrdа O’zbеkistоn SSR Kоmpаrtiyasining rаhbаri kim edi?",
+    "javob": [
+      { "value": "R. Nishonov", "isTrue": true },
+      { "value": "I. Karimov", "isTrue": false },
+      { "value": "A. A. Karimov", "isTrue": false },
+      { "value": "V. S. Shirinov", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "«Qаytа qurish» jаrаyoni qаysi sоhаni qаmrаb оldi?",
+    "javob": [
+      { "value": "Iqtisodiy sohani", "isTrue": true },
+      { "value": "Siyosiy sohani", "isTrue": false },
+      { "value": "Madaniyat", "isTrue": false },
+      { "value": "Ijtimoiy hayot", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "80-yillаrning ikkinchi yarmidа Mаrkаz bilаn O’zbеkistоn o’rtаsidаgi munоsаbаtlаrdа qаysi mаsаlаlаr mustаbid tuzumni inqirоzgа оlib bоruvchi аsоsiy оmil sifаtidа mаydоngа chiqdi?",
+    "javob": [
+      { "value": "Iqtisodiy masalalar", "isTrue": true },
+      { "value": "Siyosiy masalalar", "isTrue": false },
+      { "value": "Ijtimoiy masalalar", "isTrue": false },
+      { "value": "Harbiy masalalar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Iqtisоdiy islоhоtning yangilаngаn kоnsеpsiyasi bоshqаrishning… o’tishgа yo’nаltirildi.",
+    "javob": [
+      { "value": "Iqtisodiy usullariga", "isTrue": true },
+      { "value": "Siyosiy usullariga", "isTrue": false },
+      { "value": "Ijtimoiy usullariga", "isTrue": false },
+      { "value": "Ommaviy usullariga", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Ijtimоiy-siyosiy sоhаdа «qаytа qurish» siyosаtining аsоsiy ziddiyati…hukmrоnligidа edi.",
+    "javob": [
+      { "value": "KPSS ning", "isTrue": true },
+      { "value": "O'zbekistonning", "isTrue": false },
+      { "value": "Mustaqillikning", "isTrue": false },
+      { "value": "Demokratiyaning", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "1989 yil mаy-iyun оylаridа qаysi viloyatlardа millаtlаrаrо mоjаrоlаr ro’y bеrdi?",
+    "javob": [
+      { "value": "Farg'ona, Toshkent, Andijon", "isTrue": true },
+      { "value": "Samarqand, Jizzax", "isTrue": false },
+      { "value": "Buxoro, Xorazm", "isTrue": false },
+      { "value": "Nukus, Qarshi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "6+2 fоrmulаsi аsоsidа Аfg’оnistоndagi mоjаrоlаrning оldini оlishgа bаg’ishlаngаn uchrаshuv o’tkаzilgаn shаhаrni аniqlаng.",
+    "javob": [
+      { "value": "Toshkent shahri", "isTrue": true },
+      { "value": "Samarqand", "isTrue": false },
+      { "value": "Andijon", "isTrue": false },
+      { "value": "Buxoro", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“Xabeas korpus” institutini qo’llash sohasini kengaytirish, tergov ustidan sud nazoratini kuchaytirishga oid masala Harakatlar strategiyasining qaysi yo’nalishida qamrab olingan?",
+    "javob": [
+      { "value": "Ikkinchi", "isTrue": true },
+      { "value": "Birinchi", "isTrue": false },
+      { "value": "Uchinchi", "isTrue": false },
+      { "value": "To'rtinchi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O‘zbekiston Respublikasi Prezident Sh.M.Mirziyoyevning Oliy Majlisga To’rtinchi Murojaatnomasi qachon e’lon qilindi?",
+    "javob": [
+      { "value": "2020-yil 29-dekabrda", "isTrue": true },
+      { "value": "2019-yil 1-yanvarda", "isTrue": false },
+      { "value": "2021-yil 10-martda", "isTrue": false },
+      { "value": "2020-yil 1-sentyabrda", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "2018 yil holatiga ko`ra O`zbekistonni qancha xorijiy davlatlar tan olgan?",
+    "javob": [
+      { "value": "180 ga yaqin", "isTrue": true },
+      { "value": "150 ta", "isTrue": false },
+      { "value": "200 ta", "isTrue": false },
+      { "value": "170 ta", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O`zbekiston Respublikasi Prezidenti Shavkat Mirziyoyev 2017-yil 19-sentabrda...?",
+    "javob": [
+      { "value": "Birlashgan Millatlar Tashkiloti Bosh Assambleyasining 72-sessiyasida nutq so`zladi.", "isTrue": true },
+      { "value": "Yevropa Ittifoqi rahbarlari bilan uchrashuvda nutq so`zladi.", "isTrue": false },
+      { "value": "O‘zbekistonning iqtisodiy rivojlanishiga bag‘ishlangan konferensiyada nutq so‘zladi.", "isTrue": false },
+      { "value": "O‘zbekistonning xavfsizlik masalalariga bag‘ishlangan sessiyada nutq so`zladi.", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "1991 yil 8-dekabrda .....?",
+    "javob": [
+      { "value": "Minskda – Rossiya, Ukraina va Belorus rahbarlarining uchrashuvida Mustaqil Davlatlar Hamdo`stligi (MDH) ni tuzish to`g`risida shartnoma imzoladilar.", "isTrue": true },
+      { "value": "Toshkentda – O'zbekistonning mustaqilligini e'lon qildi.", "isTrue": false },
+      { "value": "Buxoroda – O'zbekiston Respublikasining yangi konstitutsiyasini qabul qildi.", "isTrue": false },
+      { "value": "Samarqandda – iqtisodiy rivojlanish masalalarini muhokama qildi.", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Bugungi kunda mamlakatimizda nechta tillarda teleradio eshittirishlar efirga chiqmoqda?",
+    "javob": [
+      { "value": "12 til", "isTrue": true },
+      { "value": "8 til", "isTrue": false },
+      { "value": "10 til", "isTrue": false },
+      { "value": "15 til", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Vijdon erkinligi va diniy tashkilotlar to'g'risidagi qonunning yangi tahriri qachon qabul qilingan?",
+    "javob": [
+      { "value": "2021-yil 6-iyul", "isTrue": true },
+      { "value": "2020-yil 1-yanvar", "isTrue": false },
+      { "value": "2019-yil 20-noyabr", "isTrue": false },
+      { "value": "2022-yil 15-mart", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O'zbekiston Respublikasi BMTning Korrupsiyaga qarshi kurashiga qachon qo'shilgan?",
+    "javob": [
+      { "value": "2008-yilda qo'shilgan", "isTrue": true },
+      { "value": "2010-yilda qo'shilgan", "isTrue": false },
+      { "value": "2005-yilda qo'shilgan", "isTrue": false },
+      { "value": "2012-yilda qo'shilgan", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Respublikamiz Prezidenti Shavkat Mirziyoyev qaysi muhim tadbirda “Jahon bankining “Biznes yuritish” reytingida eng yaxshi 50 ta mamlakat qatoriga kirish bo`yicha barcha tashkiliy-huquqiy chora-tadbirlarni qabul qildik. Hukumat ushbu tadbirlarning amaliy ijrosini samarali tashkil etishi zarur” deb ta’kidlagan edi?",
+    "javob": [
+      { "value": "2020 yil yanvardagi Oliy Majlisga qilgan Murojaatnomasida", "isTrue": true },
+      { "value": "2019 yil dekabrdagi Oliy Majlisga qilgan Murojaatnomasida", "isTrue": false },
+      { "value": "2018 yil fevraldagi Oliy Majlisga qilgan Murojaatnomasida", "isTrue": false },
+      { "value": "2021 yil martdagi Oliy Majlisga qilgan Murojaatnomasida", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri O’zbekiston Respublikasining tashqi siyosati printsiplariga to’g’ri kelmaydi?",
+    "javob": [
+      { "value": "fuqarolarning munosib hayotlarini ta’minlash", "isTrue": true },
+      { "value": "Xalqaro hamkorlik", "isTrue": false },
+      { "value": "Mulkchilikni hurmat qilish", "isTrue": false },
+      { "value": "Siyosiy mustaqillik", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "1994 yil 28 sentyabr kuni O’zbekiston qanday xalqaro tashkilotga a’zo bo’ldi?",
+    "javob": [
+      { "value": "Jahon Bojxona tashkilotiga", "isTrue": true },
+      { "value": "Birlashgan Millatlar Tashkilotiga", "isTrue": false },
+      { "value": "Yevropa Ittifoqiga", "isTrue": false },
+      { "value": "Osiyo-Tinch okeani iqtisodiy hamkorligiga", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Ma`lumki Harakatlar strategiyasidagi islohorlarga ko’ra soliqlar turi 16 tadan nechtaga qisqardi?",
+    "javob": [
+      { "value": "9 taga qisqardi", "isTrue": true },
+      { "value": "8 taga qisqardi", "isTrue": false },
+      { "value": "10 taga qisqardi", "isTrue": false },
+      { "value": "7 taga qisqardi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekistonda faoliyat ko’rsatayotgan yirik firma va kompaniyalar orasidan qaysilari Pokistonga tegishli?",
+    "javob": [
+      { "value": "Metro, Tabani", "isTrue": true },
+      { "value": "Xalqlar do‘stligi", "isTrue": false },
+      { "value": "O‘zbekneftgaz", "isTrue": false },
+      { "value": "Qishloq qurilish", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekiston NATOning «Tinchlik yo’lida hamkorlik» dasturiga qachon qo’shilgan?",
+    "javob": [
+      { "value": "1995-yil", "isTrue": true },
+      { "value": "1996-yil", "isTrue": false },
+      { "value": "1994-yil", "isTrue": false },
+      { "value": "1993-yil", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“O'zbekiston Respublikasini yanada rivojlantirish bo'yicha Harakatlar strategiyasi to'g'risida”gi Farmoni loyihasi nechanchi yilda tasdiqlandi?",
+    "javob": [
+      { "value": "2017 yil 7 fevral", "isTrue": true },
+      { "value": "2016 yil 15 yanvar", "isTrue": false },
+      { "value": "2018 yil 1 mart", "isTrue": false },
+      { "value": "2019 yil 10 aprel", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekistonning qaysi viloyatida Xitoyning «Nunkel» firmasi bilan hamkorlikda yo’g’och tolali plita ishlab chiqarish yo’lga qo’yilgan?",
+    "javob": [
+      { "value": "Samarqand", "isTrue": true },
+      { "value": "Buxoro", "isTrue": false },
+      { "value": "Toshkent", "isTrue": false },
+      { "value": "Andijon", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekiston Respublikasida ... xalqaro shartnomalarni ratifikasiya qilish huquqiga ega.",
+    "javob": [
+      { "value": "Vazirlar Mahkamasi", "isTrue": true },
+      { "value": "Oliy Majlis", "isTrue": false },
+      { "value": "Prezident", "isTrue": false },
+      { "value": "Ijtimoiy tashkilotlar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Fuqarolik jamiyatida passiv fuqaro qanday namoyon bo’ladi?",
+    "javob": [
+      { "value": "Ijtimoiy munisabatlar va jarayonlarga befarq", "isTrue": true },
+      { "value": "Faol ishtirok etuvchi", "isTrue": false },
+      { "value": "Faoliyatni cheklovchi", "isTrue": false },
+      { "value": "Ijtimoiy faollik ko'rsatuvchi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekiston xalqini kimlar tashkil qiladi?",
+    "javob": [
+      { "value": "Millatidan qat'iy nazar O'zbekiston fuqarolari", "isTrue": true },
+      { "value": "Faqat o'zbeklar", "isTrue": false },
+      { "value": "Fuqaro bo'lmaganlar", "isTrue": false },
+      { "value": "Tashqi migrantlar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekiston Prezidenti farmonlari va qarorlarining ijrosini ta’minlovchi organni toping.",
+    "javob": [
+      { "value": "Vazirlar mahkamasi", "isTrue": true },
+      { "value": "Oliy Majlis", "isTrue": false },
+      { "value": "Tashqi ishlar vazirligi", "isTrue": false },
+      { "value": "Iqtisodiy rivojlanish vazirligi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Innovasiya – bu….",
+    "javob": [
+      { "value": "Bozor talablaridan kelib chiqqan holda jarayonlar va mahsulotlarning sifotli o'sish samaradorligini ta'minlash uchun joriy etilgan yangilikdir", "isTrue": true },
+      { "value": "Yangi mahsulot ishlab chiqarish", "isTrue": false },
+      { "value": "Texnologiyalarni yangilash", "isTrue": false },
+      { "value": "Tadqiqotlar o'tkazish", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“Tarixiy xotirasi bor inson - irodali inson”, degan g’oyani kim ilgari surgan?",
+    "javob": [
+      { "value": "I.A. Karimov", "isTrue": true },
+      { "value": "Sh.M. Mirziyoyev", "isTrue": false },
+      { "value": "A. Navoi", "isTrue": false },
+      { "value": "Al-Farobi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Ezgulik haqidagi qaysi tarixiy manba «Hayot yo'riqnomasi» deb ataladi?",
+    "javob": [
+      { "value": "Avesto", "isTrue": true },
+      { "value": "Quron", "isTrue": false },
+      { "value": "Talmud", "isTrue": false },
+      { "value": "Buddha ta'limotlari", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Davlat va jamiyat boshqaruvida Oliy Majlis qanday organ?",
+    "javob": [
+      { "value": "Qonun ishlab chiqaruvchi va qabul qiluvchi", "isTrue": true },
+      { "value": "Ijtimoiy tashkilot", "isTrue": false },
+      { "value": "Mahalliy hokimiyat", "isTrue": false },
+      { "value": "Nazorat organi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“Xalq davlat idorasiga emas, davlat idoralari xalqqa xizmat qilishi kerak” degan tamoyilni ilgari surgan davlat rahbarini ko’rsating.",
+    "javob": [
+      { "value": "Sh. Mirziyoyev", "isTrue": true },
+      { "value": "I.A. Karimov", "isTrue": false },
+      { "value": "A. Navoi", "isTrue": false },
+      { "value": "Al-Farobi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "2017 yil 22 dekabrda Prezident Sh.Mirziyoyevning Parlamentdagi Murojaatnomasida mamlakatimizda 2017 yilda nechta erkin iqtisodiy zona va sanoat zonasi qurib ishga tushirilishi rejalashtirilgan edi?",
+    "javob": [
+      { "value": "12 ta erkin iqtisodiy, 45 sanoat zonasi", "isTrue": true },
+      { "value": "10 ta erkin iqtisodiy, 40 sanoat zonasi", "isTrue": false },
+      { "value": "15 ta erkin iqtisodiy, 50 sanoat zonasi", "isTrue": false },
+      { "value": "8 ta erkin iqtisodiy, 30 sanoat zonasi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "G’arb davlatlariga xos demokratiyaning asosiy xususiyatlarini ko’rsating?",
+    "javob": [
+      { "value": "Erkinlik to'g'risida fikr yurutilganda asosan alohida olingan shaxs erkinligi va huquqlaridan kelib chiqqan holda yondashiladi", "isTrue": true },
+      { "value": "Siyosiy partiyalarning mavjudligi", "isTrue": false },
+      { "value": "Ijtimoiy tenglik", "isTrue": false },
+      { "value": "Qonun ustuvorligi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Sharqona demokratiyaning asosiy xususiyatini ko’rsating?",
+    "javob": [
+      { "value": "Milliy bosiqlik, andisha, yoshi ulug'larga hurmat, o'zaro maslahat", "isTrue": true },
+      { "value": "Siyosiy erkinlik", "isTrue": false },
+      { "value": "Har qanday qaror mustaqil qabul qilinadi", "isTrue": false },
+      { "value": "Jamoatchilik fikri", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekiston Respublikasi Prezidenti Sh.M.Mirziyoyevning fikricha, jamiyat rivojiga g’ov bo’layotgan yana bir illat bu ...",
+    "javob": [
+      { "value": "Korrupsiya", "isTrue": true },
+      { "value": "Ijtimoiy adolatsizlik", "isTrue": false },
+      { "value": "O'zaro kelishmovchilik", "isTrue": false },
+      { "value": "Siyosiy beqarorlik", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekistonning 2017-2021 yillarda yanada rivojlanishining “Harakatlar strategiyasi”da ta’lim tizimini isloh qilish bo’limi qaysi ustuvor yo’nalishda aks ettirilgan?",
+    "javob": [
+      { "value": "4 yo'nalishda", "isTrue": true },
+      { "value": "2 yo'nalishda", "isTrue": false },
+      { "value": "3 yo'nalishda", "isTrue": false },
+      { "value": "5 yo'nalishda", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "“Adolat – qonun ustuvorligida” degan tamoyil kimga tegishli?",
+    "javob": [
+      { "value": "Sh. M. Mirziyoyev", "isTrue": true },
+      { "value": "I.A. Karimov", "isTrue": false },
+      { "value": "A. Navoi", "isTrue": false },
+      { "value": "Al-Farobi", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekistonni 2017-2021 yillarda rivojlantirishning “Harakatlar strategiyasi”da Xavfsizlik, millatlararo totuvlik va diniy bag’rikenglikni ta’minlash hamda chuqur o’ylangan, o’zaro manfaatli va amaliy tashqi siyosat nomli beshinchi ustuvor yo’nalishi necha qismdan iborat?",
+    "javob": [
+      { "value": "2 ta", "isTrue": true },
+      { "value": "3 ta", "isTrue": false },
+      { "value": "4 ta", "isTrue": false },
+      { "value": "5 ta", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Shanxay Hamkorlik Tashkilotining rasmiy tili .... hisoblanadi.",
+    "javob": [
+      { "value": "Rus tili , xitoy", "isTrue": true },
+      { "value": "O'zbek tili", "isTrue": false },
+      { "value": "Ingliz tili", "isTrue": false },
+      { "value": "Fransuz tili", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Qaysi davlatning «Shanxay forumi»ga kirishi munosabati bilan uning nomi «Shanxay Hamkorlik Tashkiloti – ShHT» deb o`zgartirildi?",
+    "javob": [
+      { "value": "O'zbekiston", "isTrue": true },
+      { "value": "Qozog'iston", "isTrue": false },
+      { "value": "Rossiya", "isTrue": false },
+      { "value": "Xitoy", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "YUNESKO qaroriga binoan qaysi shaharda Markaziy Osiyo tadqiqotlari xalqaro instituti tashkil etilgan?",
+    "javob": [
+      { "value": "Samarqandda", "isTrue": true },
+      { "value": "Toshkentda", "isTrue": false },
+      { "value": "Buxoroda", "isTrue": false },
+      { "value": "Nukusda", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekistonning 2017-2021 yillarda rivojlantirishning “Harakatlar strategiyasi”ning ikkinchi ustuvor yo’nalishi – “Qonun ustuvorligini ta’minlash va sud-huquq tizimini yanada isloh qilish” necha qismdan iborat?",
+    "javob": [
+      { "value": "6 ta", "isTrue": true },
+      { "value": "5 ta", "isTrue": false },
+      { "value": "4 ta", "isTrue": false },
+      { "value": "7 ta", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekistonning 2017-2021 yillarda rivojlantirishning “Harakatlar strategiyasi”ning birinchi ustuvor yo’nalishi – “Davlat va jamiyat qurilishini takomillashtirish” necha qismdan iborat?",
+    "javob": [
+      { "value": "3 ta", "isTrue": true },
+      { "value": "2 ta", "isTrue": false },
+      { "value": "5 ta", "isTrue": false },
+      { "value": "4 ta", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "O’zbekistonda 2017 yilga qanday nom berilgan edi?",
+    "javob": [
+      { "value": "Xalq bn muloqit va inson manfaatlari yili", "isTrue": true },
+      { "value": "Ta'lim yili", "isTrue": false },
+      { "value": "Sog'lom turmush tarzi yili", "isTrue": false },
+      { "value": "Madaniyat yili", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Harakatlar strategiyasiga qanday masalalar kiritilgan?",
+    "javob": [
+      { "value": "Ijtimoiy-siyosiy, sotsial-iqtisodiy, madaniy-gumanitar yo'nalishning konseptual masalalari", "isTrue": true },
+      { "value": "Faoliyatni cheklovchi masalalar", "isTrue": false },
+      { "value": "Siyosiy partiyalarni rivojlantirish masalalari", "isTrue": false },
+      { "value": "Fuqaro huquqlarini cheklovchi masalalar", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Harakatlar strategiyasining maqsadi?",
+    "javob": [
+      { "value": "Olib borilayotgan islohotlar samaradorligini tubdan oshirish, davlat va jamiyatning har tomonlama va jadal rivojlanishini ta'minlash uchun shart-sharoitlar yaratish", "isTrue": true },
+      { "value": "Fuqaro huquqlarini cheklash", "isTrue": false },
+      { "value": "Siyosiy partiyalarning ta'sirini kamaytirish", "isTrue": false },
+      { "value": "Yalpi iqtisodiyotni rivojlantirish", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "2017-2021 yillarda O'zbekistonni rivojlantirish bo'yicha Harakatlar strategiyasining yo'nalishlari to'g'ri keltirilgan qatorni toping?",
+    "javob": [
+      { "value": "Davlat va jamiyat qurilishini takomillashtirish. Qonun ustuvorligini ta'minlash va sud-huquq tizimini yanada isloh qilish. Iqtisodiyotni yanada rivojlantirish va liberallashtirish, ijtimoiy sohani rivojlantirish. Xavfsizlik, millatlararo totuvlik, diniy bag'rikenglikni ta'minlash, chuqur o'ylangan, o'zaro manfaatli va amaliy ruhdagi tashqi siyosat yuritish", "isTrue": true },
+      { "value": "Milliy xavfsizlikni ta'minlash. Iqtisodiyotni rivojlantirish. Ommaviy axborot vositalarini rivojlantirish. Fuqarolar huquqlarini cheklash", "isTrue": false },
+      { "value": "Siyosiy partiyalarga erkinlik berish. Xalqaro aloqalarni rivojlantirish. Moliya sohasida islohotlar o'tkazish", "isTrue": false },
+      { "value": "O'zbekistonning iqtisodiy rivojlanishini cheklash. Ijtimoiy hayotni yengillashtirish. Qonunlarni kuchaytirish", "isTrue": false }
+    ]
+  },
+  {
+    "savol": "Harakatlar strategiyasini amalga oshirish bo'yicha Milliy komissiyaga kim rahbarlik qilgan?",
+    "javob": [
+      { "value": "Sh. M. Mirziyoyev", "isTrue": true },
+      { "value": "I.A. Karimov", "isTrue": false },
+      { "value": "A. Navoi", "isTrue": false },
+      { "value": "Al-Farobi", "isTrue": false }
+     ]
+    }
+]
